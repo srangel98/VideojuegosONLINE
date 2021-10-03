@@ -1,0 +1,1596 @@
+﻿Log file open, 09/30/21 16:59:02
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Proyecto_V3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.635819
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.09.30-21.59.04:601][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.09.30-21.59.04:601][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.09.30-21.59.04:601][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.09.30-21.59.04:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.09.30-21.59.04:602][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.09.30-21.59.04:621][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.30-21.59.04:621][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.30-21.59.04:622][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.30-21.59.04:622][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.09.30-21.59.04:622][  0]LogHAL: Display: Platform has ~ 12 GB [12764549120 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.30-21.59.04:622][  0]LogInit: Going up to parent DeviceProfile []
+[2021.09.30-21.59.04:622][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.30-21.59.04:622][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.30-21.59.04:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.30-21.59.04:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.30-21.59.04:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.30-21.59.04:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.30-21.59.04:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.30-21.59.04:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.30-21.59.04:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.30-21.59.04:624][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:624][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.30-21.59.04:624][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.30-21.59.04:624][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-21.59.04:624][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.30-21.59.04:624][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.30-21.59.04:624][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.30-21.59.04:624][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.09.30-21.59.04:625][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.09.30-21.59.04:625][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.09.30-21.59.04:625][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.09.30-21.59.04:625][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.09.30-21.59.04:625][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Editor.ini]
+[2021.09.30-21.59.04:625][  0]LogInit: Computer: LAPTOP-7SS8842A
+[2021.09.30-21.59.04:625][  0]LogInit: User: amg05
+[2021.09.30-21.59.04:625][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.09.30-21.59.04:625][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.09.30-21.59.04:625][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2021.09.30-21.59.04:625][  0]LogMemory: Platform Memory Stats for Windows
+[2021.09.30-21.59.04:625][  0]LogMemory: Process Physical Memory: 135.34 MB used, 135.35 MB peak
+[2021.09.30-21.59.04:625][  0]LogMemory: Process Virtual Memory: 117.68 MB used, 117.68 MB peak
+[2021.09.30-21.59.04:625][  0]LogMemory: Physical Memory: 9467.58 MB used,  2705.64 MB free, 12173.22 MB total
+[2021.09.30-21.59.04:625][  0]LogMemory: Virtual Memory: 134204120.00 MB used,  13611.56 MB free, 134217728.00 MB total
+[2021.09.30-21.59.04:635][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.09.30-21.59.04:710][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.09.30-21.59.04:711][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.09.30-21.59.04:711][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.09.30-21.59.04:994][  0]LogInit: Setting process to per monitor DPI aware
+[2021.09.30-21.59.05:005][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.30-21.59.05:019][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.09.30-21.59.05:019][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.09.30-21.59.05:285][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.30-21.59.05:285][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.09.30-21.59.05:285][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.09.30-21.59.05:285][  0]LogD3D11RHI: D3D11 adapters:
+[2021.09.30-21.59.05:491][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.09.30-21.59.05:491][  0]LogD3D11RHI:       4019/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.09.30-21.59.05:506][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.09.30-21.59.05:506][  0]LogD3D11RHI:       128/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.09.30-21.59.05:509][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.09.30-21.59.05:509][  0]LogD3D11RHI:       0/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.09.30-21.59.05:509][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.09.30-21.59.05:518][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.09.30-21.59.05:518][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2021.09.30-21.59.05:518][  0]LogWindows: EnumDisplayDevices:
+[2021.09.30-21.59.05:518][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.09.30-21.59.05:519][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.09.30-21.59.05:519][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.09.30-21.59.05:520][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.09.30-21.59.05:520][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.09.30-21.59.05:520][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.09.30-21.59.05:520][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2021.09.30-21.59.05:520][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2021.09.30-21.59.05:520][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2021.09.30-21.59.05:624][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.09.30-21.59.05:624][  0]LogD3D11RHI: Async texture creation enabled
+[2021.09.30-21.59.05:624][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.09.30-21.59.05:642][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.09.30-21.59.05:645][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.09.30-21.59.06:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.09.30-21.59.06:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.09.30-21.59.06:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.09.30-21.59.06:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.09.30-21.59.06:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.09.30-21.59.06:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.09.30-21.59.06:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.09.30-21.59.06:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.09.30-21.59.06:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.09.30-21.59.06:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.09.30-21.59.06:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.09.30-21.59.06:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.09.30-21.59.06:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.09.30-21.59.06:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.09.30-21.59.06:832][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.09.30-21.59.06:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.09.30-21.59.06:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.09.30-21.59.06:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.09.30-21.59.06:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.09.30-21.59.06:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.09.30-21.59.06:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.09.30-21.59.06:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.09.30-21.59.06:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.09.30-21.59.06:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.09.30-21.59.06:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.09.30-21.59.06:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.09.30-21.59.07:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.09.30-21.59.07:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.09.30-21.59.07:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.09.30-21.59.07:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.09.30-21.59.07:048][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.09.30-21.59.07:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.09.30-21.59.07:061][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.09.30-21.59.07:073][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.09.30-21.59.07:162][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.09.30-21.59.07:162][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Intermediate/Shaders/WorkingDirectory/7792/).
+[2021.09.30-21.59.07:162][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/amg05/AppData/Local/Temp/UnrealShaderWorkingDir/83C5150A404FF60E3EB58991F79BD9DB/'.
+[2021.09.30-21.59.07:162][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.09.30-21.59.07:162][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.30-21.59.08:123][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.30-21.59.08:200][  0]LogDerivedDataCache: Loaded boot cache 0.08s 77MB C:/Users/amg05/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.30-21.59.08:201][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/amg05/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.09.30-21.59.08:306][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.30-21.59.08:306][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.30-21.59.08:306][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.30-21.59.08:306][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.30-21.59.08:320][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.30-21.59.08:320][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.30-21.59.08:320][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.09.30-21.59.08:522][  0]LogDerivedDataCache: Speed tests for C:/Users/amg05/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.20 seconds
+[2021.09.30-21.59.08:522][  0]LogDerivedDataCache: Display: Performance to C:/Users/amg05/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=190.70MBs, RandomWriteSpeed=4.73MBs. Assigned SpeedClass 'Local'
+[2021.09.30-21.59.08:523][  0]LogDerivedDataCache: Using Local data cache path C:/Users/amg05/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.30-21.59.08:523][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.30-21.59.08:523][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.30-21.59.08:586][  0]LogSlate: Using FreeType 2.10.0
+[2021.09.30-21.59.08:587][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.30-21.59.08:625][  0]LogAssetRegistry: FAssetRegistry took 0.0043 seconds to start up
+[2021.09.30-21.59.11:495][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.30-21.59.11:495][  0]LogInit: Active device profile: [000001C6EF01EC00][000001C6ECD58A80 49] Windows
+[2021.09.30-21.59.11:495][  0]LogInit: Profiles: [000001C6EF01EC00][000001C6ECD58A80 49] Windows, [000001C6EEFA9600][000001C6ECD60C00 49] WindowsNoEditor, [000001C6EF01D600][000001C6ECD64D80 49] WindowsServer, [000001C6EEFAA400][000001C6ECD68F00 49] WindowsClient, [000001C6EF01E300][000001C6ECD6D080 49] IOS, [000001C6EEFA9500][000001C6EE0BF200 49] iPadAir, [000001C6EF01D400][000001C6EE0C3380 49] iPadAir2, [000001C6EEF53D00][000001C6EE0CB640 49] IPadPro, [000001C6EEF53E00][000001C6EE0C7680 49] iPadAir3, [000001C6EF01F400][000001C6ECD5D7C0 49] iPadAir4, [000001C6EEF51B00][000001C6EE0CF900 49] iPadMini2, [000001C6EF01E900][000001C6EE11BA40 49] iPadMini3, [000001C6EEF50900][000001C6EE11FB80 49] iPadMini4, [000001C6EF01F000][000001C6EE127D00 49] iPadMini5, [000001C6EEF9F600][000001C6EF9A4300 49] iPhone6, [000001C6EEF9F700][000001C6EE17A340 49] iPodTouch6, [000001C6EEF50100][000001C6EFA46600 49] iPhone7, [000001C6EEF51C00][000001C6EFA42640 49] iPodTouch7, [000001C6EEF9DA00][000001C6EFAE27C0 49] iPhone5S, [000001C6EEF52800][000001C6EFB14940 49] iPhone6Plus, [000001C6EEF9FB00][000001C6EFB18AC0 49] iPhone6S, [000001C6EEF51900][000001C6EFB1CC40 49] iPhone6SPlus, [000001C6EEF9F200][000001C6EFB20DC0 49] iPhone7Plus, [000001C6EEF53800][000001C6EFB24F40 49] iPhoneSE, [000001C6EEF9DC00][000001C6EFB290C0 49] iPhone8, [000001C6EEF52400][000001C6EFB2D240 49] iPhone8Plus, [000001C6EEF9E200][000001C6EFB413C0 49] iPhoneX, [000001C6EEF53900][000001C6EFB45540 49] iPhoneXS, [000001C6EEF9D900][000001C6EFB496C0 49] iPhoneXSMax, [000001C6EEF52D00][000001C6EE123800 49] iPhoneXR, [000001C6EEF9D800][000001C6EFB4D940 49] iPhone11, [000001C6EEF50300][000001C6EFB51A80 49] iPhone11Pro, [000001C6EEF9FC00][000001C6EFB6DBC0 49] iPhone11ProMax, [000001C6EEF52500][000001C6EFC9BD40 49] iPhoneSE2, [000001C6EEF9E800][000001C6EFCBC200 49] iPhone12Mini, [000001C6EEF52900][000001C6EFCEA380 49] iPhone12, [000001C6EEF9C600][000001C6EFCEE500 49] iPhone12Pro, [000001C6EEF51500][000001C6EFCF2680 49] iPhone12ProMax, [000001C6EEF9F100][000001C6EFCF6800 49] iPadPro105, [000001C6EEF50600][000001C6EFCFA980 49] iPadPro129, [000001C6EEF9C800][000001C6EFCFEB00 49] iPadPro97, [000001C6EEF52000][000001C6EFD02C80 49] iPadPro2_129, [000001C6EEF9E000][000001C6EFD06E00 49] iPad5, [000001C6EEF52600][000001C6EFD0AF80 49] iPad6, [000001C6EEF9FE00][000001C6EFD0F100 49] iPad7, [000001C6EEF53400][000001C6EFD13280 49] iPad8, [000001C6EEF9D300][000001C6EFD17400 49] iPadPro11, [000001C6EEF52F00][000001C6EFD1B580 49] iPadPro2_11, [000001C6EEF9E500][000001C6EFD1F700 49] iPadPro3_129, [000001C6EEF51200][000001C6EFD23880 49] iPadPro4_129, [000001C6EEF9EB00][000001C6EFC979C0 49] AppleTV, [000001C6EEF53C00][000001C6EFD27B00 49] AppleTV4K, [000001C6EEF9C400][000001C6EFD2BC40 49] TVOS, [000001C6EEFA8F00][000001C6EFD32100 49] Mac, [000001C6EF070700][000001C6EFD36280 49] MacClient, [000001C6EEFAB400][000001C6EFD3A400 49] MacNoEditor, [000001C6EF070F00][000001C6EFD3E580 49] MacServer, [000001C6EEFAA600][000001C6EFD42700 49] Linux, [000001C6EF071100][000001C6EFD46880 49] LinuxAArch64, [000001C6EEFAA700][000001C6EFD4AA00 49] LinuxNoEditor, [000001C6EF070500][000001C6EFD4EB80 49] LinuxAArch64NoEditor, [000001C6EEFAB000][000001C6EFD52D00 49] LinuxClient, [000001C6EEF9C500][000001C6EFD56E80 49] LinuxAArch64Client, [000001C6EEFAA100][000001C6EFD5B000 49] LinuxServer, [000001C6EEF9EC00][000001C6EFD5F180 49] LinuxAArch64Server, [000001C6EEFABC00][000001C6EFD63300 49] Android, [000001C6EEF9C700][000001C6EFD67480 49] Android_Low, [000001C6EEFA8600][000001C6EFD6B600 49] Android_Mid, [000001C6EEF9DB00][000001C6EFD6F780 49] Android_High, [000001C6EEFA8100][000001C6EFD73900 49] Android_Default, [000001C6EEF9CF00][000001C6EFD2FA40 49] Android_Adreno4xx, [000001C6EEFAAE00][000001C6EFD77B80 49] Android_Adreno5xx_Low, [000001C6EEF9F900][000001C6EFD7BCC0 49] Android_Adreno5xx, [000001C6EEFAB300][000001C6EFD82180 49] Android_Adreno6xx, [000001C6EEF9F300][000001C6EFD86300 49] Android_Adreno6xx_Vulkan, [000001C6EEFAB100][000001C6EFD8A480 49] Android_Mali_T6xx, [000001C6EEF9CC00][000001C6EFD92600 49] Android_Mali_T7xx, [000001C6EEFA9F00][000001C6EFD96780 49] Android_Mali_T8xx, [000001C6EEF9FD00][000001C6EFD9A900 49] Android_Mali_G71, [000001C6EEFA8200][000001C6EFD9EA80 49] Android_Mali_G72, [000001C6EEF9D100][000001C6EFDA2C00 49] Android_Mali_G72_Vulkan, [000001C6EEFA9E00][000001C6EFDA6D80 49] Android_Mali_G76, [000001C6EEF9D700][000001C6EFDAAF00 49] Android_Mali_G76_Vulkan, [000001C6EEFAAD00][000001C6EFDAF080 49] Android_Mali_G77, [000001C6EEF9C900][000001C6EFDB3200 49] Android_Mali_G77_Vulkan, [000001C6EEFA8E00][000001C6EFDB7380 49] Android_Vulkan_SM5, [000001C6EEF9E900][000001C6EFDBB500 49] Android_PowerVR_G6xxx, [000001C6EEFA8C00][000001C6EFDBF680 49] Android_PowerVR_GT7xxx, [000001C6EEF9EA00][000001C6EFDC3800 49] Android_PowerVR_GE8xxx, [000001C6EEFA8300][000001C6EFDC7980 49] Android_PowerVR_GM9xxx, [000001C6EEF9E600][000001C6EFD7FAC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001C6EEFAAC00][000001C6EFDCBC00 49] Android_TegraK1, [000001C6EEF9C100][000001C6EFDCFD40 49] Android_Unknown_Vulkan, [000001C6EF01E100][000001C6EFDD21C0 49] Lumin, [000001C6EEF52A00][000001C6EFDDA340 49] Lumin_Desktop, [000001C6EF01C300][000001C6EFDDE4C0 49] HoloLens, 
+[2021.09.30-21.59.11:648][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.30-21.59.11:648][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.09.30-21.59.11:648][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.30-21.59.11:648][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.09.30-21.59.11:648][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.09.30-21.59.11:671][  0]LogNetVersion: Proyecto_V3 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2954844583)
+[2021.09.30-21.59.12:703][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.09.30-21.59.13:132][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.428935 seconds
+[2021.09.30-21.59.13:138][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.09.30-21.59.13:138][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.09.30-21.59.13:138][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.09.30-21.59.13:684][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.30-21.59.13:690][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.09.30-21.59.13:861][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.09.30-21.59.13:861][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.09.30-21.59.13:861][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.09.30-21.59.13:900][  0]SourceControl: Source control is disabled
+[2021.09.30-21.59.13:900][  0]SourceControl: Source control is disabled
+[2021.09.30-21.59.13:905][  0]SourceControl: Source control is disabled
+[2021.09.30-21.59.13:909][  0]SourceControl: Source control is disabled
+[2021.09.30-21.59.13:926][  0]SourceControl: Source control is disabled
+[2021.09.30-21.59.13:934][  0]LogUProjectInfo: Found projects:
+[2021.09.30-21.59.14:285][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.09.30-21.59.14:314][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.30-21.59.14:314][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.30-21.59.14:384][  0]LogCollectionManager: Loaded 0 collections in 0.002682 seconds
+[2021.09.30-21.59.14:415][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Collections/' took 0.00s
+[2021.09.30-21.59.14:416][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Developers/amg05/Collections/' took 0.00s
+[2021.09.30-21.59.14:416][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Collections/' took 0.00s
+[2021.09.30-21.59.14:416][  0]LogOcInput: OculusInput pre-init called
+[2021.09.30-21.59.14:432][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.09.30-21.59.14:432][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.09.30-21.59.14:490][  0]LogEngine: Initializing Engine...
+[2021.09.30-21.59.14:492][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.30-21.59.14:492][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.09.30-21.59.14:493][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.09.30-21.59.14:639][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.09.30-21.59.15:176][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.09.30-21.59.15:177][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.09.30-21.59.15:687][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.09.30-21.59.15:687][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.09.30-21.59.15:687][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.30-21.59.15:687][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.30-21.59.15:687][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.30-21.59.15:687][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.30-21.59.15:687][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.30-21.59.15:687][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.30-21.59.15:687][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.30-21.59.15:687][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.30-21.59.15:687][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.30-21.59.15:687][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.30-21.59.17:131][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.30-21.59.17:131][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.09.30-21.59.17:189][  0]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.09.30-21.59.17:195][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.30-21.59.17:197][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.30-21.59.17:197][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.30-21.59.17:199][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.30-21.59.17:199][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.30-21.59.17:199][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.30-21.59.17:200][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.30-21.59.17:200][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.30-21.59.17:200][  0]LogInit: FAudioDevice initialized.
+[2021.09.30-21.59.17:200][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.09.30-21.59.17:200][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.09.30-21.59.18:043][  0]LogDerivedDataCache: Saved boot cache 0.84s 77MB C:/Users/amg05/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.30-21.59.18:044][  0]LogInit: Texture streaming: Enabled
+[2021.09.30-21.59.18:061][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.09.30-21.59.18:106][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.09.30-21.59.18:106][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.09.30-21.59.18:275][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.09.30-21.59.18:800][  0]LogInit: Transaction tracking system initialized
+[2021.09.30-21.59.18:831][  0]BlueprintLog: New page: Editor Load
+[2021.09.30-21.59.18:924][  0]LocalizationService: Localization service is disabled
+[2021.09.30-21.59.18:955][  0]TimingProfiler: Initialize
+[2021.09.30-21.59.18:955][  0]TimingProfiler: OnSessionChanged
+[2021.09.30-21.59.18:955][  0]LoadingProfiler: Initialize
+[2021.09.30-21.59.18:955][  0]LoadingProfiler: OnSessionChanged
+[2021.09.30-21.59.18:955][  0]NetworkingProfiler: Initialize
+[2021.09.30-21.59.18:955][  0]NetworkingProfiler: OnSessionChanged
+[2021.09.30-21.59.18:955][  0]MemoryProfiler: Initialize
+[2021.09.30-21.59.18:955][  0]MemoryProfiler: OnSessionChanged
+[2021.09.30-21.59.19:203][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.09.30-21.59.19:203][  0]LogCook: Display: Mobile HDR setting 1
+[2021.09.30-21.59.19:392][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/' took 0.09s
+[2021.09.30-21.59.19:673][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.09.30-21.59.19:681][  0]SourceControl: Source control is disabled
+[2021.09.30-21.59.19:681][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.584
+[2021.09.30-21.59.19:681][  0]Cmd: MAP LOAD FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.30-21.59.19:681][  0]LightingResults: New page: Lighting Build
+[2021.09.30-21.59.19:682][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-21.59.19:682][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-21.59.19:683][  0]MapCheck: New page: Map Check
+[2021.09.30-21.59.19:683][  0]LightingResults: New page: Lighting Build
+[2021.09.30-21.59.19:691][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.09.30-21.59.58:751][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_01.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01': Can't find file.
+[2021.09.30-21.59.58:752][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_01.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01': Can't find file.
+[2021.09.30-21.59.59:346][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_01.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01': Can't find file.
+[2021.09.30-21.59.59:411][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_02.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02': Can't find file.
+[2021.09.30-21.59.59:411][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_02.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02': Can't find file.
+[2021.09.30-21.59.59:412][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_02.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02': Can't find file.
+[2021.09.30-21.59.59:438][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_03.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03': Can't find file.
+[2021.09.30-21.59.59:441][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_03.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03': Can't find file.
+[2021.09.30-21.59.59:441][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_03.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03': Can't find file.
+[2021.09.30-21.59.59:464][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_04.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04': Can't find file.
+[2021.09.30-21.59.59:464][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_04.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04': Can't find file.
+[2021.09.30-21.59.59:465][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_04.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04': Can't find file.
+[2021.09.30-22.00.15:484][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_04.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04': Can't find file.
+[2021.09.30-22.00.15:484][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04.MI_Impostor_Tree_Large_04 Referenced by SM_Tree_Large_04
+[2021.09.30-22.00.15:485][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_04.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04': Can't find file.
+[2021.09.30-22.00.15:485][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04.MI_Impostor_Tree_Large_04 Referenced by SM_Tree_Large_04
+[2021.09.30-22.00.15:522][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_03.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03': Can't find file.
+[2021.09.30-22.00.15:522][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03.MI_Impostor_Tree_Large_03 Referenced by SM_Tree_Large_03
+[2021.09.30-22.00.15:522][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_03.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03': Can't find file.
+[2021.09.30-22.00.15:522][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03.MI_Impostor_Tree_Large_03 Referenced by SM_Tree_Large_03
+[2021.09.30-22.00.15:554][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_02.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02': Can't find file.
+[2021.09.30-22.00.15:554][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02.MI_Impostor_Tree_Large_02 Referenced by SM_Tree_Large_02
+[2021.09.30-22.00.15:555][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_02.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02': Can't find file.
+[2021.09.30-22.00.15:555][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02.MI_Impostor_Tree_Large_02 Referenced by SM_Tree_Large_02
+[2021.09.30-22.00.15:791][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_01.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01': Can't find file.
+[2021.09.30-22.00.15:791][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01.MI_Impostor_Tree_Large_01 Referenced by SM_Tree_Large_01
+[2021.09.30-22.00.15:791][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_01.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01': Can't find file.
+[2021.09.30-22.00.15:792][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01.MI_Impostor_Tree_Large_01 Referenced by SM_Tree_Large_01
+[2021.09.30-22.00.32:536][  0]LogMaterial: Display: Missing cached shader map for material M_Landscape_Battlefield, compiling. 
+[2021.09.30-22.00.39:349][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.09.30-22.00.39:349][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.09.30-22.00.39:349][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.09.30-22.00.39:349][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.09.30-22.00.39:349][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.09.30-22.00.39:349][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2021.09.30-22.00.39:349][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.09.30-22.00.43:183][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.09.30-22.00.43:183][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.00.43:183][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Battleflied'.
+[2021.09.30-22.00.43:193][  0]LogAIModule: Creating AISystem for world Battleflied
+[2021.09.30-22.00.43:205][  0]LogShaderCompilers: Warning: Failed to compile Material /Game/Level/Landscape/Material/M_Landscape_Battlefield.M_Landscape_Battlefield for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.30-22.00.43:205][  0]LogShaderCompilers: Display: 	/Engine/Generated/Material.ush(2483,2-40):  warning X3206: implicit truncation of vector type
+[2021.09.30-22.00.43:205][  0]LogShaderCompilers: Display: 	/Engine/Generated/UniformBuffers/Material.ush(35,14-41):  err0r X4510: maximum ps_5_0 sampler register index (16) exceeded
+[2021.09.30-22.00.44:232][  0]LogMaterial: Display: Material /Game/AdvancedVillagePack/Materials/M_Uber.M_Uber needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.09.30-22.00.44:234][  0]LogMaterial: Display: Missing cached shader map for material M_Uber, compiling. 
+[2021.09.30-22.00.44:273][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2021.09.30-22.00.44:273][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2021.09.30-22.00.44:273][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2021.09.30-22.00.44:273][  0]MapCheck: Warning: M_Uber Material /Game/AdvancedVillagePack/Materials/M_Uber.M_Uber was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.09.30-22.00.44:693][  0]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 10.401381 sec (time since issued), 56.835907 sec (combined shader worker time).
+[2021.09.30-22.00.45:167][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.30-22.00.49:773][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.09.30-22.00.49:773][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.30-22.00.49:774][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.295ms to complete.
+[2021.09.30-22.00.49:795][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.09.30-22.00.49:795][  0]LogFileHelpers: Loading map 'Battleflied' took 90.114
+[2021.09.30-22.00.49:799][  0]LogUnrealEdMisc: Total Editor Startup Time, took 109.701
+[2021.09.30-22.00.49:944][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.09.30-22.00.49:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-22.00.49:951][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-22.00.49:959][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-22.00.49:967][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-22.00.49:988][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0125 seconds. Added 3601 classes and 859 folders.
+[2021.09.30-22.00.49:991][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.09.30-22.00.49:993][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.30-22.00.49:993][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.49:993][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.30-22.00.49:993][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.09.30-22.00.49:994][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.30-22.00.49:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.49:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.30-22.00.49:994][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.09.30-22.00.49:995][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.09.30-22.00.49:995][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.49:995][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.09.30-22.00.49:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.09.30-22.00.49:996][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.30-22.00.49:996][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.49:996][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.30-22.00.49:996][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.09.30-22.00.49:997][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.30-22.00.49:997][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.49:997][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.30-22.00.49:997][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.09.30-22.00.49:998][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.30-22.00.49:998][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.49:998][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.30-22.00.49:998][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.09.30-22.00.49:999][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.30-22.00.49:999][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.49:999][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.30-22.00.49:999][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.09.30-22.00.50:000][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.30-22.00.50:000][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:000][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.30-22.00.50:000][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.09.30-22.00.50:001][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.30-22.00.50:001][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:001][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.30-22.00.50:001][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.09.30-22.00.50:002][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.30-22.00.50:002][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:002][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.30-22.00.50:002][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.09.30-22.00.50:003][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.30-22.00.50:003][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:003][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.30-22.00.50:003][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.09.30-22.00.50:004][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.30-22.00.50:004][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:004][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.30-22.00.50:004][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.09.30-22.00.50:005][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.30-22.00.50:005][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:005][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.30-22.00.50:005][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.09.30-22.00.50:006][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.30-22.00.50:006][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:006][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.30-22.00.50:006][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.09.30-22.00.50:007][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.30-22.00.50:007][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:007][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.30-22.00.50:007][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.09.30-22.00.50:008][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.30-22.00.50:008][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:008][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.30-22.00.50:008][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.09.30-22.00.50:009][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.30-22.00.50:009][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:009][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.30-22.00.50:009][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.09.30-22.00.50:010][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.30-22.00.50:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.30-22.00.50:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.09.30-22.00.50:011][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.30-22.00.50:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.30-22.00.50:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.09.30-22.00.50:012][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.30-22.00.50:012][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:012][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.30-22.00.50:012][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.09.30-22.00.50:013][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.30-22.00.50:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.30-22.00.50:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.09.30-22.00.50:014][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.30-22.00.50:014][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:014][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.30-22.00.50:014][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.09.30-22.00.50:015][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.09.30-22.00.50:015][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:015][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.09.30-22.00.50:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.09.30-22.00.50:016][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.30-22.00.50:016][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:016][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.30-22.00.50:016][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.09.30-22.00.50:017][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.30-22.00.50:017][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:017][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.30-22.00.50:017][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.09.30-22.00.50:018][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.30-22.00.50:018][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-22.00.50:018][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.30-22.00.50:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.09.30-22.00.50:097][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.09.30-22.00.50:099][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.09.30-22.00.50:470][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.30-22.00.50:475][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.30-22.00.50:477][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.30-22.00.50:589][  0]LogRenderer: Reallocating scene render targets to support 1488x592 Format 10 NumSamples 1 (Frame:1).
+[2021.09.30-22.00.50:631][  0]LogStaticMesh: Allocated 64x64x64 distance field atlas = 0.5Mb, with 1 objects containing 0.5Mb backing data
+[2021.09.30-22.00.51:107][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.09.30-22.00.51:107][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.09.30-22.00.51:107][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.09.30-22.00.51:107][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.09.30-22.00.51:107][  0]LogLoad: (Engine Initialization) Total time: 111.01 seconds
+[2021.09.30-22.00.51:107][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.09.30-22.00.51:107][  0]LogInit: First time updating LLM stats...
+[2021.09.30-22.00.51:171][  0]LogAssetRegistry: Asset discovery search completed in 102.5481 seconds
+[2021.09.30-22.00.51:173][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.09.30-22.00.51:173][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.09.30-22.00.51:410][  0]LogSlate: Took 0.067038 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.30-22.00.52:129][ 48]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.30-22.00.53:405][151]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.09.30-22.00.53:614][175]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.09.30-22.00.53:776][189]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.30-22.00.56:458][272]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.09.30-22.02.09:636][987]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\amg05\Documents\Semestres_Carrera\8-Octavo Sem\Videojuegos\Items\Textures._VFX\Tail.png)
+[2021.09.30-22.02.09:732][987]LogTexture: Display: Building textures: Tail (AutoDXT, 720X720)
+[2021.09.30-22.02.31:568][848]LogContentBrowser: Attempting asset rename: Mi_Orbe_AB_2 -> Mi_Orbe_AB_2
+[2021.09.30-22.02.39:443][206]LogContentBrowser: Attempting asset rename: Mi_Orbe_AB_2 -> Mi_Tail_AB
+[2021.09.30-22.02.39:709][206]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Mi_Tail_AB23A7CE8B44FD8366D034858C2FD3C454.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_AB.uasset'
+[2021.09.30-22.02.39:807][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.09.30-22.02.39:841][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.09.30-22.02.39:854][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.09.30-22.02.39:980][206]AssetCheck: New page: Asset Save: Mi_Tail_AB
+[2021.09.30-22.02.39:980][206]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_AB.Mi_Tail_AB
+[2021.09.30-22.02.47:166][ 67]LogContentBrowser: Attempting asset rename: Mi_Tail_AB -> Mi_Tail_AB
+[2021.09.30-22.02.58:756][640]LogContentBrowser: Attempting asset rename: Mi_Orbe_ADD_2 -> Mi_Tail_Add
+[2021.09.30-22.02.58:860][640]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Mi_Tail_Add1090CEC546F369435752D1BD77E45F03.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_Add.uasset'
+[2021.09.30-22.02.58:938][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.09.30-22.02.58:963][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.09.30-22.02.58:977][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.30-22.02.59:113][640]AssetCheck: New page: Asset Save: Mi_Tail_Add
+[2021.09.30-22.02.59:113][640]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_Add.Mi_Tail_Add
+[2021.09.30-22.03.02:233][756]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_AB.Mi_Tail_AB
+[2021.09.30-22.03.11:489][ 67]LogRenderer: Reallocating scene render targets to support 1488x900 Format 10 NumSamples 1 (Frame:5).
+[2021.09.30-22.03.11:656][ 82]LogSlate: Window 'Mi_Tail_AB' being destroyed
+[2021.09.30-22.03.15:045][220]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Orbe_ADD.Mi_Orbe_ADD
+[2021.09.30-22.03.37:697][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.09.30-22.03.37:789][125]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.30-22.03.38:384][125]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.03.38:384][125]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.03.38:585][125]TextureStreamingBuild: Display: Compiling optional shaders took 0.833 seconds.
+[2021.09.30-22.03.38:859][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.09.30-22.03.38:889][125]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Mi_Orbe_ADDC8C995DF47B4B21C8147C99A2FA20CDE.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/Mi_Orbe_ADD.uasset'
+[2021.09.30-22.03.38:910][125]AssetCheck: New page: Asset Save: Mi_Orbe_ADD
+[2021.09.30-22.03.38:910][125]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Orbe_ADD.Mi_Orbe_ADD
+[2021.09.30-22.03.39:926][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.09.30-22.03.39:927][234]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.09.30-22.03.39:942][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.09.30-22.03.39:951][234]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Mi_Tail_ABFC2F01FC4B2A344B54AC7BB908DBACC9.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_AB.uasset'
+[2021.09.30-22.03.39:965][234]AssetCheck: New page: Asset Save: Mi_Tail_AB
+[2021.09.30-22.03.39:965][234]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_AB.Mi_Tail_AB
+[2021.09.30-22.03.41:042][338]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.03.41:043][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.03.41:451][352]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.03.41:451][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.03.47:142][567]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Orbe_ADD.Mi_Orbe_ADD
+[2021.09.30-22.03.52:397][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.09.30-22.03.52:399][118]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.09.30-22.03.52:413][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.09.30-22.03.52:421][118]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Mi_Orbe_ADDD98CE5014595944337002FB9F76E81DB.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/Mi_Orbe_ADD.uasset'
+[2021.09.30-22.03.52:435][118]AssetCheck: New page: Asset Save: Mi_Orbe_ADD
+[2021.09.30-22.03.52:435][118]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Orbe_ADD.Mi_Orbe_ADD
+[2021.09.30-22.03.53:241][203]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.03.53:242][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.03.54:234][240]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_Add.Mi_Tail_Add
+[2021.09.30-22.03.59:239][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.09.30-22.03.59:241][480]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.09.30-22.03.59:255][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.09.30-22.03.59:263][480]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Mi_Tail_AddC81D8BCC4F2C70487D382E9AD37FE576.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_Add.uasset'
+[2021.09.30-22.03.59:296][480]AssetCheck: New page: Asset Save: Mi_Tail_Add
+[2021.09.30-22.03.59:296][480]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_Add.Mi_Tail_Add
+[2021.09.30-22.04.00:236][529]LogSlate: Window 'Mi_Tail_Add' being destroyed
+[2021.09.30-22.04.00:948][608]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.04.00:948][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.04.26:917][492]LogContentBrowser: Attempting asset rename: M_AB_Orbe_2 -> M_Tail_AB
+[2021.09.30-22.04.27:036][492]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/M_Tail_AB3165EC9947AF1A0535F14DB78712A0F1.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/M_Tail_AB.uasset'
+[2021.09.30-22.04.27:113][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.09.30-22.04.27:146][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.09.30-22.04.27:161][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.09.30-22.04.27:331][492]AssetCheck: New page: Asset Save: M_Tail_AB
+[2021.09.30-22.04.27:331][492]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_AB.M_Tail_AB
+[2021.09.30-22.04.38:815][881]LogContentBrowser: Attempting asset rename: M_AdditiveOrbe_2 -> M_Tail_Add
+[2021.09.30-22.04.38:924][881]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/M_Tail_Add7CADE4E443C26541CFE3049CBE485B82.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.uasset'
+[2021.09.30-22.04.39:001][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.09.30-22.04.39:034][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.09.30-22.04.39:050][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.09.30-22.04.39:250][881]AssetCheck: New page: Asset Save: M_Tail_Add
+[2021.09.30-22.04.39:250][881]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.M_Tail_Add
+[2021.09.30-22.04.43:500][ 21]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_AB.M_Tail_AB
+[2021.09.30-22.04.49:847][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.09.30-22.04.49:850][297]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.30-22.04.50:430][297]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.04.50:430][297]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.04.50:829][297]TextureStreamingBuild: Display: Compiling optional shaders took 0.978 seconds.
+[2021.09.30-22.04.50:844][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.30-22.04.50:854][297]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/M_Tail_ABA30AC21F41F15A60665872B69FF6F289.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/M_Tail_AB.uasset'
+[2021.09.30-22.04.50:904][297]AssetCheck: New page: Asset Save: M_Tail_AB
+[2021.09.30-22.04.50:904][297]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_AB.M_Tail_AB
+[2021.09.30-22.05.06:509][951]LogSlate: Window 'M_Tail_AB' being destroyed
+[2021.09.30-22.05.08:158][ 37]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_AB.Mi_Tail_AB
+[2021.09.30-22.05.19:759][160]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.05.19:759][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.05.20:647][257]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.05.20:647][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.09.12:198][119]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_AB_Orbe.M_AB_Orbe
+[2021.09.30-22.09.16:407][306]LogEditorFactories: Performing atomic reimport of [C:/Users/amg05/Documents/Semestres_Carrera/8-Octavo Sem/Videojuegos/Items/Textures._VFX/Tail.png]
+[2021.09.30-22.09.16:408][306]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/amg05/Documents/Semestres_Carrera/8-Octavo Sem/Videojuegos/Items/Textures._VFX/Tail.png)
+[2021.09.30-22.09.16:465][306]LogTexture: Display: Building textures: Tail (AutoDXT, 720X720)
+[2021.09.30-22.09.16:825][306]LogEditorFactories: -- imported successfully
+[2021.09.30-22.09.24:241][592]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_AB.Mi_Tail_AB
+[2021.09.30-22.09.32:411][428]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_Add.Mi_Tail_Add
+[2021.09.30-22.09.44:105][681]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Mi_Tail_Add18D6F48E43BBDDE9AFA8769D2B9B7C7B.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_Add.uasset'
+[2021.09.30-22.09.44:119][681]AssetCheck: New page: Asset Save: Mi_Tail_Add
+[2021.09.30-22.09.44:119][681]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_Add.Mi_Tail_Add
+[2021.09.30-22.10.00:798][885]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_AB.M_Tail_AB
+[2021.09.30-22.10.36:613][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.09.30-22.10.36:617][696]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.30-22.10.37:178][696]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.10.37:178][696]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.10.37:475][696]TextureStreamingBuild: Display: Compiling optional shaders took 0.857 seconds.
+[2021.09.30-22.10.37:491][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.09.30-22.10.37:499][696]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/M_Tail_AB2D0B4BA248AAD627D339E6B3A2BA7D5D.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/M_Tail_AB.uasset'
+[2021.09.30-22.10.37:545][696]AssetCheck: New page: Asset Save: M_Tail_AB
+[2021.09.30-22.10.37:545][696]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_AB.M_Tail_AB
+[2021.09.30-22.10.57:362][957]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.11.00:205][957]LogSlate: Took 0.045462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.30-22.11.01:159][971]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.11.06:854][372]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.11.06:854][372]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.11.09:568][481]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.11.09:568][481]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.11.09:568][481]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 3.574338 sec (time since issued), 4.496923 sec (combined shader worker time).
+[2021.09.30-22.11.12:055][645]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 3.183019 sec (time since issued), 3.868587 sec (combined shader worker time).
+[2021.09.30-22.11.13:275][656]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.11.16:783][866]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.11.16:783][866]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.11.19:906][ 40]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 4.065633 sec (time since issued), 5.337411 sec (combined shader worker time).
+[2021.09.30-22.11.21:204][ 53]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.11.43:294][304]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.11.43:294][304]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.11.43:997][304]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.11.45:800][420]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 3.086447 sec (time since issued), 3.849225 sec (combined shader worker time).
+[2021.09.30-22.11.47:147][433]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.12.04:648][640]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.12.04:648][640]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.12.05:368][640]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.12.07:262][744]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 3.208236 sec (time since issued), 4.376254 sec (combined shader worker time).
+[2021.09.30-22.12.08:586][757]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.12.09:360][766]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.12.09:360][766]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.12.10:709][798]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.12.11:533][843]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.725208 sec (time since issued), 3.549514 sec (combined shader worker time).
+[2021.09.30-22.12.12:791][852]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.12.12:791][852]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.12.13:486][852]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.12.14:993][966]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.766396 sec (time since issued), 3.114708 sec (combined shader worker time).
+[2021.09.30-22.12.16:320][979]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.12.35:831][283]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.12.35:831][283]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.12.36:533][283]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.12.36:566][283]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.217864 sec (time since issued), 1.476389 sec (combined shader worker time).
+[2021.09.30-22.12.38:350][340]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.12.40:154][461]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.12.40:154][461]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.12.40:831][461]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.12.40:858][461]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.178396 sec (time since issued), 1.416955 sec (combined shader worker time).
+[2021.09.30-22.12.42:666][519]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.14.25:976][363]LogEditorFactories: Performing atomic reimport of [C:/Users/amg05/Documents/Semestres_Carrera/8-Octavo Sem/Videojuegos/Items/Textures._VFX/Tail.png]
+[2021.09.30-22.14.25:977][363]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/amg05/Documents/Semestres_Carrera/8-Octavo Sem/Videojuegos/Items/Textures._VFX/Tail.png)
+[2021.09.30-22.14.25:998][363]LogTexture: Display: Building textures: Tail (AutoDXT, 720X720)
+[2021.09.30-22.14.26:141][363]LogEditorFactories: -- imported successfully
+[2021.09.30-22.14.40:642][269]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.M_Tail_Add
+[2021.09.30-22.14.43:356][405]LogSlate: Window 'M_Tail_Add' being destroyed
+[2021.09.30-22.14.56:695][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.09.30-22.14.56:699][796]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.30-22.14.57:260][796]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.14.57:260][796]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.14.57:394][796]TextureStreamingBuild: Display: Compiling optional shaders took 0.697 seconds.
+[2021.09.30-22.14.57:444][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.09.30-22.14.57:452][796]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/M_Tail_Add29AF71024DE3810B52563A802B213FB0.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.uasset'
+[2021.09.30-22.14.57:492][796]AssetCheck: New page: Asset Save: M_Tail_Add
+[2021.09.30-22.14.57:492][796]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.M_Tail_Add
+[2021.09.30-22.15.00:957][  6]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_SystemB23B8FB6466CA1061915A7BC43592B7C.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.15.01:007][  6]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.15.01:007][  6]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.15.29:167][736]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.15.29:167][736]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.15.29:892][736]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.15.29:921][737]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.268297 sec (time since issued), 1.497435 sec (combined shader worker time).
+[2021.09.30-22.15.31:672][800]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.15.35:731][129]Cmd: TRANSACTION UNDO
+[2021.09.30-22.15.35:731][129]LogEditorTransaction: Undo Delete modules
+[2021.09.30-22.15.39:014][141]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.15.44:032][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.15.44:033][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.15.44:752][469]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.15.44:785][469]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.231139 sec (time since issued), 1.533616 sec (combined shader worker time).
+[2021.09.30-22.15.46:570][533]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.15.47:226][542]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.15.47:226][542]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.15.48:680][590]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.15.48:705][590]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.967327 sec (time since issued), 2.984570 sec (combined shader worker time).
+[2021.09.30-22.15.50:566][641]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.15.54:619][874]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.15.56:634][963]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.15.57:970][ 21]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.15.57:970][ 21]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.15.58:831][ 33]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.15.58:858][ 33]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.446056 sec (time since issued), 1.783052 sec (combined shader worker time).
+[2021.09.30-22.16.00:683][ 86]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.16.03:111][214]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.16.05:149][296]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.16.31:374][ 76]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.16.33:404][153]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.17.27:511][464]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.17.27:511][464]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.17.28:268][464]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.17.28:303][464]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.329810 sec (time since issued), 1.600737 sec (combined shader worker time).
+[2021.09.30-22.17.30:048][525]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.17.30:769][534]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.17.30:769][534]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.17.32:189][582]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.17.32:220][582]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.975947 sec (time since issued), 2.931007 sec (combined shader worker time).
+[2021.09.30-22.17.38:553][595]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.17.41:429][820]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.InitializeParticle.Mesh Uniform Scale Min' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript
+[2021.09.30-22.17.42:117][828]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.17.42:117][828]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.17.42:823][828]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.17.42:890][829]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.275586 sec (time since issued), 1.535357 sec (combined shader worker time).
+[2021.09.30-22.17.44:131][889]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.Multiply_Float003.A' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript
+[2021.09.30-22.17.44:675][889]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.17.45:288][897]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.17.45:288][897]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.17.46:698][950]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.17.46:723][950]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.894211 sec (time since issued), 2.885690 sec (combined shader worker time).
+[2021.09.30-22.17.48:107][ 24]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.InitializeParticle.Mesh Uniform Scale Max' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript
+[2021.09.30-22.17.48:717][ 25]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.17.49:303][ 32]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.17.49:303][ 32]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.17.50:768][ 88]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.17.50:838][ 89]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.Multiply_Float004.A' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript
+[2021.09.30-22.17.50:860][ 89]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.019322 sec (time since issued), 3.142027 sec (combined shader worker time).
+[2021.09.30-22.17.52:140][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.17.52:140][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.17.52:875][102]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.17.52:903][102]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.239874 sec (time since issued), 1.535081 sec (combined shader worker time).
+[2021.09.30-22.17.54:710][165]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.18.20:795][937]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.18.20:795][937]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.18.21:528][937]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.18.22:176][974]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.891024 sec (time since issued), 2.156726 sec (combined shader worker time).
+[2021.09.30-22.18.23:385][987]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.19.01:785][777]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.19.01:785][777]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.19.02:500][777]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.19.02:523][777]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.214929 sec (time since issued), 1.497524 sec (combined shader worker time).
+[2021.09.30-22.19.03:745][787]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.19.03:745][787]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.19.04:524][791]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.19.04:724][802]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.473153 sec (time since issued), 1.779005 sec (combined shader worker time).
+[2021.09.30-22.19.04:768][802]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2021.09.30-22.19.04:791][802]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2021.09.30-22.19.06:321][845]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.19.11:295][240]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2021.09.30-22.19.18:062][678]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.19.18:062][678]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.19.18:782][678]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.19.18:811][678]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.322737 sec (time since issued), 1.486794 sec (combined shader worker time).
+[2021.09.30-22.19.18:812][678]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript.NiagaraDataInterfaceStaticMesh_1
+[2021.09.30-22.19.19:305][680]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript.NiagaraDataInterfaceStaticMesh_1
+[2021.09.30-22.19.20:565][726]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.19.21:310][770]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript.NiagaraDataInterfaceStaticMesh_1
+[2021.09.30-22.19.23:272][900]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript.NiagaraDataInterfaceStaticMesh_1
+[2021.09.30-22.19.23:273][900]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript.NiagaraDataInterfaceStaticMesh_1
+[2021.09.30-22.19.23:417][901]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript.NiagaraDataInterfaceStaticMesh_1
+[2021.09.30-22.19.24:252][908]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.19.26:251][932]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.19.41:423][ 67]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.19.41:423][ 67]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.19.42:158][ 67]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.19.42:419][ 75]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.525089 sec (time since issued), 1.775457 sec (combined shader worker time).
+[2021.09.30-22.19.43:957][108]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.19.47:402][294]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.19.47:402][294]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.19.48:110][294]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.19.48:280][302]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.381171 sec (time since issued), 1.614526 sec (combined shader worker time).
+[2021.09.30-22.19.49:920][349]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.19.57:406][839]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.19.57:406][839]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.19.58:131][839]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.19.58:475][856]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.567314 sec (time since issued), 1.835066 sec (combined shader worker time).
+[2021.09.30-22.19.59:927][888]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.21.30:775][632]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/VFX/NiagaraSystems/NS_Projectile_FireBall.NS_Projectile_FireBall
+[2021.09.30-22.21.33:333][650]258816_NS_Projectile_FireBall_MessageLog: System successfully compiled.
+[2021.09.30-22.21.56:799][955]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NS_Projectile_FireBallA95C184D4EB4C7D8143B65A9504ECE4F.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/VFX/NiagaraSystems/NS_Projectile_FireBall.uasset'
+[2021.09.30-22.21.56:865][955]AssetCheck: New page: Asset Save: NS_Projectile_FireBall
+[2021.09.30-22.21.56:865][955]LogContentValidation: Display: Validating NiagaraSystem /Game/VFX/NiagaraSystems/NS_Projectile_FireBall.NS_Projectile_FireBall
+[2021.09.30-22.23.22:709][276]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.InitialMeshOrientation.Rotation' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:SystemSpawnScript
+[2021.09.30-22.23.22:710][276]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.InitialMeshOrientation.Rotation' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:SystemUpdateScript
+[2021.09.30-22.23.22:715][276]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.InitialMeshOrientation.Rotation' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript
+[2021.09.30-22.23.23:407][284]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.23.23:407][284]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.23.24:174][284]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.23.25:106][336]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.221357 sec (time since issued), 2.521564 sec (combined shader worker time).
+[2021.09.30-22.23.26:329][349]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.26.48:649][640]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.26.48:649][640]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.26.49:439][640]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.26.50:215][675]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.123275 sec (time since issued), 2.415996 sec (combined shader worker time).
+[2021.09.30-22.26.51:515][684]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.26.51:516][684]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.26.52:343][684]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.26.53:468][743]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.515063 sec (time since issued), 2.958992 sec (combined shader worker time).
+[2021.09.30-22.26.54:692][752]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.26.54:693][752]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.26.55:538][752]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.26.56:297][791]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.139559 sec (time since issued), 2.639888 sec (combined shader worker time).
+[2021.09.30-22.26.57:538][804]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.29.49:408][155]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_System65DA16334EA1002D4F0714BE876B7192.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.29.49:480][155]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.29.49:480][155]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.30.32:207][929]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/M_Tail_AddDE02703541FE7ACA32040C827D5754E7.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.uasset'
+[2021.09.30-22.30.32:267][929]AssetCheck: New page: Asset Save: M_Tail_Add
+[2021.09.30-22.30.32:267][929]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.M_Tail_Add
+[2021.09.30-22.30.34:769][158]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/M_Tail_AB8E9B2D1441E051DE181A6F9BE9F27FA0.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/M_Tail_AB.uasset'
+[2021.09.30-22.30.34:800][158]AssetCheck: New page: Asset Save: M_Tail_AB
+[2021.09.30-22.30.34:800][158]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_AB.M_Tail_AB
+[2021.09.30-22.30.35:900][253]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Mi_Tail_Add4DFD91884BFD5B0E17676A9BDB8F7AC3.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_Add.uasset'
+[2021.09.30-22.30.35:930][253]AssetCheck: New page: Asset Save: Mi_Tail_Add
+[2021.09.30-22.30.35:930][253]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_Add.Mi_Tail_Add
+[2021.09.30-22.30.37:123][358]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Mi_Tail_ABAE4A81C24BCE442A6ABFF782385F56A5.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_AB.uasset'
+[2021.09.30-22.30.37:158][358]AssetCheck: New page: Asset Save: Mi_Tail_AB
+[2021.09.30-22.30.37:158][358]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/Mi_Tail_AB.Mi_Tail_AB
+[2021.09.30-22.30.38:141][439]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/M_AB_Orbe8592D18C4F05E88E76A605B5660D1ADE.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/M_AB_Orbe.uasset'
+[2021.09.30-22.30.38:179][439]AssetCheck: New page: Asset Save: M_AB_Orbe
+[2021.09.30-22.30.38:179][439]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_AB_Orbe.M_AB_Orbe
+[2021.09.30-22.30.38:928][512]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.30.38:944][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.30.39:388][525]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.30.39:388][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.30.39:995][553]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.30.39:995][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.30.40:287][562]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.30.40:287][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.30.40:562][573]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.30.40:562][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.30.42:791][641]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_SystemD98C98A442A18342204D199ABFEF8692.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.30.42:845][641]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.30.42:846][641]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.31.06:004][231]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.31.06:004][231]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.31.06:795][231]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.31.07:162][247]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.757170 sec (time since issued), 2.030639 sec (combined shader worker time).
+[2021.09.30-22.31.08:580][265]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.31.15:292][636]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_System804D028643A93627B4E6C0B37E093AC6.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.31.15:364][636]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.31.15:364][636]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.32.53:781][834]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_System4A7B57F94CFDF81ED2683187B7D7DC81.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.32.53:853][834]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.32.53:853][834]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.33.00:897][152]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level/Blueprints/Items/Orbes_BP.Orbes_BP
+[2021.09.30-22.33.01:757][152]LogBlueprintEditor: Perf: 0.6 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.09.30-22.33.01:757][152]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2021.09.30-22.33.02:642][152]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2021.09.30-22.33.17:950][ 77]BlueprintLog: New page: Compile Orbes_BP
+[2021.09.30-22.33.18:762][ 77]LogUObjectHash: Compacting FUObjectHashTables data took  15.51ms
+[2021.09.30-22.33.21:123][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Blueprints/Items/Orbes_BP" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/Orbes_BP.uasset" SILENT=true
+[2021.09.30-22.33.21:231][232]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Orbes_BPA7B43314457E8FD726EA47842FE471D9.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/Orbes_BP.uasset'
+[2021.09.30-22.33.21:248][232]AssetCheck: New page: Asset Save: Orbes_BP
+[2021.09.30-22.33.21:248][232]LogContentValidation: Display: Validating Blueprint /Game/Level/Blueprints/Items/Orbes_BP.Orbes_BP
+[2021.09.30-22.33.38:470][407]LogSlate: Took 0.019132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.30-22.33.38:688][423]BlueprintLog: New page: Compile Orbes_BP
+[2021.09.30-22.33.38:845][423]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2021.09.30-22.33.39:321][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Blueprints/Items/Orbes_BP" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/Orbes_BP.uasset" SILENT=true
+[2021.09.30-22.33.39:330][453]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Orbes_BP16BDCB3F43683D141443B0AF984A4F57.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/Orbes_BP.uasset'
+[2021.09.30-22.33.39:352][453]AssetCheck: New page: Asset Save: Orbes_BP
+[2021.09.30-22.33.39:352][453]LogContentValidation: Display: Validating Blueprint /Game/Level/Blueprints/Items/Orbes_BP.Orbes_BP
+[2021.09.30-22.34.18:687][768]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.AddRotationalVelocity.Rotation Rate' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript
+[2021.09.30-22.34.19:514][776]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.34.19:514][776]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.34.20:355][776]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.34.22:471][890]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 3.587999 sec (time since issued), 3.877337 sec (combined shader worker time).
+[2021.09.30-22.34.23:813][903]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.34.34:821][587]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_System672BB5394B6DD45A978BAE99177ACBDA.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.34.34:879][587]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.34.34:879][587]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.35.48:795][850]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_System602B4FAB47C0CB05F641C6B03B5C743A.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.35.48:841][850]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.35.48:841][850]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.36.22:018][763]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_SystemFBF43757463D93F918C177A786BA00E6.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.36.22:066][763]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.36.22:066][763]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.36.47:103][175]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_SystemC0EA823D4A13E06EDEDBCB87C34BA9D1.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.36.47:173][175]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.36.47:173][175]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.37.25:035][352]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.37.25:035][352]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.37.25:816][352]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.37.25:862][353]LogNiagaraEditor: System NE_Orbes_System has pending compile jobs. Waiting for that code to complete before Saving..
+[2021.09.30-22.37.26:398][353]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.959943 sec (time since issued), 2.741081 sec (combined shader worker time).
+[2021.09.30-22.37.27:200][353]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_SystemA197EFFF40C4EA55AEE1F9BA93A07FD8.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.37.27:257][353]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.37.27:258][353]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.37.28:729][365]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.37.32:106][492]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_SystemE8CF8B964B02BF869343D69C140ED7A4.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.37.32:272][492]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.37.32:272][492]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.37.53:950][720]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.37.53:950][720]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.37.54:708][720]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.37.55:378][752]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.016042 sec (time since issued), 2.288162 sec (combined shader worker time).
+[2021.09.30-22.37.56:638][765]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.37.58:355][855]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.RandomRangeLinearColor.Minimum' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript
+[2021.09.30-22.37.59:076][863]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.37.59:076][863]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.37.59:822][863]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.38.02:088][981]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.RandomRangeLinearColor.Maximum' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript
+[2021.09.30-22.38.02:116][981]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 3.583686 sec (time since issued), 3.857728 sec (combined shader worker time).
+[2021.09.30-22.38.03:585][990]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.38.03:585][990]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.38.04:335][990]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.38.05:053][ 26]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.034433 sec (time since issued), 2.291373 sec (combined shader worker time).
+[2021.09.30-22.38.06:464][ 38]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.38.26:513][170]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_System68C6A55B4DA08FAB81B19194B38F8C76.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.38.26:564][170]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.38.26:564][170]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.38.42:119][ 34]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_System04ED55754C47B20C9B72B29173E6816D.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.38.42:163][ 34]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.38.42:163][ 34]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.39.55:493][ 91]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_SystemD7F219844DA39F02CA661393979E8A3A.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.39.55:536][ 91]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.39.55:536][ 91]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.39.58:310][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Battleflied" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.30-22.39.58:428][241]LogUObjectHash: Compacting FUObjectHashTables data took   7.33ms
+[2021.09.30-22.39.58:752][241]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Battleflied78F20B5C4FCF1F42F863C6B8202EA2FF.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied.umap'
+[2021.09.30-22.39.58:905][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Battleflied_BuiltData" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied_BuiltData.uasset" SILENT=true
+[2021.09.30-22.39.59:546][241]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Battleflied_BuiltData9245B07347BE3E5B7CD4C88269EE2118.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied_BuiltData.uasset'
+[2021.09.30-22.39.59:597][241]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.30-22.39.59:597][241]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Battleflied_BuiltData.Battleflied_BuiltData
+[2021.09.30-22.39.59:597][241]LogContentValidation: Display: Validating World /Game/Level/Battleflied.Battleflied
+[2021.09.30-22.40.05:979][531]LogEditorViewport: Clicking on Actor (LMB): Orbes_BP_C (Orbes_BP)
+[2021.09.30-22.40.06:046][531]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.30-22.40.08:166][621]Cmd: SELECT NONE
+[2021.09.30-22.42.29:374][425]BlueprintLog: New page: Compile Orbes_BP
+[2021.09.30-22.42.29:539][425]LogUObjectHash: Compacting FUObjectHashTables data took   8.35ms
+[2021.09.30-22.42.29:959][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Blueprints/Items/Orbes_BP" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/Orbes_BP.uasset" SILENT=true
+[2021.09.30-22.42.29:966][444]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Orbes_BP221D7007481888321648E28103E00289.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/Orbes_BP.uasset'
+[2021.09.30-22.42.29:988][444]AssetCheck: New page: Asset Save: Orbes_BP
+[2021.09.30-22.42.29:988][444]LogContentValidation: Display: Validating Blueprint /Game/Level/Blueprints/Items/Orbes_BP.Orbes_BP
+[2021.09.30-22.42.34:234][697]BlueprintLog: New page: Compile Orbes_BP
+[2021.09.30-22.42.34:313][697]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.09.30-22.42.34:806][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Blueprints/Items/Orbes_BP" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/Orbes_BP.uasset" SILENT=true
+[2021.09.30-22.42.34:814][722]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Orbes_BPC25D20EF4FF928D6B2243B8D73C59A5D.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/Orbes_BP.uasset'
+[2021.09.30-22.42.34:836][722]AssetCheck: New page: Asset Save: Orbes_BP
+[2021.09.30-22.42.34:837][722]LogContentValidation: Display: Validating Blueprint /Game/Level/Blueprints/Items/Orbes_BP.Orbes_BP
+[2021.09.30-22.44.13:818][867]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.44.13:818][867]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.44.14:564][867]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.44.14:805][878]LogNiagaraEditor: Move module /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeFunctionCall_25
+[2021.09.30-22.44.14:809][878]LogNiagaraEditor: Finished moving!
+[2021.09.30-22.44.15:398][898]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.109899 sec (time since issued), 2.412732 sec (combined shader worker time).
+[2021.09.30-22.44.16:571][907]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.44.16:571][907]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.44.17:266][907]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.44.17:911][939]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.894707 sec (time since issued), 2.093108 sec (combined shader worker time).
+[2021.09.30-22.44.19:114][952]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.44.30:918][564]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.44.32:943][620]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.44.40:851][ 56]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.44.40:851][ 56]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.44.41:571][ 56]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.44.41:723][ 62]LogNiagaraEditor: Move module /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeFunctionCall_26
+[2021.09.30-22.44.41:726][ 62]LogNiagaraEditor: Finished moving!
+[2021.09.30-22.44.41:909][ 66]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.592533 sec (time since issued), 1.854027 sec (combined shader worker time).
+[2021.09.30-22.44.43:107][ 75]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.44.43:107][ 75]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.44.43:807][ 75]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.44.45:188][145]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.665390 sec (time since issued), 2.980610 sec (combined shader worker time).
+[2021.09.30-22.44.46:612][162]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.44.46:612][162]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.44.47:350][162]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.44.48:150][194]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.093007 sec (time since issued), 2.824014 sec (combined shader worker time).
+[2021.09.30-22.44.49:327][203]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.44.49:327][203]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.44.50:017][203]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.45.04:559][ 58]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 15.758616 sec (time since issued), 15.978407 sec (combined shader worker time).
+[2021.09.30-22.45.05:878][ 66]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.45.05:878][ 66]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.45.06:567][ 66]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.45.06:609][ 67]LogNiagaraEditor: Move module /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeFunctionCall_27
+[2021.09.30-22.45.06:612][ 67]LogNiagaraEditor: Finished moving!
+[2021.09.30-22.45.06:946][ 81]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.588806 sec (time since issued), 1.826870 sec (combined shader worker time).
+[2021.09.30-22.45.08:048][ 90]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.45.08:048][ 90]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.45.08:724][ 90]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.45.09:496][130]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.936683 sec (time since issued), 2.284447 sec (combined shader worker time).
+[2021.09.30-22.45.10:681][143]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.45.50:967][472]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.45.50:967][472]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.45.51:631][472]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.45.52:363][504]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.947503 sec (time since issued), 2.471707 sec (combined shader worker time).
+[2021.09.30-22.45.53:459][513]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.45.53:459][513]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.45.54:111][513]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.45.54:247][514]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.268716 sec (time since issued), 1.466222 sec (combined shader worker time).
+[2021.09.30-22.45.55:406][523]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.45.55:406][523]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.45.56:102][525]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.46.07:858][199]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 12.981612 sec (time since issued), 13.161777 sec (combined shader worker time).
+[2021.09.30-22.46.09:038][207]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.46.09:038][207]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.46.09:676][207]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.46.09:992][218]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.451201 sec (time since issued), 1.644785 sec (combined shader worker time).
+[2021.09.30-22.46.11:037][227]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.46.11:037][227]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.46.11:725][228]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.46.11:981][239]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.421153 sec (time since issued), 1.674291 sec (combined shader worker time).
+[2021.09.30-22.46.13:541][274]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.46.14:233][283]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.46.14:233][283]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.46.15:690][326]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.46.15:725][326]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.965543 sec (time since issued), 2.996850 sec (combined shader worker time).
+[2021.09.30-22.46.17:594][374]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.46.31:246][155]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.AddRotationalVelocity.Rotation Rate' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:SystemSpawnScript
+[2021.09.30-22.46.31:246][155]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.AddRotationalVelocity.Rotation Rate' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:SystemUpdateScript
+[2021.09.30-22.46.31:250][155]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.AddRotationalVelocity.Rotation Rate' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.SpawnScript
+[2021.09.30-22.46.31:251][155]LogNiagaraEditor: Removed Var 'Constants.NE_Orbes_Add.AddRotationalVelocity.Rotation Rate' from Script NiagaraScript /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System:NE_Orbes_Add_3.UpdateScript
+[2021.09.30-22.46.31:911][163]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.46.31:912][163]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.46.32:554][163]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.46.33:058][189]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.632913 sec (time since issued), 1.855547 sec (combined shader worker time).
+[2021.09.30-22.46.34:398][214]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.47.21:250][835]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.47.21:250][835]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.47.21:935][835]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.47.22:516][866]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.769423 sec (time since issued), 2.004309 sec (combined shader worker time).
+[2021.09.30-22.47.23:714][884]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.47.31:792][308]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.47.31:792][308]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.47.32:477][308]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.47.32:939][331]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.737072 sec (time since issued), 1.895799 sec (combined shader worker time).
+[2021.09.30-22.47.34:261][355]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.48.23:056][137]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_System309EB5C649ED30867AB22FA337539EF4.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.48.23:120][137]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.48.23:120][137]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.50.54:977][724]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\amg05\Documents\Semestres_Carrera\8-Octavo Sem\Videojuegos\Items\Textures._VFX\Tail3.png)
+[2021.09.30-22.50.54:993][724]LogTexture: Display: Building textures: Tail3 (AutoDXT, 720X720)
+[2021.09.30-22.50.58:837][847]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Tail3C06F16CB43CDF018778189A058A40633.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/Textures/Tail3.uasset'
+[2021.09.30-22.50.59:041][847]LogUObjectHash: Compacting FUObjectHashTables data took   8.56ms
+[2021.09.30-22.50.59:153][847]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.09.30-22.50.59:228][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.09.30-22.50.59:496][847]AssetCheck: New page: Asset Save: Tail3
+[2021.09.30-22.50.59:497][847]LogContentValidation: Display: Validating Texture2D /Game/Level/Blueprints/Items/NiagaraParticles/Textures/Tail3.Tail3
+[2021.09.30-22.51.06:883][146]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_AB_2.M_Tail_AB_2
+[2021.09.30-22.51.15:820][568]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.09.30-22.51.15:823][568]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.09.30-22.51.15:906][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.09.30-22.51.15:915][568]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/M_Tail_AB_2B7D4A14D4C710B972CA07985D61FE839.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/M_Tail_AB_2.uasset'
+[2021.09.30-22.51.15:939][568]AssetCheck: New page: Asset Save: M_Tail_AB_2
+[2021.09.30-22.51.15:939][568]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_AB_2.M_Tail_AB_2
+[2021.09.30-22.51.18:218][704]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.51.18:218][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.51.19:920][781]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.M_Tail_Add
+[2021.09.30-22.51.25:355][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   8.24ms
+[2021.09.30-22.51.25:357][ 19]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.30-22.51.25:920][ 19]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.51.25:920][ 19]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.51.25:988][ 19]TextureStreamingBuild: Display: Compiling optional shaders took 0.630 seconds.
+[2021.09.30-22.51.26:028][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.09.30-22.51.26:036][ 19]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/M_Tail_Add132493CD43F5119795D773B5EB35DBA1.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.uasset'
+[2021.09.30-22.51.26:082][ 19]AssetCheck: New page: Asset Save: M_Tail_Add
+[2021.09.30-22.51.26:082][ 19]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.M_Tail_Add
+[2021.09.30-22.51.27:931][123]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/M_Tail_Add50B154004BD51450545BADA4131862B9.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.uasset'
+[2021.09.30-22.51.27:947][123]AssetCheck: New page: Asset Save: M_Tail_Add
+[2021.09.30-22.51.27:947][123]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.M_Tail_Add
+[2021.09.30-22.51.28:959][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Battleflied" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.30-22.51.28:995][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.09.30-22.51.29:216][170]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Battleflied74C6F3FA43640082F2B47F97AE32A804.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied.umap'
+[2021.09.30-22.51.29:233][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Battleflied_BuiltData" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied_BuiltData.uasset" SILENT=true
+[2021.09.30-22.51.29:646][170]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Battleflied_BuiltDataD4D9A0F64421564723D2AEB832B9C816.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied_BuiltData.uasset'
+[2021.09.30-22.51.29:663][170]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.30-22.51.29:663][170]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Battleflied_BuiltData.Battleflied_BuiltData
+[2021.09.30-22.51.29:664][170]LogContentValidation: Display: Validating World /Game/Level/Battleflied.Battleflied
+[2021.09.30-22.51.41:284][768]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.51.41:284][768]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.51.41:926][768]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.51.41:965][768]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.177683 sec (time since issued), 1.366398 sec (combined shader worker time).
+[2021.09.30-22.51.43:117][778]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.51.43:117][778]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.51.43:954][782]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.51.43:988][783]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.344415 sec (time since issued), 1.735763 sec (combined shader worker time).
+[2021.09.30-22.51.45:826][793]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.51.47:824][880]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.52.00:091][561]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_System84D9BB8A41894ECF301C2EB5FFC60CC3.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.52.00:134][561]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.52.00:134][561]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.52.06:829][901]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.52.06:829][901]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.52.07:512][901]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.52.07:699][907]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.362482 sec (time since issued), 1.604066 sec (combined shader worker time).
+[2021.09.30-22.52.09:321][941]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.52.10:725][989]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.52.10:725][989]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.52.11:556][993]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.52.11:633][994]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.394933 sec (time since issued), 1.779338 sec (combined shader worker time).
+[2021.09.30-22.52.13:337][ 32]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.52.14:125][ 45]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.52.14:125][ 45]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.52.15:551][ 84]36397_NE_Orbes_System_MessageLog: System compile status unknown.
+[2021.09.30-22.52.15:586][ 84]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.958058 sec (time since issued), 2.928137 sec (combined shader worker time).
+[2021.09.30-22.52.17:350][132]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.52.22:049][357]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_System0983F7BE451CB749977E73AE72179AC6.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.52.22:094][357]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.52.22:094][357]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.53.00:225][629]BlueprintLog: New page: Compile Orbes_BP
+[2021.09.30-22.53.00:329][629]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2021.09.30-22.53.00:847][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Blueprints/Items/Orbes_BP" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/Orbes_BP.uasset" SILENT=true
+[2021.09.30-22.53.00:855][654]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Orbes_BP88FF37AD41E78E24C1AC998257B68522.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/Orbes_BP.uasset'
+[2021.09.30-22.53.00:876][654]AssetCheck: New page: Asset Save: Orbes_BP
+[2021.09.30-22.53.00:876][654]LogContentValidation: Display: Validating Blueprint /Game/Level/Blueprints/Items/Orbes_BP.Orbes_BP
+[2021.09.30-22.53.41:573][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Battleflied" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.30-22.53.41:648][634]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2021.09.30-22.53.41:915][634]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Battleflied821C3D8D454A95883EAB6BBBBED6BDF3.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied.umap'
+[2021.09.30-22.53.41:931][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Battleflied_BuiltData" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied_BuiltData.uasset" SILENT=true
+[2021.09.30-22.53.42:492][634]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Battleflied_BuiltData08C53314495257A37E2BBDA3FA948F9D.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied_BuiltData.uasset'
+[2021.09.30-22.53.42:520][634]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.30-22.53.42:520][634]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Battleflied_BuiltData.Battleflied_BuiltData
+[2021.09.30-22.53.42:520][634]LogContentValidation: Display: Validating World /Game/Level/Battleflied.Battleflied
+[2021.09.30-22.53.55:725][211]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_System967C99CB4DF678326FD343B380B603BD.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.53.55:766][211]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.53.55:766][211]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.54.20:191][452]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_SystemAAA9107D459935C8A14C0CBAC8292154.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.54.20:231][452]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.54.20:231][452]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.54.46:394][628]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_SystemB1AB76FD4F396125CB06A0BDEC531231.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.54.46:428][628]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.54.46:428][628]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.55.14:914][865]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.55.14:914][865]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.55.14:914][865]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.09.30-22.55.15:943][866]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.55.18:086][896]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.55.18:086][896]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.55.18:086][896]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.09.30-22.55.18:086][896]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 4.436168 sec (time since issued), 8.912378 sec (combined shader worker time).
+[2021.09.30-22.55.20:328][941]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 3.607649 sec (time since issued), 5.772958 sec (combined shader worker time).
+[2021.09.30-22.55.21:733][943]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.55.21:733][943]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.55.23:609][ 21]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.512795 sec (time since issued), 3.071850 sec (combined shader worker time).
+[2021.09.30-22.55.25:010][ 32]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.55.45:048][ 12]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.55.45:048][ 12]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.55.45:048][ 12]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.013606 sec (time since issued), 2.660312 sec (combined shader worker time).
+[2021.09.30-22.55.46:801][ 24]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.55.53:523][233]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.55.53:523][233]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.55.53:523][233]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.09.30-22.55.53:523][233]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.55.54:179][255]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 3.000671 sec (time since issued), 6.881694 sec (combined shader worker time).
+[2021.09.30-22.55.56:083][269]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.56.59:556][411]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_SystemD55BAEAE4976A308B96D9587E1266A4D.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.56.59:615][411]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.56.59:615][411]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.57.22:221][294]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2021.09.30-22.57.22:225][294]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.30-22.57.22:785][294]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.30-22.57.22:785][294]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.57.23:074][294]TextureStreamingBuild: Display: Compiling optional shaders took 0.849 seconds.
+[2021.09.30-22.57.23:158][294]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2021.09.30-22.57.23:169][294]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/M_Tail_Add6C610CA04E2A65DC1032D08DDD449AA2.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.uasset'
+[2021.09.30-22.57.23:220][294]AssetCheck: New page: Asset Save: M_Tail_Add
+[2021.09.30-22.57.23:220][294]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add.M_Tail_Add
+[2021.09.30-22.57.24:683][360]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.57.24:683][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.57.25:537][385]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add_2.M_Tail_Add_2
+[2021.09.30-22.57.29:029][528]LogUObjectHash: Compacting FUObjectHashTables data took   8.68ms
+[2021.09.30-22.57.29:031][528]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.09.30-22.57.29:099][528]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.09.30-22.57.29:110][528]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/M_Tail_Add_244096248441B7378A4AC02AE8814B8B2.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add_2.uasset'
+[2021.09.30-22.57.29:134][528]AssetCheck: New page: Asset Save: M_Tail_Add_2
+[2021.09.30-22.57.29:134][528]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Level/Blueprints/Items/NiagaraParticles/M_Tail_Add_2.M_Tail_Add_2
+[2021.09.30-22.57.30:427][593]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-22.57.30:427][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-22.57.50:369][420]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-22.57.50:369][420]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.57.50:370][420]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.09.30-22.57.51:157][444]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-22.57.55:191][629]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 6.145020 sec (time since issued), 11.576153 sec (combined shader worker time).
+[2021.09.30-22.57.56:655][642]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-22.58.11:277][392]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_SystemB865B0544CE857736D14C189F8655698.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.58.11:355][392]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.58.11:355][392]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.58.16:257][615]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_System5717F0504E6ADDC23999E1B65DAE607F.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.58.16:296][615]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.58.16:296][615]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.58.22:340][892]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/NE_Orbes_System3F9263F1499BFB249DF4AD9683617807.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.uasset'
+[2021.09.30-22.58.22:387][892]AssetCheck: New page: Asset Save: NE_Orbes_System
+[2021.09.30-22.58.22:388][892]LogContentValidation: Display: Validating NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System
+[2021.09.30-22.58.50:224][265]LogEditorViewport: Clicking on Actor (LMB): Orbes_BP_C (Orbes_BP)
+[2021.09.30-22.58.51:155][303]Cmd: DELETE
+[2021.09.30-22.58.51:195][303]Cmd: ACTOR DELETE
+[2021.09.30-22.58.51:294][303]LogEditorActor: Deleted Actor: Orbes_BP_C
+[2021.09.30-22.58.51:412][303]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2021.09.30-22.58.51:420][303]LogEditorActor: Deleted 1 Actors (0.185 secs)
+[2021.09.30-22.59.02:463][693]Cmd: SELECT NONE
+[2021.09.30-22.59.55:127][395]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2021.09.30-23.00.04:965][639]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-23.00.04:966][639]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-23.00.04:966][639]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.09.30-23.00.04:966][639]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-23.00.05:441][655]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 3.528472 sec (time since issued), 4.691796 sec (combined shader worker time).
+[2021.09.30-23.00.11:486][927]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 8.117750 sec (time since issued), 12.072914 sec (combined shader worker time).
+[2021.09.30-23.00.12:897][940]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-23.00.17:879][ 84]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-23.00.17:879][ 84]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.30-23.00.17:879][ 84]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.30-23.00.17:879][ 84]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 2.161365 sec (time since issued), 1.982741 sec (combined shader worker time).
+[2021.09.30-23.00.18:620][ 84]LogNiagara: Compiling System NiagaraSystem /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System took 1.658478 sec (time since issued), 0.754493 sec (combined shader worker time).
+[2021.09.30-23.00.19:848][ 97]36397_NE_Orbes_System_MessageLog: System successfully compiled.
+[2021.09.30-23.00.39:101][151]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.09.30-23.00.42:559][151]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.440 s
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: === Handled ensure: ===
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: 
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: Ensure condition failed: ModuleIndex != INDEX_NONE [File:D:/Build/++UE4/Sync/Engine/Plugins/FX/Niagara/Source/NiagaraEditor/Private/ViewModels/Stack/NiagaraStackModuleItem.cpp] [Line: 607]
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: In system /Game/Level/Blueprints/Items/NiagaraParticles/NE_Orbes_System.NE_Orbes_System, module GravityForce (NiagaraNodeFunctionCall_2) did not exist in the stack module data.
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: Stack: 
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff887e3d97f UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff887b0849f UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff887b34631 UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff887acfde9 UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff887acffa4 UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff887bd8398 UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff887bceb02 UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff885496765 UE4Editor-NiagaraEditorWidgets.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff8854ea2ed UE4Editor-NiagaraEditorWidgets.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff885494472 UE4Editor-NiagaraEditorWidgets.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff8995ec0ae UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff899674823 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff899620105 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff8995976f4 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff8b6dfefe9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff8b6c425b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff8b6cae368 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff8b6ca2226 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff8edcab958 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff8edc99197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff8edcae389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff8edc94310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff93d9de7e8 USER32.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff93d9de229 USER32.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff8edcaf914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff694248848 UE4Editor.exe!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff69426117c UE4Editor.exe!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff69426125a UE4Editor.exe!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff6942752bd UE4Editor.exe!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff694277fea UE4Editor.exe!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff93bc97034 KERNEL32.DLL!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: [Callstack] 0x00007ff93dc82651 ntdll.dll!UnknownFunction []
+[2021.09.30-23.00.42:568][151]LogOutputDevice: Error: 
