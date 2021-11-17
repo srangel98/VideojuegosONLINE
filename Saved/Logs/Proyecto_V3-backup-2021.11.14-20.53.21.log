@@ -1,0 +1,1452 @@
+﻿Log file open, 11/14/21 14:01:32
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Proyecto_V3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.267603
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.01.32:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.14-20.01.32:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.01.32:612][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.01.32:624][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.14-20.01.32:624][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.14-20.01.32:625][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.14-20.01.32:625][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.14-20.01.32:625][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.14-20.01.32:626][  0]LogHAL: Display: Platform has ~ 12 GB [12764549120 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.14-20.01.32:626][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.14-20.01.32:626][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.14-20.01.32:626][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.14-20.01.32:627][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.14-20.01.32:628][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.14-20.01.32:628][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.14-20.01.32:628][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.14-20.01.32:628][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.01.32:628][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Editor.ini]
+[2021.11.14-20.01.32:628][  0]LogInit: Computer: LAPTOP-7SS8842A
+[2021.11.14-20.01.32:628][  0]LogInit: User: amg05
+[2021.11.14-20.01.32:628][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.14-20.01.32:628][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.14-20.01.32:628][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2021.11.14-20.01.32:628][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.14-20.01.32:628][  0]LogMemory: Process Physical Memory: 134.97 MB used, 134.97 MB peak
+[2021.11.14-20.01.32:628][  0]LogMemory: Process Virtual Memory: 117.62 MB used, 117.62 MB peak
+[2021.11.14-20.01.32:628][  0]LogMemory: Physical Memory: 7085.21 MB used,  5088.01 MB free, 12173.22 MB total
+[2021.11.14-20.01.32:628][  0]LogMemory: Virtual Memory: 134211800.00 MB used,  5929.14 MB free, 134217728.00 MB total
+[2021.11.14-20.01.32:635][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.14-20.01.32:697][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.14-20.01.32:698][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.11.14-20.01.32:698][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.11.14-20.01.32:943][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.14-20.01.32:953][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.14-20.01.32:966][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.14-20.01.32:966][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.14-20.01.33:220][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.14-20.01.33:220][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.14-20.01.33:220][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.14-20.01.33:220][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.14-20.01.33:355][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.11.14-20.01.33:355][  0]LogD3D11RHI:       4019/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.14-20.01.33:366][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.11.14-20.01.33:366][  0]LogD3D11RHI:       128/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.11.14-20.01.33:369][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.14-20.01.33:369][  0]LogD3D11RHI:       0/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.14-20.01.33:369][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.14-20.01.33:375][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.14-20.01.33:375][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2021.11.14-20.01.33:375][  0]LogWindows: EnumDisplayDevices:
+[2021.11.14-20.01.33:375][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.11.14-20.01.33:376][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.11.14-20.01.33:376][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.11.14-20.01.33:376][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.11.14-20.01.33:377][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.11.14-20.01.33:377][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.11.14-20.01.33:377][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2021.11.14-20.01.33:377][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2021.11.14-20.01.33:377][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2021.11.14-20.01.33:457][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.14-20.01.33:457][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.14-20.01.33:457][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.14-20.01.33:475][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.14-20.01.33:477][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.14-20.01.33:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.14-20.01.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.14-20.01.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.14-20.01.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.14-20.01.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.14-20.01.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.14-20.01.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.14-20.01.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.14-20.01.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.14-20.01.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.14-20.01.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.14-20.01.34:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.14-20.01.34:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.14-20.01.34:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.14-20.01.34:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.14-20.01.34:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.14-20.01.34:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.14-20.01.34:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.14-20.01.34:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.14-20.01.34:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.14-20.01.34:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.14-20.01.34:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.14-20.01.34:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.14-20.01.34:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.14-20.01.34:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.14-20.01.34:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.14-20.01.34:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.14-20.01.34:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.14-20.01.34:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.14-20.01.34:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.14-20.01.34:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.14-20.01.34:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.14-20.01.34:271][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.14-20.01.34:281][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.14-20.01.34:366][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.14-20.01.34:366][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Intermediate/Shaders/WorkingDirectory/8516/).
+[2021.11.14-20.01.34:366][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/amg05/AppData/Local/Temp/UnrealShaderWorkingDir/22C5F90E420F65EFA103AE9168AB4932/'.
+[2021.11.14-20.01.34:366][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.14-20.01.34:366][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.14-20.01.35:289][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.14-20.01.35:350][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/amg05/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.14-20.01.35:350][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/amg05/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.14-20.01.35:351][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.14-20.01.35:351][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.14-20.01.35:351][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.14-20.01.35:351][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.14-20.01.35:366][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.14-20.01.35:366][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.14-20.01.35:366][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.14-20.01.35:647][  0]LogDerivedDataCache: Speed tests for C:/Users/amg05/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.28 seconds
+[2021.11.14-20.01.35:647][  0]LogDerivedDataCache: Display: Performance to C:/Users/amg05/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=267.17MBs, RandomWriteSpeed=3.36MBs. Assigned SpeedClass 'Local'
+[2021.11.14-20.01.35:648][  0]LogDerivedDataCache: Using Local data cache path C:/Users/amg05/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.14-20.01.35:648][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.14-20.01.35:648][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.14-20.01.35:710][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.14-20.01.35:710][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.14-20.01.35:746][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2021.11.14-20.01.36:018][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.14-20.01.36:018][  0]LogInit: Active device profile: [000001D7A336A300][000001D798AA2240 49] Windows
+[2021.11.14-20.01.36:018][  0]LogInit: Profiles: [000001D7A336A300][000001D798AA2240 49] Windows, [000001D7A331A900][000001D7A144E3C0 49] WindowsNoEditor, [000001D7A3369400][000001D7A1452540 49] WindowsServer, [000001D7A331B800][000001D7A14566C0 49] WindowsClient, [000001D7A3368700][000001D7A145A840 49] IOS, [000001D7A331AF00][000001D7A145E9C0 49] iPadAir, [000001D7A336A100][000001D7A1462B40 49] iPadAir2, [000001D7A3246000][000001D7A1480E00 49] IPadPro, [000001D7A3246100][000001D7A146AE40 49] iPadAir3, [000001D7A3319600][000001D7A1494FC0 49] iPadAir4, [000001D7A3247800][000001D7A1499140 49] iPadMini2, [000001D7A331AC00][000001D7A149D2C0 49] iPadMini3, [000001D7A3245700][000001D7A14A1440 49] iPadMini4, [000001D7A331BF00][000001D7A14A55C0 49] iPadMini5, [000001D7A3269900][000001D7A144B840 49] iPhone6, [000001D7A3269A00][000001D7A14A9880 49] iPodTouch6, [000001D7A336AF00][000001D7A14B1AC0 49] iPhone7, [000001D7A336B100][000001D7A14ADB00 49] iPodTouch7, [000001D7A326A800][000001D7A14B5C40 49] iPhone5S, [000001D7A3368100][000001D7A14BC100 49] iPhone6Plus, [000001D7A326B400][000001D7A14C0280 49] iPhone6S, [000001D7A336BB00][000001D7A14C4400 49] iPhone6SPlus, [000001D7A3269F00][000001D7A14C8580 49] iPhone7Plus, [000001D7A3368500][000001D7A14CC700 49] iPhoneSE, [000001D7A3268B00][000001D7A14D0880 49] iPhone8, [000001D7A336B400][000001D7A14D4A00 49] iPhone8Plus, [000001D7A3268800][000001D7A14D8B80 49] iPhoneX, [000001D7A336AA00][000001D7A14DCD00 49] iPhoneXS, [000001D7A3318C00][000001D7A14E0E80 49] iPhoneXSMax, [000001D7A3269600][000001D7A14E5000 49] iPhoneXR, [000001D7A331BA00][000001D7A14E9180 49] iPhone11, [000001D7A3268500][000001D7A14ED300 49] iPhone11Pro, [000001D7A3318300][000001D7A1E23480 49] iPhone11ProMax, [000001D7A3269100][000001D7A1E27600 49] iPhoneSE2, [000001D7A331AE00][000001D7A1E2B780 49] iPhone12Mini, [000001D7A326A500][000001D7A14B98C0 49] iPhone12, [000001D7A3318100][000001D7A1E2FA00 49] iPhone12Pro, [000001D7A3269000][000001D7A1E33B40 49] iPhone12ProMax, [000001D7A3319800][000001D7A1E37C80 49] iPadPro105, [000001D7A326BC00][000001D7A1E3E140 49] iPadPro129, [000001D7A336AB00][000001D7A1E422C0 49] iPadPro97, [000001D7A3269E00][000001D7A1E46440 49] iPadPro2_129, [000001D7A3369500][000001D7A1E4A5C0 49] iPad5, [000001D7A326B700][000001D7A1E4E740 49] iPad6, [000001D7A336A000][000001D7A1E528C0 49] iPad7, [000001D7A326A700][000001D7A1E56A40 49] iPad8, [000001D7A336B000][000001D7A1E5ABC0 49] iPadPro11, [000001D7A3269B00][000001D7A1E5ED40 49] iPadPro2_11, [000001D7A3368C00][000001D7A1E62EC0 49] iPadPro3_129, [000001D7A326AA00][000001D7A1E67040 49] iPadPro4_129, [000001D7A3369B00][000001D7A1E6B1C0 49] AppleTV, [000001D7A326BE00][000001D7A1E6F340 49] AppleTV4K, [000001D7A3368300][000001D7A1E734C0 49] TVOS, [000001D7A326BB00][000001D7A1E77640 49] Mac, [000001D7A3369A00][000001D7A1E7B7C0 49] MacClient, [000001D7A326B600][000001D7A1E7F940 49] MacNoEditor, [000001D7A3369900][000001D7A1E3BA80 49] MacServer, [000001D7A3268300][000001D7A1E83BC0 49] Linux, [000001D7A336B800][000001D7A1E87D00 49] LinuxAArch64, [000001D7A3268F00][000001D7A1E8E1C0 49] LinuxNoEditor, [000001D7A3369100][000001D7A1E92340 49] LinuxAArch64NoEditor, [000001D7A326B800][000001D7A1E964C0 49] LinuxClient, [000001D7A3368600][000001D7A1E9A640 49] LinuxAArch64Client, [000001D7A3268E00][000001D7A1E9E7C0 49] LinuxServer, [000001D7A3369C00][000001D7A1EA2940 49] LinuxAArch64Server, [000001D7A326A200][000001D7A1EA6AC0 49] Android, [000001D7A336B500][000001D7A1EAAC40 49] Android_Low, [000001D7A326B100][000001D7A1EAEDC0 49] Android_Mid, [000001D7A3368200][000001D7A1EB2F40 49] Android_High, [000001D7A326BF00][000001D7A1EB70C0 49] Android_Default, [000001D7A3369600][000001D7A1EBB240 49] Android_Adreno4xx, [000001D7A3269D00][000001D7A1EBF3C0 49] Android_Adreno5xx_Low, [000001D7A3368400][000001D7A1EC3540 49] Android_Adreno5xx, [000001D7A326AC00][000001D7A1EC76C0 49] Android_Adreno6xx, [000001D7A336B600][000001D7A1ECB840 49] Android_Adreno6xx_Vulkan, [000001D7A326B200][000001D7A1ECF9C0 49] Android_Mali_T6xx, [000001D7A336A200][000001D7A1E8BB00 49] Android_Mali_T7xx, [000001D7A326A300][000001D7A1ED3C40 49] Android_Mali_T8xx, [000001D7A3246900][000001D7A1ED60C0 49] Android_Mali_G71, [000001D7A3318600][000001D7A1EDE240 49] Android_Mali_G72, [000001D7A3245B00][000001D7A1EE23C0 49] Android_Mali_G72_Vulkan, [000001D7A3319900][000001D7A1EE6540 49] Android_Mali_G76, [000001D7A3244800][000001D7A1EEA6C0 49] Android_Mali_G76_Vulkan, [000001D7A331A500][000001D785A22840 49] Android_Mali_G77, [000001D7A3245D00][000001D785A269C0 49] Android_Mali_G77_Vulkan, [000001D7A331A400][000001D785A2AB40 49] Android_Vulkan_SM5, [000001D7A3245E00][000001D785A2ECC0 49] Android_PowerVR_G6xxx, [000001D7A331BE00][000001D785A32E40 49] Android_PowerVR_GT7xxx, [000001D7A3247900][000001D785A36FC0 49] Android_PowerVR_GE8xxx, [000001D7A331B600][000001D785A3B140 49] Android_PowerVR_GM9xxx, [000001D7A3244A00][000001D785A3F2C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001D7A331B300][000001D785A43440 49] Android_TegraK1, [000001D7A3245F00][000001D785A475C0 49] Android_Unknown_Vulkan, [000001D7A3319100][000001D785A4B740 49] Lumin, [000001D7A3246D00][000001D785A4F8C0 49] Lumin_Desktop, [000001D7A3319500][000001D785A53A40 49] HoloLens, 
+[2021.11.14-20.01.36:152][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.14-20.01.36:152][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.14-20.01.36:152][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.14-20.01.36:152][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.14-20.01.36:152][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.14-20.01.36:172][  0]LogNetVersion: Proyecto_V3 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2954844583)
+[2021.11.14-20.01.36:711][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.14-20.01.36:781][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.069031 seconds
+[2021.11.14-20.01.36:787][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.14-20.01.36:787][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.14-20.01.36:787][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.14-20.01.37:259][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.14-20.01.37:265][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.14-20.01.37:344][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.11.14-20.01.37:344][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.11.14-20.01.37:344][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.11.14-20.01.37:377][  0]SourceControl: Source control is disabled
+[2021.11.14-20.01.37:378][  0]SourceControl: Source control is disabled
+[2021.11.14-20.01.37:394][  0]SourceControl: Source control is disabled
+[2021.11.14-20.01.37:403][  0]SourceControl: Source control is disabled
+[2021.11.14-20.01.37:418][  0]SourceControl: Source control is disabled
+[2021.11.14-20.01.37:431][  0]LogUProjectInfo: Found projects:
+[2021.11.14-20.01.37:706][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.14-20.01.37:732][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.14-20.01.37:732][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.14-20.01.37:795][  0]LogCollectionManager: Loaded 0 collections in 0.002141 seconds
+[2021.11.14-20.01.37:816][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Collections/' took 0.00s
+[2021.11.14-20.01.37:816][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Developers/amg05/Collections/' took 0.00s
+[2021.11.14-20.01.37:816][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Collections/' took 0.00s
+[2021.11.14-20.01.37:824][  0]LogOcInput: OculusInput pre-init called
+[2021.11.14-20.01.37:839][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.14-20.01.37:839][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.14-20.01.37:893][  0]LogEngine: Initializing Engine...
+[2021.11.14-20.01.37:894][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.14-20.01.37:894][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.14-20.01.37:895][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.14-20.01.38:015][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.14-20.01.38:024][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.14-20.01.38:038][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.14-20.01.38:046][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.14-20.01.38:046][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.14-20.01.38:046][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.14-20.01.38:046][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.14-20.01.38:046][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.14-20.01.38:046][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.14-20.01.38:046][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.14-20.01.38:046][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.14-20.01.38:046][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.14-20.01.38:046][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.14-20.01.38:046][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.14-20.01.38:046][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.14-20.01.38:071][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.14-20.01.38:071][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.14-20.01.38:125][  0]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.11.14-20.01.38:131][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.14-20.01.38:133][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.14-20.01.38:133][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.14-20.01.38:134][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.14-20.01.38:134][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.14-20.01.38:134][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.14-20.01.38:135][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.14-20.01.38:135][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.14-20.01.38:135][  0]LogInit: FAudioDevice initialized.
+[2021.11.14-20.01.38:136][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.14-20.01.38:136][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.14-20.01.38:292][  0]LogDerivedDataCache: Saved boot cache 0.16s 77MB C:/Users/amg05/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.14-20.01.38:294][  0]LogInit: Texture streaming: Enabled
+[2021.11.14-20.01.38:310][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.14-20.01.38:317][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.14-20.01.38:317][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.14-20.01.38:325][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.14-20.01.38:365][  0]LogInit: Transaction tracking system initialized
+[2021.11.14-20.01.38:394][  0]BlueprintLog: New page: Editor Load
+[2021.11.14-20.01.38:485][  0]LocalizationService: Localization service is disabled
+[2021.11.14-20.01.38:516][  0]TimingProfiler: Initialize
+[2021.11.14-20.01.38:516][  0]TimingProfiler: OnSessionChanged
+[2021.11.14-20.01.38:516][  0]LoadingProfiler: Initialize
+[2021.11.14-20.01.38:516][  0]LoadingProfiler: OnSessionChanged
+[2021.11.14-20.01.38:516][  0]NetworkingProfiler: Initialize
+[2021.11.14-20.01.38:517][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.14-20.01.38:517][  0]MemoryProfiler: Initialize
+[2021.11.14-20.01.38:517][  0]MemoryProfiler: OnSessionChanged
+[2021.11.14-20.01.38:687][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.14-20.01.38:687][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.14-20.01.38:869][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/' took 0.02s
+[2021.11.14-20.01.39:099][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.14-20.01.39:106][  0]SourceControl: Source control is disabled
+[2021.11.14-20.01.39:106][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.311
+[2021.11.14-20.01.39:106][  0]Cmd: MAP LOAD FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Level/Battleflied.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.14-20.01.39:107][  0]LightingResults: New page: Lighting Build
+[2021.11.14-20.01.39:107][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-20.01.39:108][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.01.39:108][  0]MapCheck: New page: Map Check
+[2021.11.14-20.01.39:108][  0]LightingResults: New page: Lighting Build
+[2021.11.14-20.01.39:116][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.14-20.01.39:891][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_01.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01': Can't find file.
+[2021.11.14-20.01.39:891][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_01.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01': Can't find file.
+[2021.11.14-20.01.39:897][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_01.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01': Can't find file.
+[2021.11.14-20.01.39:898][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_02.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02': Can't find file.
+[2021.11.14-20.01.39:898][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_02.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02': Can't find file.
+[2021.11.14-20.01.39:899][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_02.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02': Can't find file.
+[2021.11.14-20.01.39:900][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_03.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03': Can't find file.
+[2021.11.14-20.01.39:900][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_03.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03': Can't find file.
+[2021.11.14-20.01.39:900][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_03.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03': Can't find file.
+[2021.11.14-20.01.39:901][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_04.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04': Can't find file.
+[2021.11.14-20.01.39:902][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_04.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04': Can't find file.
+[2021.11.14-20.01.39:902][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_04.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04': Can't find file.
+[2021.11.14-20.01.41:339][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_04.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04': Can't find file.
+[2021.11.14-20.01.41:339][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04.MI_Impostor_Tree_Large_04 Referenced by SM_Tree_Large_04
+[2021.11.14-20.01.41:339][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_04.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04': Can't find file.
+[2021.11.14-20.01.41:339][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04.MI_Impostor_Tree_Large_04 Referenced by SM_Tree_Large_04
+[2021.11.14-20.01.41:340][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_03.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03': Can't find file.
+[2021.11.14-20.01.41:340][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03.MI_Impostor_Tree_Large_03 Referenced by SM_Tree_Large_03
+[2021.11.14-20.01.41:341][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_03.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03': Can't find file.
+[2021.11.14-20.01.41:341][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03.MI_Impostor_Tree_Large_03 Referenced by SM_Tree_Large_03
+[2021.11.14-20.01.41:341][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_02.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02': Can't find file.
+[2021.11.14-20.01.41:341][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02.MI_Impostor_Tree_Large_02 Referenced by SM_Tree_Large_02
+[2021.11.14-20.01.41:342][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_02.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02': Can't find file.
+[2021.11.14-20.01.41:342][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02.MI_Impostor_Tree_Large_02 Referenced by SM_Tree_Large_02
+[2021.11.14-20.01.41:344][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_01.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01': Can't find file.
+[2021.11.14-20.01.41:344][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01.MI_Impostor_Tree_Large_01 Referenced by SM_Tree_Large_01
+[2021.11.14-20.01.41:345][  0]LogLinker: Warning: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\DreamscapeSeries\DreamscapeMeadows\Meshes\Trees\SM_Tree_Large_01.uasset: Failed to load '/Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01': Can't find file.
+[2021.11.14-20.01.41:345][  0]LoadErrors: Failed to load /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01.MI_Impostor_Tree_Large_01 Referenced by SM_Tree_Large_01
+[2021.11.14-20.01.42:451][  0]LogMaterial: Display: Missing cached shader map for material M_Landscape_Battlefield, compiling. 
+[2021.11.14-20.01.42:544][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.11.14-20.01.42:544][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.11.14-20.01.42:544][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.11.14-20.01.42:778][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Battleflied'.
+[2021.11.14-20.01.42:779][  0]LogAIModule: Creating AISystem for world Battleflied
+[2021.11.14-20.01.42:787][  0]LogMaterial: Display: Material /Game/AdvancedVillagePack/Materials/M_Uber.M_Uber needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.11.14-20.01.42:797][  0]LogMaterial: Display: Missing cached shader map for material M_Uber, compiling. 
+[2021.11.14-20.01.42:822][  0]MapCheck: Warning: M_Uber Material /Game/AdvancedVillagePack/Materials/M_Uber.M_Uber was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.11.14-20.01.42:869][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.14-20.01.42:892][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.11.14-20.01.42:896][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.14-20.01.42:896][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.214ms to complete.
+[2021.11.14-20.01.42:919][  0]LogFileHelpers: Loading map 'Battleflied' took 3.813
+[2021.11.14-20.01.42:921][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.126
+[2021.11.14-20.01.43:061][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.01.43:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.01.43:077][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.01.43:084][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.01.43:103][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0105 seconds. Added 3601 classes and 859 folders.
+[2021.11.14-20.01.43:106][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.14-20.01.43:108][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.14-20.01.43:108][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:108][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-20.01.43:108][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.11.14-20.01.43:109][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.14-20.01.43:109][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:109][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.14-20.01.43:109][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.11.14-20.01.43:110][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.14-20.01.43:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.14-20.01.43:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.11.14-20.01.43:111][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-20.01.43:111][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:111][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-20.01.43:111][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.11.14-20.01.43:113][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.14-20.01.43:113][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:113][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.14-20.01.43:113][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.11.14-20.01.43:113][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.14-20.01.43:114][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:114][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.14-20.01.43:114][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.11.14-20.01.43:114][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.14-20.01.43:114][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:114][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.14-20.01.43:115][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.11.14-20.01.43:115][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.14-20.01.43:115][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:115][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.14-20.01.43:115][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.11.14-20.01.43:116][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.14-20.01.43:116][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:116][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.14-20.01.43:116][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.11.14-20.01.43:117][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.14-20.01.43:117][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:117][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.14-20.01.43:117][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.14-20.01.43:118][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.14-20.01.43:118][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:118][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.14-20.01.43:118][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.14-20.01.43:119][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.14-20.01.43:119][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:119][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.14-20.01.43:119][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.11.14-20.01.43:120][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-20.01.43:120][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:120][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-20.01.43:120][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.14-20.01.43:121][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.14-20.01.43:121][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:121][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.14-20.01.43:121][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.11.14-20.01.43:122][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.14-20.01.43:122][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:122][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.14-20.01.43:122][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.11.14-20.01.43:123][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.14-20.01.43:123][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:123][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-20.01.43:123][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.14-20.01.43:124][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.14-20.01.43:124][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:124][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.14-20.01.43:124][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.11.14-20.01.43:125][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.14-20.01.43:125][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:125][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.14-20.01.43:125][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.11.14-20.01.43:126][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-20.01.43:126][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:126][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-20.01.43:127][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.11.14-20.01.43:127][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-20.01.43:127][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:127][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-20.01.43:127][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.11.14-20.01.43:128][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.14-20.01.43:128][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:128][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-20.01.43:128][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.11.14-20.01.43:129][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.14-20.01.43:129][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:129][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.14-20.01.43:129][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.11.14-20.01.43:130][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.14-20.01.43:130][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:130][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.14-20.01.43:130][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.11.14-20.01.43:131][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.14-20.01.43:131][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:131][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.14-20.01.43:131][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.11.14-20.01.43:132][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-20.01.43:132][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:132][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-20.01.43:132][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.11.14-20.01.43:133][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.14-20.01.43:133][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.01.43:133][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.14-20.01.43:133][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.11.14-20.01.43:219][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.14-20.01.43:221][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.11.14-20.01.43:525][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.14-20.01.43:530][  0]LogSlate: Took 0.000659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.14-20.01.43:532][  0]LogSlate: Took 0.000399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.14-20.01.43:637][  0]LogRenderer: Reallocating scene render targets to support 1496x592 Format 10 NumSamples 1 (Frame:1).
+[2021.11.14-20.01.43:663][  0]LogStaticMesh: Allocated 64x64x64 distance field atlas = 0.5Mb, with 1 objects containing 0.5Mb backing data
+[2021.11.14-20.01.44:085][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.14-20.01.44:085][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.11.14-20.01.44:085][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.11.14-20.01.44:085][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.11.14-20.01.44:085][  0]LogLoad: (Engine Initialization) Total time: 13.29 seconds
+[2021.11.14-20.01.44:085][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.14-20.01.44:085][  0]LogInit: First time updating LLM stats...
+[2021.11.14-20.01.44:149][  0]LogAssetRegistry: Asset discovery search completed in 8.4031 seconds
+[2021.11.14-20.01.44:151][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.11.14-20.01.44:233][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.14-20.01.44:293][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.14-20.01.46:017][ 47]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.14-20.01.46:065][ 50]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 42
+[2021.11.14-20.01.47:866][155]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2021.11.14-20.01.49:788][267]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.11.14-20.01.49:788][267]LogShaderCompilers: Warning: Failed to compile Material /Game/Level/Landscape/Material/M_Landscape_Battlefield.M_Landscape_Battlefield for platform PCD3D_SM5, Default Material will be used in game.
+[2021.11.14-20.01.49:788][267]LogShaderCompilers: Display: 	/Engine/Generated/Material.ush(2483,2-40):  warning X3206: implicit truncation of vector type
+[2021.11.14-20.01.49:788][267]LogShaderCompilers: Display: 	/Engine/Generated/UniformBuffers/Material.ush(35,14-41):  err0r X4510: maximum ps_5_0 sampler register index (16) exceeded
+[2021.11.14-20.01.50:329][296]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.14-20.01.52:588][397]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2021.11.14-20.01.54:296][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.11.14-20.01.54:453][438]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.11.14-20.01.54:454][438]LogK2Compiler: Unable to find connection for pin!  Check AllocateDefaultPins() for consistency!
+[2021.11.14-20.01.54:454][438]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\Wid_Errores.uasset: [Compiler] In use pin  Game Instance  no longer exists on node  Steam Game Instance Ref . Please refresh node or break links to remove pin.
+[2021.11.14-20.01.54:454][438]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\Wid_Errores.uasset: [Compiler] The type of  Target  is undetermined.  Connect something to  S Main Menu  to imply a specific type.
+[2021.11.14-20.01.54:455][438]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\Wid_Errores.uasset: [Compiler] The type of  Target  is undetermined.  Connect something to  Destroy Session  to imply a specific type.
+[2021.11.14-20.01.54:458][438]LogK2Compiler: Unable to find connection for pin!  Check AllocateDefaultPins() for consistency!
+[2021.11.14-20.01.54:459][438]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\Wid_Main_Menu.uasset: [Compiler] In use pin  Game Instance  no longer exists on node  Steam Game Instance Ref . Please refresh node or break links to remove pin.
+[2021.11.14-20.01.54:466][438]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\Wid_Errores.uasset: [Compiler] The current value of the ' Target ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.11.14-20.01.54:466][438]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\Wid_Errores.uasset: [Compiler] The current value of the ' Target ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.11.14-20.01.54:497][438]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level
+[2021.11.14-20.01.54:497][438]Cmd: MAP LOAD FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Level/Main_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.14-20.01.54:497][438]LightingResults: New page: Lighting Build
+[2021.11.14-20.01.54:497][438]LoadErrors: New page: Loading map: Main_Menu_Level.umap
+[2021.11.14-20.01.54:532][438]LogWorld: UWorld::CleanupWorld for Battleflied, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-20.01.54:533][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.01.54:533][438]MapCheck: New page: Map Check
+[2021.11.14-20.01.54:533][438]LightingResults: New page: Lighting Build
+[2021.11.14-20.01.54:545][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.14-20.01.54:556][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.11.14-20.01.54:558][438]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2021.11.14-20.01.54:637][438]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.14-20.01.54:638][438]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.11.14-20.01.54:651][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.11.14-20.01.54:663][438]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.14-20.01.54:663][438]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2021.11.14-20.01.54:663][438]LogFileHelpers: Loading map 'Main_Menu_Level' took 0.165
+[2021.11.14-20.01.56:702][550]LogK2Compiler: Unable to find connection for pin!  Check AllocateDefaultPins() for consistency!
+[2021.11.14-20.01.56:703][550]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\_Lobby\BP_Lobby_GameMode.uasset: [Compiler] In use pin  Game Instance  no longer exists on node  Steam Game Instance Ref . Please refresh node or break links to remove pin.
+[2021.11.14-20.01.56:703][550]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\_Lobby\BP_Lobby_GameMode.uasset: [Compiler] This blueprint (self) is not a Steam_GameIntance_C, therefore ' Target ' must have a connection.
+[2021.11.14-20.01.56:704][550]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\_Lobby\BP_Lobby_GameMode.uasset: [Compiler] This blueprint (self) is not a Steam_GameIntance_C, therefore ' Target ' must have a connection.
+[2021.11.14-20.01.56:704][550]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\_Lobby\BP_Lobby_GameMode.uasset: [Compiler] Variable node  Get Server_Name  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.11.14-20.01.56:705][550]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\_Lobby\BP_Lobby_GameMode.uasset: [Compiler] Variable node  Get Max_Players  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.11.14-20.01.56:733][550]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/_Lobby/BP_Lobby_GameMode.BP_Lobby_GameMode
+[2021.11.14-20.01.56:923][550]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.11.14-20.01.56:923][550]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.11.14-20.01.57:971][550]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.11.14-20.01.57:971][550]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.11.14-20.01.58:098][550]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/_GamePlay/BP_Gameplay_PC.BP_Gameplay_PC
+[2021.11.14-20.01.58:566][550]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/Wid_Main_Menu.Wid_Main_Menu
+[2021.11.14-20.01.59:033][550]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/BP_GameIntance.BP_GameIntance
+[2021.11.14-20.01.59:385][550]LogLinker: Warning: Failed to load '/Game/_Main/Level/Main_Menu_Level.Main_Menu_Level:PersistentLevel.Main_Menu_Level': Can't resolve asset name
+[2021.11.14-20.01.59:400][550]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Steam_GameIntance.Steam_GameIntance
+[2021.11.14-20.02.00:198][550]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.14-20.02.03:855][757]LogSlate: Window 'BP_Gameplay_PC' being destroyed
+[2021.11.14-20.02.13:286][318]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.14-20.02.15:998][476]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level:PersistentLevel.Main_Menu_Level
+[2021.11.14-20.02.22:490][835]BlueprintLog: New page: Compile BP_Lobby_GameMode
+[2021.11.14-20.02.22:493][835]LogK2Compiler: Unable to find connection for pin!  Check AllocateDefaultPins() for consistency!
+[2021.11.14-20.02.22:493][835]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\_Lobby\BP_Lobby_GameMode.uasset: [Compiler] In use pin  Game Instance  no longer exists on node  Steam Game Instance Ref . Please refresh node or break links to remove pin.
+[2021.11.14-20.02.22:494][835]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\_Lobby\BP_Lobby_GameMode.uasset: [Compiler] This blueprint (self) is not a Steam_GameIntance_C, therefore ' Target ' must have a connection.
+[2021.11.14-20.02.22:494][835]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\_Lobby\BP_Lobby_GameMode.uasset: [Compiler] This blueprint (self) is not a Steam_GameIntance_C, therefore ' Target ' must have a connection.
+[2021.11.14-20.02.22:494][835]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\_Lobby\BP_Lobby_GameMode.uasset: [Compiler] Variable node  Get Server_Name  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.11.14-20.02.22:495][835]LogBlueprint: Error: [AssetLog] C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Content\_Main\_Lobby\BP_Lobby_GameMode.uasset: [Compiler] Variable node  Get Max_Players  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.11.14-20.02.22:602][835]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.11.14-20.02.23:394][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/_Lobby/BP_Lobby_GameMode" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/_Lobby/BP_Lobby_GameMode.uasset" SILENT=true
+[2021.11.14-20.02.23:413][878]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/BP_Lobby_GameModeADCC87244596610E3EA28B928F22F813.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/_Lobby/BP_Lobby_GameMode.uasset'
+[2021.11.14-20.02.23:428][878]AssetCheck: New page: Asset Save: BP_Lobby_GameMode
+[2021.11.14-20.02.23:428][878]LogContentValidation: Display: Validating Blueprint /Game/_Main/_Lobby/BP_Lobby_GameMode.BP_Lobby_GameMode
+[2021.11.14-20.02.32:915][441]BlueprintLog: New page: Compile BP_Lobby_GameMode
+[2021.11.14-20.02.32:992][441]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.11.14-20.02.33:948][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/_Lobby/BP_Lobby_GameMode" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/_Lobby/BP_Lobby_GameMode.uasset" SILENT=true
+[2021.11.14-20.02.33:968][495]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/BP_Lobby_GameMode82563FB84764E37C72498D9F2A3CDBE9.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/_Lobby/BP_Lobby_GameMode.uasset'
+[2021.11.14-20.02.34:116][495]AssetCheck: New page: Asset Save: BP_Lobby_GameMode
+[2021.11.14-20.02.34:116][495]LogContentValidation: Display: Validating Blueprint /Game/_Main/_Lobby/BP_Lobby_GameMode.BP_Lobby_GameMode
+[2021.11.14-20.02.42:406][987]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.11.14-20.02.42:414][987]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Main_Menu_Level513DCD01400A0D203D6E758F9D55D71C.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Level/Main_Menu_Level.umap'
+[2021.11.14-20.02.42:427][987]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.071
+[2021.11.14-20.02.42:439][987]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2021.11.14-20.02.42:439][987]LogContentValidation: Display: Validating World /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level
+[2021.11.14-20.02.47:514][286]BlueprintLog: New page: Compile Main_Menu_Level
+[2021.11.14-20.02.47:587][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.11.14-20.02.48:062][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.11.14-20.02.48:068][310]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Main_Menu_Level410975054C6269A1421297AE4A0B903F.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Level/Main_Menu_Level.umap'
+[2021.11.14-20.02.48:082][310]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.066
+[2021.11.14-20.02.48:166][310]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2021.11.14-20.02.48:166][310]LogContentValidation: Display: Validating World /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level
+[2021.11.14-20.02.49:130][366]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.14-20.02.49:142][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.14-20.02.49:142][366]BlueprintLog: Warning: Blueprint failed to compile:  Wid_Errores
+[2021.11.14-20.02.49:142][366]BlueprintLog: Warning: Blueprint failed to compile:  Wid_Main_Menu
+[2021.11.14-20.02.49:194][366]LogCustomDialog: Dialog displayed:
+[2021.11.14-20.02.54:110][366]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/Wid_Errores.Wid_Errores
+[2021.11.14-20.02.56:930][366]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.11.14-20.03.09:043][ 69]BlueprintLog: New page: Compile Wid_Errores
+[2021.11.14-20.03.09:103][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.11.14-20.03.10:875][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Errores" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Errores.uasset" SILENT=true
+[2021.11.14-20.03.10:887][170]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_ErroresA4C68B204DA4D7FEB353BAB8A155D6C3.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Errores.uasset'
+[2021.11.14-20.03.10:908][170]AssetCheck: New page: Asset Save: Wid_Errores
+[2021.11.14-20.03.10:908][170]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Errores.Wid_Errores
+[2021.11.14-20.03.12:223][245]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.14-20.03.12:238][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.14-20.03.12:238][245]BlueprintLog: Warning: Blueprint failed to compile:  Wid_Main_Menu
+[2021.11.14-20.03.12:238][245]LogCustomDialog: Dialog displayed:
+[2021.11.14-20.03.14:640][245]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.11.14-20.03.21:365][635]BlueprintLog: New page: Compile Wid_Main_Menu
+[2021.11.14-20.03.21:438][635]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.11.14-20.03.21:915][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Main_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Main_Menu.uasset" SILENT=true
+[2021.11.14-20.03.21:954][659]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Main_MenuB8D0108F479629D07BA23FA3005FC92B.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Main_Menu.uasset'
+[2021.11.14-20.03.21:974][659]AssetCheck: New page: Asset Save: Wid_Main_Menu
+[2021.11.14-20.03.21:974][659]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Main_Menu.Wid_Main_Menu
+[2021.11.14-20.03.23:362][738]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.14-20.03.23:374][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.14-20.03.23:374][738]PIE: New page: PIE session: Main_Menu_Level (Nov 14, 2021, 8:03:23 AM)
+[2021.11.14-20.03.23:375][738]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.14-20.03.23:376][738]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.14-20.03.23:376][738]LogLinker: Warning: Failed to load '/Game/_Lobby/Steam_GameIntance': Can't find file.
+[2021.11.14-20.03.23:376][738]LogLinker: Warning: Failed to load '/Game/_Lobby/Steam_GameIntance': Can't find file.
+[2021.11.14-20.03.23:376][738]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Lobby/Steam_GameIntance.Steam_GameIntance_C'
+[2021.11.14-20.03.23:376][738]LogPlayLevel: Creating play world package: /Game/_Main/Level/UEDPIE_0_Main_Menu_Level
+[2021.11.14-20.03.23:378][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000946s)
+[2021.11.14-20.03.23:379][738]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.11.14-20.03.23:379][738]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2021.11.14-20.03.23:379][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level to /Game/_Main/Level/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.002097s)
+[2021.11.14-20.03.23:433][738]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.11.14-20.03.23:433][738]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.14-20.03.23:433][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.14-20.03.23:433][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.14-20.03.23:433][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.14-20.03.23:433][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.14-20.03.23:433][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.14-20.03.23:433][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.14-20.03.23:433][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.14-20.03.23:433][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.14-20.03.23:434][738]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.14-20.03.23:434][738]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.14-20.03.23:437][738]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.14-20.03.23:437][738]LogAudioMixer: Display: 1: FrontRight
+[2021.11.14-20.03.23:462][738]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.11.14-20.03.23:462][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.14-20.03.23:462][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.14-20.03.23:462][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.14-20.03.23:462][738]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.14-20.03.23:462][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.14-20.03.23:463][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.14-20.03.23:480][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.14-20.03.23:480][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.14-20.03.23:480][738]LogInit: FAudioDevice initialized.
+[2021.11.14-20.03.23:480][738]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main_Menu_Level'.
+[2021.11.14-20.03.23:493][738]LogLoad: Game class is 'GameMode'
+[2021.11.14-20.03.23:494][738]LogWorld: Bringing World /Game/_Main/Level/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 60) at 2021.11.14-14.03.23
+[2021.11.14-20.03.23:494][738]LogWorld: Bringing up level for play took: 0.000327
+[2021.11.14-20.03.23:494][738]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.11.14-20.03.23:504][738]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.11.14-20.03.23:505][738]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.14-20.03.23:505][738]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.14-20.03.23:505][738]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.11.14-20.03.23:505][738]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.11.14-20.03.23:506][738]PIE: Server logged in
+[2021.11.14-20.03.23:507][738]PIE: Play in editor total start time 0.138 seconds.
+[2021.11.14-20.03.28:456][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.03.28:456][ 11]LogWorld: BeginTearingDown for /Game/_Main/Level/UEDPIE_0_Main_Menu_Level
+[2021.11.14-20.03.28:456][ 11]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-20.03.28:456][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.03.28:468][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.14-20.03.28:476][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.03.28:527][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.14-20.03.28:532][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.14-20.03.28:534][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.14-20.03.28:556][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.03.28:582][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2021.11.14-20.03.28:608][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.11.14-20.03.31:930][203]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.11.14-20.03.31:937][203]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Main_Menu_LevelAEC83EBF4D0C32BCE864B1BF07D27AEE.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Level/Main_Menu_Level.umap'
+[2021.11.14-20.03.31:949][203]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.079
+[2021.11.14-20.03.31:962][203]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2021.11.14-20.03.31:962][203]LogContentValidation: Display: Validating World /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level
+[2021.11.14-20.03.40:796][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/BP_GameIntance" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/BP_GameIntance.uasset" SILENT=true
+[2021.11.14-20.03.40:803][727]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/BP_GameIntance59B622244A3CB34057161FA74D33EB9E.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/BP_GameIntance.uasset'
+[2021.11.14-20.03.40:823][727]AssetCheck: New page: Asset Save: BP_GameIntance
+[2021.11.14-20.03.40:823][727]LogContentValidation: Display: Validating Blueprint /Game/_Main/BP_GameIntance.BP_GameIntance
+[2021.11.14-20.05.44:143][411]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.11.14-20.06.01:564][139]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.14-20.06.01:569][139]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.14-20.06.02:597][177]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2021.11.14-20.06.02:606][177]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Main_Menu_Level8A4B15744FDDEDA4B88C38B9FBD3496D.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Level/Main_Menu_Level.umap'
+[2021.11.14-20.06.02:640][177]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2021.11.14-20.06.02:640][177]LogContentValidation: Display: Validating World /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level
+[2021.11.14-20.06.03:411][221]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.14-20.06.03:457][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.14-20.06.03:457][221]PIE: New page: PIE session: Main_Menu_Level (Nov 14, 2021, 8:06:03 AM)
+[2021.11.14-20.06.03:457][221]LogPlayLevel: Creating play world package: /Game/_Main/Level/UEDPIE_0_Main_Menu_Level
+[2021.11.14-20.06.03:458][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000933s)
+[2021.11.14-20.06.03:459][221]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.11.14-20.06.03:460][221]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2021.11.14-20.06.03:460][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level to /Game/_Main/Level/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.002229s)
+[2021.11.14-20.06.03:538][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.11.14-20.06.03:539][221]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.14-20.06.03:539][221]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.14-20.06.03:539][221]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.14-20.06.03:539][221]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.14-20.06.03:539][221]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.14-20.06.03:539][221]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.14-20.06.03:539][221]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.14-20.06.03:539][221]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.14-20.06.03:539][221]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.14-20.06.03:540][221]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.14-20.06.03:540][221]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.14-20.06.03:543][221]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.14-20.06.03:543][221]LogAudioMixer: Display: 1: FrontRight
+[2021.11.14-20.06.03:569][221]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.11.14-20.06.03:569][221]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.14-20.06.03:569][221]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.14-20.06.03:569][221]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.14-20.06.03:570][221]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.14-20.06.03:570][221]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.14-20.06.03:570][221]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.14-20.06.03:588][221]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.14-20.06.03:588][221]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.14-20.06.03:588][221]LogInit: FAudioDevice initialized.
+[2021.11.14-20.06.03:588][221]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Menu_Level'.
+[2021.11.14-20.06.03:596][221]LogLoad: Game class is 'GameMode'
+[2021.11.14-20.06.03:598][221]LogWorld: Bringing World /Game/_Main/Level/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 60) at 2021.11.14-14.06.03
+[2021.11.14-20.06.03:598][221]LogWorld: Bringing up level for play took: 0.000429
+[2021.11.14-20.06.03:598][221]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.11.14-20.06.03:600][221]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.14-20.06.03:600][221]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.14-20.06.03:600][221]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.11.14-20.06.03:601][221]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.11.14-20.06.03:601][221]PIE: Server logged in
+[2021.11.14-20.06.03:602][221]PIE: Play in editor total start time 0.148 seconds.
+[2021.11.14-20.06.05:697][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.06.05:701][336]LogWorld: BeginTearingDown for /Game/_Main/Level/UEDPIE_0_Main_Menu_Level
+[2021.11.14-20.06.05:701][336]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-20.06.05:702][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.06.05:712][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.14-20.06.05:719][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.06.05:770][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.06.05:771][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.14-20.06.05:772][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.14-20.06.05:798][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.11.14-20.06.05:869][337]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.11.14-20.06.41:584][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2021.11.14-20.06.41:590][628]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Main_Menu_Level20A2F35C494552176ACB8C8E76611DC6.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Level/Main_Menu_Level.umap'
+[2021.11.14-20.06.41:617][628]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2021.11.14-20.06.41:617][628]LogContentValidation: Display: Validating World /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level
+[2021.11.14-20.06.41:941][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.11.14-20.06.41:947][640]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Main_Menu_LevelE40A33DB4490BFA00BAC1FB078932D1B.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Level/Main_Menu_Level.umap'
+[2021.11.14-20.06.41:970][640]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2021.11.14-20.06.41:970][640]LogContentValidation: Display: Validating World /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level
+[2021.11.14-20.06.55:406][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Steam_GameIntance" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Steam_GameIntance.uasset" SILENT=true
+[2021.11.14-20.06.55:458][436]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Steam_GameIntanceB3B7FF0E44C836E6E68CF7BC6305C126.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Steam_GameIntance.uasset'
+[2021.11.14-20.06.55:487][436]AssetCheck: New page: Asset Save: Steam_GameIntance
+[2021.11.14-20.06.55:487][436]LogContentValidation: Display: Validating Blueprint /Game/_Main/Steam_GameIntance.Steam_GameIntance
+[2021.11.14-20.09.15:076][804]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.14-20.09.15:091][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.14-20.09.15:091][804]PIE: New page: PIE session: Main_Menu_Level (Nov 14, 2021, 8:09:15 AM)
+[2021.11.14-20.09.15:091][804]LogPlayLevel: Creating play world package: /Game/_Main/Level/UEDPIE_0_Main_Menu_Level
+[2021.11.14-20.09.15:093][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001714s)
+[2021.11.14-20.09.15:094][804]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.11.14-20.09.15:095][804]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2021.11.14-20.09.15:095][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level to /Game/_Main/Level/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.003164s)
+[2021.11.14-20.09.15:165][804]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.11.14-20.09.15:167][804]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.11.14-20.09.15:167][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.14-20.09.15:167][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.14-20.09.15:167][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.14-20.09.15:167][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.14-20.09.15:167][804]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.14-20.09.15:167][804]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.14-20.09.15:167][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.14-20.09.15:167][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.14-20.09.15:167][804]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.14-20.09.15:167][804]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.14-20.09.15:171][804]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.14-20.09.15:171][804]LogAudioMixer: Display: 1: FrontRight
+[2021.11.14-20.09.15:196][804]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.11.14-20.09.15:196][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.14-20.09.15:196][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.14-20.09.15:196][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.14-20.09.15:196][804]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.14-20.09.15:196][804]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.14-20.09.15:197][804]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.14-20.09.15:218][804]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.14-20.09.15:218][804]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.14-20.09.15:218][804]LogInit: FAudioDevice initialized.
+[2021.11.14-20.09.15:218][804]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main_Menu_Level'.
+[2021.11.14-20.09.15:227][804]LogLoad: Game class is 'GameMode'
+[2021.11.14-20.09.15:228][804]LogWorld: Bringing World /Game/_Main/Level/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 60) at 2021.11.14-14.09.15
+[2021.11.14-20.09.15:228][804]LogWorld: Bringing up level for play took: 0.000366
+[2021.11.14-20.09.15:229][804]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.11.14-20.09.15:231][804]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.14-20.09.15:231][804]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.14-20.09.15:231][804]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.11.14-20.09.15:232][804]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.11.14-20.09.15:232][804]PIE: Server logged in
+[2021.11.14-20.09.15:233][804]PIE: Play in editor total start time 0.147 seconds.
+[2021.11.14-20.09.25:955][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.09.25:955][444]LogWorld: BeginTearingDown for /Game/_Main/Level/UEDPIE_0_Main_Menu_Level
+[2021.11.14-20.09.25:956][444]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-20.09.25:956][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.09.25:963][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.14-20.09.25:971][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.09.26:022][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.14-20.09.26:022][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.14-20.09.26:023][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.14-20.09.26:045][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.09.26:050][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.11.14-20.09.26:070][445]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.11.14-20.09.26:649][477]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.14-20.09.26:661][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.14-20.09.26:661][477]PIE: New page: PIE session: Main_Menu_Level (Nov 14, 2021, 8:09:26 AM)
+[2021.11.14-20.09.26:661][477]LogPlayLevel: Creating play world package: /Game/_Main/Level/UEDPIE_0_Main_Menu_Level
+[2021.11.14-20.09.26:662][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001022s)
+[2021.11.14-20.09.26:663][477]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.11.14-20.09.26:663][477]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2021.11.14-20.09.26:663][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level to /Game/_Main/Level/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.002137s)
+[2021.11.14-20.09.26:718][477]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.11.14-20.09.26:719][477]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.11.14-20.09.26:719][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.14-20.09.26:719][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.14-20.09.26:719][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.14-20.09.26:719][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.14-20.09.26:719][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.14-20.09.26:719][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.14-20.09.26:719][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.14-20.09.26:719][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.14-20.09.26:719][477]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.14-20.09.26:719][477]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.14-20.09.26:723][477]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.14-20.09.26:723][477]LogAudioMixer: Display: 1: FrontRight
+[2021.11.14-20.09.26:746][477]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.11.14-20.09.26:746][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.14-20.09.26:746][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.14-20.09.26:746][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.14-20.09.26:747][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.14-20.09.26:747][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.14-20.09.26:747][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.14-20.09.26:765][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.14-20.09.26:765][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.14-20.09.26:765][477]LogInit: FAudioDevice initialized.
+[2021.11.14-20.09.26:765][477]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main_Menu_Level'.
+[2021.11.14-20.09.26:773][477]LogLoad: Game class is 'GameMode'
+[2021.11.14-20.09.26:774][477]LogWorld: Bringing World /Game/_Main/Level/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 60) at 2021.11.14-14.09.26
+[2021.11.14-20.09.26:775][477]LogWorld: Bringing up level for play took: 0.000376
+[2021.11.14-20.09.26:775][477]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.11.14-20.09.26:777][477]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.14-20.09.26:777][477]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.14-20.09.26:777][477]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.11.14-20.09.26:777][477]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.11.14-20.09.26:778][477]PIE: Server logged in
+[2021.11.14-20.09.26:778][477]PIE: Play in editor total start time 0.121 seconds.
+[2021.11.14-20.09.30:846][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.09.30:846][718]LogWorld: BeginTearingDown for /Game/_Main/Level/UEDPIE_0_Main_Menu_Level
+[2021.11.14-20.09.30:846][718]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-20.09.30:847][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.09.30:853][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.14-20.09.30:860][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.09.30:911][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.09.30:911][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.14-20.09.30:912][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.14-20.09.30:939][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.11.14-20.09.30:959][719]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.11.14-20.09.38:853][179]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.09.40:530][242]LogSlate: Took 0.083067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.11.14-20.09.48:988][741]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-20.09.48:988][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.09.49:002][741]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-20.09.49:002][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.10.25:187][882]LogEditorTransaction: Undo Edit Normal
+[2021.11.14-20.10.26:718][952]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.10.26:812][952]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2021.11.14-20.10.27:403][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.10.27:430][979]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_MenuA5549BFF4B7D25E9CF80FB8A157A8624.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.10.27:525][979]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.10.27:525][979]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.10.57:417][740]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.14-20.39.44:403][648]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.39.44:518][648]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2021.11.14-20.39.44:787][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.39.44:818][656]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu886BB67C4E81D86AF08D6D88C896E16F.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.39.44:838][656]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.39.44:838][656]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.39.58:853][474]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.39.58:955][474]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2021.11.14-20.39.59:384][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.39.59:418][496]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_MenuADC5380B4A06A37476A4968A2DBF7E01.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.39.59:443][496]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.39.59:443][496]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.40.01:734][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.40.01:765][628]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu937C7FDF4ACFD5F6C70B86992ECCDED4.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.40.01:784][628]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.40.01:784][628]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.41.52:383][581]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.41.52:499][581]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2021.11.14-20.41.53:099][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.41.53:131][611]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_MenuB56168E44BE87BB2CB3BBFB495AB7CB4.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.41.53:211][611]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.41.53:211][611]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.42.05:768][326]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.42.05:870][326]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2021.11.14-20.42.06:269][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.42.06:300][334]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu8F3AEF3A4AC71DED364D4282A163574A.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.42.06:316][334]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.42.06:316][334]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.43.03:225][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.43.03:259][150]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu36453B3C43EE862B9D70E3955D5DD420.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.43.03:277][150]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.43.03:277][150]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.43.40:439][208]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.43.40:554][208]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2021.11.14-20.43.40:805][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.43.40:841][218]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_MenuF5D45E744D7AD56FB427709887413B31.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.43.40:865][218]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.43.40:865][218]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.43.49:975][754]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.43.50:080][754]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2021.11.14-20.43.50:410][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.43.50:446][769]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu37B6D2C84EA147DCAB4798B3ED1D9468.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.43.50:473][769]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.43.50:473][769]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.44.30:995][527]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.44.31:105][527]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2021.11.14-20.44.31:468][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.44.31:506][544]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu2C1737AA4AA437A0ABE3A3A18A2711B7.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.44.31:530][544]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.44.31:530][544]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.44.43:454][ 27]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.44.43:560][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2021.11.14-20.44.43:838][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.44.43:875][ 39]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu98BBFEC944712C333E0C51B70B7F4B3A.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.44.43:891][ 39]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.44.43:891][ 39]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.45.41:677][ 66]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.45.41:787][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2021.11.14-20.45.42:177][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.45.42:220][ 83]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu0114E6A24803E3AD49E84687D0A1F0A4.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.45.42:243][ 83]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.45.42:243][ 83]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.46.25:745][367]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.46.25:861][367]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2021.11.14-20.46.26:246][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.46.26:291][385]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_MenuB83D42674DBC38B19924E6B62951ED39.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.46.26:308][385]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.46.26:309][385]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.46.42:615][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.46.42:658][ 85]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu7F1F5CCD45F34D6A72DE6584B31AAA8A.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.46.42:677][ 85]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.46.42:677][ 85]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.46.46:029][188]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.14-20.46.48:271][320]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.46.48:381][320]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2021.11.14-20.46.48:657][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.46.48:698][330]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu0E45C94246712271654B2C9272A51B78.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.46.48:720][330]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.46.48:720][330]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.47.23:303][  7]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.47.23:417][  7]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2021.11.14-20.47.23:734][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.47.23:781][ 21]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu9051E6DB40BD26D8FF2B1A9038E10FEE.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.47.23:803][ 21]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.47.23:803][ 21]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.47.27:732][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.47.27:778][139]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu651BF61143FEED98A6065093D73A1507.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.47.27:800][139]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.47.27:800][139]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.47.51:871][541]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.47.51:994][541]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2021.11.14-20.47.52:289][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.47.52:338][553]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu71DEBF4F4BD3B8CAAA83698F41E70B59.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.47.52:361][553]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.47.52:361][553]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.48.21:076][262]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.48.21:190][262]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2021.11.14-20.48.21:443][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.48.21:491][271]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu44ABE23E4E7A5644766AF185DA5D5009.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.48.21:517][271]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.48.21:517][271]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.48.26:169][543]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.48.26:277][543]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2021.11.14-20.48.26:619][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.48.26:669][557]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_MenuEF36DC264C8E788A07C91B87526DED3F.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.48.26:692][557]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.48.26:692][557]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.48.37:723][206]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.48.37:839][206]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2021.11.14-20.48.38:158][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.48.38:209][219]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_MenuDE89FE8A4EC232B95D72BCB94A6E1549.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.48.38:232][219]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.48.38:232][219]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.48.57:255][901]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.48.57:375][901]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2021.11.14-20.48.57:837][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.48.57:886][919]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_MenuEC097FF741BF5A9442FC9295DB085555.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.48.57:904][919]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.48.57:904][919]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.50.14:721][342]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.50.14:846][342]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2021.11.14-20.50.15:171][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.50.15:224][356]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_MenuF603DB0B475AEDB5A5B323BE3CBBA618.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.50.15:241][356]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.50.15:241][356]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.51.00:056][471]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.51.00:182][471]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2021.11.14-20.51.00:558][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.51.00:610][488]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu9F2DECCF4D353BB84D094FB027185778.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.51.00:655][488]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.51.00:655][488]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.51.17:553][321]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.51.17:672][321]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2021.11.14-20.51.18:041][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.51.18:095][336]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu53DA6CD143227EE3D5AA04A319BF67D3.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.51.18:157][336]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.51.18:157][336]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.51.30:506][974]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.51.30:623][974]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2021.11.14-20.51.30:960][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.51.31:015][988]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu7828004A4814A1BDCAC8C5A685854D93.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.51.31:033][988]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.51.31:033][988]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.51.59:753][693]LogEditorTransaction: Undo Move Nodes
+[2021.11.14-20.52.19:608][838]BlueprintLog: New page: Compile Wid_Host_Menu
+[2021.11.14-20.52.19:737][838]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2021.11.14-20.52.20:125][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.52.20:181][856]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu0D143C904AB175CFB760398D6B5FF09E.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.52.20:199][856]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.52.20:199][856]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.52.47:611][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Wid_Host_Menu" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset" SILENT=true
+[2021.11.14-20.52.47:668][489]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Wid_Host_Menu1225088B4E845BAB5CF5CF8DAD4629CB.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Wid_Host_Menu.uasset'
+[2021.11.14-20.52.47:688][489]AssetCheck: New page: Asset Save: Wid_Host_Menu
+[2021.11.14-20.52.47:688][489]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Wid_Host_Menu.Wid_Host_Menu
+[2021.11.14-20.52.52:406][771]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.14-20.52.52:420][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.14-20.52.52:420][771]PIE: New page: PIE session: Main_Menu_Level (Nov 14, 2021, 8:52:52 AM)
+[2021.11.14-20.52.52:420][771]LogPlayLevel: Creating play world package: /Game/_Main/Level/UEDPIE_0_Main_Menu_Level
+[2021.11.14-20.52.52:421][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001140s)
+[2021.11.14-20.52.52:423][771]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.11.14-20.52.52:423][771]LogPlayLevel: PIE: World Init took: (0.001624s)
+[2021.11.14-20.52.52:423][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level to /Game/_Main/Level/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.002919s)
+[2021.11.14-20.52.52:498][771]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2021.11.14-20.52.52:499][771]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.11.14-20.52.52:499][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.14-20.52.52:499][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.14-20.52.52:499][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.14-20.52.52:499][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.14-20.52.52:499][771]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.14-20.52.52:499][771]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.14-20.52.52:499][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.14-20.52.52:499][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.14-20.52.52:500][771]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.14-20.52.52:500][771]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.14-20.52.52:505][771]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.14-20.52.52:505][771]LogAudioMixer: Display: 1: FrontRight
+[2021.11.14-20.52.52:533][771]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.11.14-20.52.52:533][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.14-20.52.52:533][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.14-20.52.52:533][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.14-20.52.52:534][771]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.14-20.52.52:534][771]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.14-20.52.52:534][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.14-20.52.52:554][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.14-20.52.52:554][771]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.14-20.52.52:554][771]LogInit: FAudioDevice initialized.
+[2021.11.14-20.52.52:554][771]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main_Menu_Level'.
+[2021.11.14-20.52.52:567][771]LogLoad: Game class is 'GameMode'
+[2021.11.14-20.52.52:569][771]LogWorld: Bringing World /Game/_Main/Level/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 60) at 2021.11.14-14.52.52
+[2021.11.14-20.52.52:569][771]LogWorld: Bringing up level for play took: 0.000418
+[2021.11.14-20.52.52:569][771]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.11.14-20.52.52:571][771]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.14-20.52.52:571][771]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.14-20.52.52:571][771]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.11.14-20.52.52:573][771]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.11.14-20.52.52:573][771]PIE: Server logged in
+[2021.11.14-20.52.52:574][771]PIE: Play in editor total start time 0.157 seconds.
+[2021.11.14-20.52.58:744][136]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.11.14-20.52.58:744][136]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.11.14-20.52.58:744][136]LogNet: Browse: /Game/Level/Battleflied?listen
+[2021.11.14-20.52.58:744][136]LogLoad: LoadMap: /Game/Level/Battleflied?listen
+[2021.11.14-20.52.58:745][136]LogWorld: BeginTearingDown for /Game/_Main/Level/UEDPIE_0_Main_Menu_Level
+[2021.11.14-20.52.58:745][136]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-20.52.58:745][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.52.58:800][136]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.14-20.52.58:806][136]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.11.14-20.52.58:807][136]LogLoad: Error: Previously active world /Engine/Transient.World_37 not cleaned up by garbage collection!
+[2021.11.14-20.52.58:807][136]LogLoad: Error: Once a world has become active, it cannot be reused and must be destroyed and reloaded. World referenced by:
+[2021.11.14-20.52.59:859][136]LogReferenceChain: (root) UnrealEdEngine /Engine/Transient.UnrealEdEngine_0->Trans
+[2021.11.14-20.52.59:859][136]LogReferenceChain:  TransBuffer /Engine/Transient.TransBuffer_0::AddReferencedObjects()
+[2021.11.14-20.52.59:859][136]LogReferenceChain:   World /Engine/Transient.World_37
+[2021.11.14-20.52.59:859][136]LogReferenceChain:   
+[2021.11.14-20.52.59:859][136]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.14-20.52.59:859][136]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
+[2021.11.14-20.53.21:111][136]LogWindows: Error: === Critical error: ===
+[2021.11.14-20.53.21:111][136]LogWindows: Error: 
+[2021.11.14-20.53.21:111][136]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/EditorEngine.cpp] [Line: 7234] 
+[2021.11.14-20.53.21:111][136]LogWindows: Error: Previously active world /Engine/Transient.World_37 not cleaned up by garbage collection! Referenced by:
+[2021.11.14-20.53.21:111][136]LogWindows: Error: (root) UnrealEdEngine /Engine/Transient.UnrealEdEngine_0->Trans
+[2021.11.14-20.53.21:111][136]LogWindows: Error:  TransBuffer /Engine/Transient.TransBuffer_0::AddReferencedObjects()
+[2021.11.14-20.53.21:111][136]LogWindows: Error:   World /Engine/Transient.World_37
+[2021.11.14-20.53.21:111][136]LogWindows: Error: 
+[2021.11.14-20.53.21:111][136]LogWindows: Error: 
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007fff97a04f69 KERNELBASE.dll!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007fff3eacd066 UE4Editor-Core.dll!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007fff3ead07a8 UE4Editor-Core.dll!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007fff3e7de8cd UE4Editor-Core.dll!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007fff3c79ddd2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007fff4112ba02 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007fff410d8502 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007fff4114a7fd UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007fff3c798ef2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007fff3d0b50e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007ff709f39bc2 UE4Editor.exe!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007ff709f5117c UE4Editor.exe!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007ff709f5125a UE4Editor.exe!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007ff709f652bd UE4Editor.exe!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007ff709f67fea UE4Editor.exe!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007fff988c7034 KERNEL32.DLL!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: [Callstack] 0x00007fff99ca2651 ntdll.dll!UnknownFunction []
+[2021.11.14-20.53.21:111][136]LogWindows: Error: 
+[2021.11.14-20.53.21:201][136]LogExit: Executing StaticShutdownAfterError
+[2021.11.14-20.53.21:284][136]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.11.14-20.53.21:284][136]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.11.14-20.53.21:447][136]Log file closed, 11/14/21 14:53:21
