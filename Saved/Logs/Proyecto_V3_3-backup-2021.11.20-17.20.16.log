@@ -1,0 +1,999 @@
+﻿Log file open, 11/20/21 11:16:48
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Proyecto_V3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.053381
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  127.0.0.1:17777 -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" -windowed -WinX=961 -WinY=8 SAVEWINPOS=1 -ResX=640 -ResY=480
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.20-17.16.50:338][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.20-17.16.50:338][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.20-17.16.50:339][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.20-17.16.50:339][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.20-17.16.50:339][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.20-17.16.50:339][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.20-17.16.50:339][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.20-17.16.50:339][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.20-17.16.50:339][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.20-17.16.50:339][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.20-17.16.50:339][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.20-17.16.50:339][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.20-17.16.50:361][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.20-17.16.50:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.20-17.16.50:362][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.20-17.16.50:363][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.20-17.16.50:363][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.20-17.16.50:363][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.20-17.16.50:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.20-17.16.50:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.20-17.16.50:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.20-17.16.50:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.20-17.16.50:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.20-17.16.50:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.20-17.16.50:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.20-17.16.50:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.20-17.16.50:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.20-17.16.50:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.20-17.16.50:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.20-17.16.50:365][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:365][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.20-17.16.50:365][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.20-17.16.50:365][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:365][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.20-17.16.50:365][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.20-17.16.50:365][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.20-17.16.50:365][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.20-17.16.50:365][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.20-17.16.50:365][  0]LogHAL: Display: Platform has ~ 12 GB [12764549120 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.20-17.16.50:365][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.20-17.16.50:365][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:365][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.20-17.16.50:365][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.20-17.16.50:365][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.20-17.16.50:366][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Scalability.ini]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.20-17.16.50:367][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.20-17.16.50:368][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.20-17.16.50:368][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.20-17.16.50:368][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.20-17.16.50:368][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Engine.ini]
+[2021.11.20-17.16.50:368][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Config/Windows/Editor.ini]
+[2021.11.20-17.16.50:369][  0]LogInit: Computer: LAPTOP-7SS8842A
+[2021.11.20-17.16.50:369][  0]LogInit: User: amg05
+[2021.11.20-17.16.50:369][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.20-17.16.50:369][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.20-17.16.50:369][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2021.11.20-17.16.50:369][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.20-17.16.50:369][  0]LogMemory: Process Physical Memory: 132.58 MB used, 132.58 MB peak
+[2021.11.20-17.16.50:369][  0]LogMemory: Process Virtual Memory: 117.70 MB used, 117.70 MB peak
+[2021.11.20-17.16.50:369][  0]LogMemory: Physical Memory: 7235.12 MB used,  4938.11 MB free, 12173.22 MB total
+[2021.11.20-17.16.50:369][  0]LogMemory: Virtual Memory: 134207776.00 MB used,  9948.61 MB free, 134217728.00 MB total
+[2021.11.20-17.16.50:373][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.20-17.16.50:469][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.20-17.16.50:470][  0]LogInit: Using OS detected language (es-MX).
+[2021.11.20-17.16.50:470][  0]LogInit: Using OS detected locale (es-MX).
+[2021.11.20-17.16.50:501][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/es-MX/Editor.locres' could not be opened for reading!
+[2021.11.20-17.16.50:502][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/es-MX/EditorTutorials.locres' could not be opened for reading!
+[2021.11.20-17.16.50:502][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/es-MX/Keywords.locres' could not be opened for reading!
+[2021.11.20-17.16.50:502][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/es-MX/Category.locres' could not be opened for reading!
+[2021.11.20-17.16.50:502][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/es-MX/ToolTips.locres' could not be opened for reading!
+[2021.11.20-17.16.50:503][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/es-MX/PropertyNames.locres' could not be opened for reading!
+[2021.11.20-17.16.50:503][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/es-MX/Engine.locres' could not be opened for reading!
+[2021.11.20-17.16.50:504][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es-MX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2021.11.20-17.16.50:504][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/es-MX/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2021.11.20-17.16.50:504][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/es-MX/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2021.11.20-17.16.50:634][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.20-17.16.50:669][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.20-17.16.50:669][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.20-17.16.50:778][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.20-17.16.50:778][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.20-17.16.50:778][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.20-17.16.50:778][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.20-17.16.51:021][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.11.20-17.16.51:021][  0]LogD3D11RHI:       4019/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.20-17.16.51:041][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.11.20-17.16.51:041][  0]LogD3D11RHI:       128/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.11.20-17.16.51:049][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.20-17.16.51:049][  0]LogD3D11RHI:       0/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.20-17.16.51:049][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.20-17.16.51:057][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.20-17.16.51:057][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2021.11.20-17.16.51:057][  0]LogWindows: EnumDisplayDevices:
+[2021.11.20-17.16.51:058][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.11.20-17.16.51:058][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.11.20-17.16.51:059][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.11.20-17.16.51:059][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.11.20-17.16.51:059][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.11.20-17.16.51:059][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.11.20-17.16.51:059][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2021.11.20-17.16.51:059][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2021.11.20-17.16.51:059][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2021.11.20-17.16.51:173][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.20-17.16.51:176][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.20-17.16.51:176][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.20-17.16.51:204][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.20-17.16.51:207][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.20-17.16.52:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.20-17.16.52:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.20-17.16.52:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.20-17.16.52:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.20-17.16.52:526][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.20-17.16.52:532][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.20-17.16.52:649][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.20-17.16.52:649][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Intermediate/Shaders/WorkingDirectory/11580/).
+[2021.11.20-17.16.52:649][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/amg05/AppData/Local/Temp/UnrealShaderWorkingDir/7E85B7574A20C3AC8CCE3086D563B869/'.
+[2021.11.20-17.16.52:649][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.20-17.16.52:649][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.20-17.16.54:037][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.20-17.16.54:151][  0]LogDerivedDataCache: Loaded boot cache 0.11s 77MB C:/Users/amg05/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.20-17.16.54:152][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/amg05/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.20-17.16.54:152][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.20-17.16.54:152][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.20-17.16.54:152][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.20-17.16.54:152][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.20-17.16.54:171][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.20-17.16.54:171][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.20-17.16.54:171][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.20-17.16.54:191][  0]LogDerivedDataCache: Speed tests for C:/Users/amg05/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.11.20-17.16.54:191][  0]LogDerivedDataCache: Display: Performance to C:/Users/amg05/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=168.50MBs, RandomWriteSpeed=71.66MBs. Assigned SpeedClass 'Local'
+[2021.11.20-17.16.54:194][  0]LogDerivedDataCache: Using Local data cache path C:/Users/amg05/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.20-17.16.54:194][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.20-17.16.54:194][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.20-17.16.54:252][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.20-17.16.54:253][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.20-17.16.54:446][  0]LogInit: Using OS detected language (es-MX).
+[2021.11.20-17.16.54:446][  0]LogInit: Using OS detected locale (es-MX).
+[2021.11.20-17.16.54:446][  0]LogTextLocalizationManager: No localization for 'es-MX' exists, so 'en' will be used for the language.
+[2021.11.20-17.16.54:446][  0]LogTextLocalizationManager: No localization for 'es-MX' exists, so 'en' will be used for the locale.
+[2021.11.20-17.16.54:447][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.11.20-17.16.54:447][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.11.20-17.16.54:491][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2021.11.20-17.16.54:499][  0]LogAssetRegistry: FAssetRegistry took 0.0045 seconds to start up
+[2021.11.20-17.16.54:824][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.002417 seconds
+[2021.11.20-17.16.54:945][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.20-17.16.54:945][  0]LogInit: Active device profile: [000001E53D9E3E00][000001E537201000 49] Windows
+[2021.11.20-17.16.54:945][  0]LogInit: Profiles: [000001E53D9E3E00][000001E537201000 49] Windows, [000001E53D9A0300][000001E5348B3180 49] WindowsNoEditor, [000001E53D9E0300][000001E5348B7300 49] WindowsServer, [000001E53D9A2000][000001E5348AF440 49] WindowsClient, [000001E53D9E1F00][000001E53D59F580 49] IOS, [000001E53D9A0C00][000001E53D5A36C0 49] iPadAir, [000001E53D9E0B00][000001E53D5AB840 49] iPadAir2, [000001E53D969000][000001E53D5B3B00 49] IPadPro, [000001E53D969100][000001E53D5AFB40 49] iPadAir3, [000001E53D9E0A00][000001E53D5B7CC0 49] iPadAir4, [000001E53D968800][000001E53D5BA180 49] iPadMini2, [000001E53D9E1100][000001E53D5BE300 49] iPadMini3, [000001E53D969F00][000001E53D5C2480 49] iPadMini4, [000001E53D9E2700][000001E53D5C6600 49] iPadMini5, [000001E53D9A3C00][000001E53D5CE8C0 49] iPhone6, [000001E53D9A3B00][000001E53D5CA900 49] iPodTouch6, [000001E53D96B300][000001E53D5D6BC0 49] iPhone7, [000001E53D96B400][000001E53D5D2C00 49] iPodTouch7, [000001E53D9A3E00][000001E53D5DAD80 49] iPhone5S, [000001E53D968F00][000001E53D5DEF00 49] iPhone6Plus, [000001E53D9A1F00][000001E53D5E3080 49] iPhone6S, [000001E53D969E00][000001E53D5E7200 49] iPhone6SPlus, [000001E53D9A3300][000001E53D5EB380 49] iPhone7Plus, [000001E53D968200][000001E53D5A74C0 49] iPhoneSE, [000001E53D9A2800][000001E53D5EF600 49] iPhone8, [000001E53D96B900][000001E53D5F3740 49] iPhone8Plus, [000001E53D9A1600][000001E53D5F7880 49] iPhoneX, [000001E53D96A500][000001E53D5FFA00 49] iPhoneXS, [000001E53D9A3700][000001E53D603B80 49] iPhoneXSMax, [000001E53D96B200][000001E53D607D00 49] iPhoneXR, [000001E53D9A1B00][000001E53D60A1C0 49] iPhone11, [000001E53D96A800][000001E53D60E340 49] iPhone11Pro, [000001E53D9A2200][000001E53D6124C0 49] iPhone11ProMax, [000001E53D968700][000001E53D616640 49] iPhoneSE2, [000001E53D9A0900][000001E53D61A7C0 49] iPhone12Mini, [000001E53D969200][000001E53D61E940 49] iPhone12, [000001E53D9A1800][000001E53D622AC0 49] iPhone12Pro, [000001E53D968D00][000001E53D626C40 49] iPhone12ProMax, [000001E53D9A1E00][000001E53D62ADC0 49] iPadPro105, [000001E53D96B600][000001E53D62EF40 49] iPadPro129, [000001E53D9A1700][000001E53D6330C0 49] iPadPro97, [000001E53D96A200][000001E53D637240 49] iPadPro2_129, [000001E53D9A1C00][000001E53D63B3C0 49] iPad5, [000001E53D96A700][000001E53D5FB500 49] iPad6, [000001E53D9A0400][000001E53D63F640 49] iPad7, [000001E53D96AC00][000001E53D643780 49] iPad8, [000001E53D9A2900][000001E53D6478C0 49] iPadPro11, [000001E53D968400][000001E53D64FA40 49] iPadPro2_11, [000001E53D9A0E00][000001E53D653BC0 49] iPadPro3_129, [000001E53D96AB00][000001E53D657D40 49] iPadPro4_129, [000001E53D9A2700][000001E53D65A200 49] AppleTV, [000001E53D96BE00][000001E53D65E380 49] AppleTV4K, [000001E53D9A2C00][000001E53D662500 49] TVOS, [000001E53D96A100][000001E53D666680 49] Mac, [000001E53D9A0500][000001E53D66A800 49] MacClient, [000001E53D968900][000001E53D66E980 49] MacNoEditor, [000001E53D9A3400][000001E53D672B00 49] MacServer, [000001E53D96B500][000001E53D676C80 49] Linux, [000001E53D9A3000][000001E53D67AE00 49] LinuxAArch64, [000001E53D96AD00][000001E53D67EF80 49] LinuxNoEditor, [000001E53D9A3600][000001E53D683100 49] LinuxAArch64NoEditor, [000001E53D96BF00][000001E53D687280 49] LinuxClient, [000001E53D9A2100][000001E53D68B400 49] LinuxAArch64Client, [000001E53D96B000][000001E53D68F580 49] LinuxServer, [000001E53D9A0D00][000001E53D64B6C0 49] LinuxAArch64Server, [000001E53D968500][000001E53D693800 49] Android, [000001E53D9A0600][000001E53D697940 49] Android_Low, [000001E53D9E1900][000001E53D69FAC0 49] Android_Mid, [000001E53DA28800][000001E53D6A3C40 49] Android_High, [000001E53D9E0400][000001E53D6A6100 49] Android_Default, [000001E53DA29F00][000001E53D6AA280 49] Android_Adreno4xx, [000001E53D9E2A00][000001E53D6AE400 49] Android_Adreno5xx_Low, [000001E53DA2A500][000001E53D6B2580 49] Android_Adreno5xx, [000001E53D9E2100][000001E53D6B6700 49] Android_Adreno6xx, [000001E53DA28500][000001E53D6BA880 49] Android_Adreno6xx_Vulkan, [000001E53D9E2600][000001E53D6BEA00 49] Android_Mali_T6xx, [000001E53DA28100][000001E53D6C2B80 49] Android_Mali_T7xx, [000001E53D9E3B00][000001E53D6C6D00 49] Android_Mali_T8xx, [000001E53DA28F00][000001E53D6CAE80 49] Android_Mali_G71, [000001E53D9E3900][000001E53D6CF000 49] Android_Mali_G72, [000001E53DA28B00][000001E53D6D3180 49] Android_Mali_G72_Vulkan, [000001E53D9E2900][000001E53D6D7300 49] Android_Mali_G76, [000001E53DA29D00][000001E53D6DB480 49] Android_Mali_G76_Vulkan, [000001E53D9E0800][000001E53D6DF600 49] Android_Mali_G77, [000001E53DA2A000][000001E53D69B740 49] Android_Mali_G77_Vulkan, [000001E53D9E0700][000001E53D6E3880 49] Android_Vulkan_SM5, [000001E53DA28400][000001E53D6E79C0 49] Android_PowerVR_G6xxx, [000001E53D9A3500][000001E53D6EFB40 49] Android_PowerVR_GT7xxx, [000001E53D96B700][000001E53D6F3CC0 49] Android_PowerVR_GE8xxx, [000001E53D9A3200][000001E53D6F6180 49] Android_PowerVR_GM9xxx, [000001E53DA29A00][000001E53D6FA300 49] Android_PowerVR_GM9xxx_Vulkan, [000001E53D9A2300][000001E53D6FE480 49] Android_TegraK1, [000001E53DA2A400][000001E53D702600 49] Android_Unknown_Vulkan, [000001E53D9A0800][000001E53D706780 49] Lumin, [000001E53DA29400][000001E53D70A900 49] Lumin_Desktop, [000001E53D9A1000][000001E53D70EA80 49] HoloLens, 
+[2021.11.20-17.16.54:998][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.20-17.16.54:998][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.20-17.16.54:998][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.20-17.16.54:998][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.20-17.16.54:998][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.20-17.16.55:146][  0]LogNetVersion: Proyecto_V3 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2954844583)
+[2021.11.20-17.16.55:684][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.20-17.16.55:794][  0]LogMoviePlayer: Initializing movie player
+[2021.11.20-17.16.56:023][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.20-17.16.56:027][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.20-17.16.56:071][  0]SourceControl: Source control is disabled
+[2021.11.20-17.16.56:071][  0]SourceControl: Source control is disabled
+[2021.11.20-17.16.56:073][  0]SourceControl: Source control is disabled
+[2021.11.20-17.16.56:076][  0]LogUProjectInfo: Found projects:
+[2021.11.20-17.16.56:161][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.20-17.16.56:174][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.20-17.16.56:174][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.20-17.16.56:238][  0]LogOcInput: OculusInput pre-init called
+[2021.11.20-17.16.56:251][  0]LogUObjectArray: 20224 objects as part of root set at end of initial load.
+[2021.11.20-17.16.56:251][  0]LogUObjectAllocator: 5386176 out of 0 bytes used by permanent object pool.
+[2021.11.20-17.16.56:251][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.20-17.16.56:305][  0]LogEngine: Initializing Engine...
+[2021.11.20-17.16.56:308][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.20-17.16.56:308][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.20-17.16.56:310][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.20-17.16.56:452][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.20-17.16.56:452][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.20-17.16.56:459][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.20-17.16.56:459][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.20-17.16.56:459][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.20-17.16.56:459][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.20-17.16.56:459][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.20-17.16.56:459][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.20-17.16.56:459][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.20-17.16.56:459][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.20-17.16.56:459][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.20-17.16.56:459][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.20-17.16.56:460][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.20-17.16.56:460][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.20-17.16.56:510][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.20-17.16.56:510][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.20-17.16.56:583][  0]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.11.20-17.16.56:588][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.20-17.16.56:591][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.20-17.16.56:591][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.20-17.16.56:593][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.20-17.16.56:593][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.20-17.16.56:593][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.20-17.16.56:594][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.20-17.16.56:594][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.20-17.16.56:594][  0]LogInit: FAudioDevice initialized.
+[2021.11.20-17.16.56:599][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.20-17.16.56:600][  0]LogInit: Texture streaming: Enabled
+[2021.11.20-17.17.00:607][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.20-17.17.00:607][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.20-17.17.00:609][  0]LogInit: Display: Game Engine Initialized.
+[2021.11.20-17.17.00:609][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2021.11.20-17.17.00:716][  0]LogInit: Display: Starting Game.
+[2021.11.20-17.17.00:716][  0]LogNet: Browse: 127.0.0.1:17777/Game/Level/Battleflied?Name=Player
+[2021.11.20-17.17.00:717][  0]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.11.20-17.17.00:717][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.11.20-17.17.00:717][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.20-17.17.00:717][  0]LogNet: Game client on port 17777, rate 100000
+[2021.11.20-17.17.00:830][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.20-17.17.00:831][  0]LogLoad: (Engine Initialization) Total time: 18.41 seconds
+[2021.11.20-17.17.00:831][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.20-17.17.00:831][  0]LogInit: First time updating LLM stats...
+[2021.11.20-17.17.00:837][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.20-17.17.00:840][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-17.17.01:701][299]LogAudio: Display: Waited 35.204102 ms for audio thread.
+[2021.11.20-17.17.01:724][299]LogAudio: Display: Waited 58.147099 ms for audio thread.
+[2021.11.20-17.17.01:762][300]LogAudio: Display: Waited 35.507599 ms for audio thread.
+[2021.11.20-17.17.01:798][300]LogAudio: Display: Waited 71.369606 ms for audio thread.
+[2021.11.20-17.17.01:806][300]LogAudio: Display: Waited 79.524002 ms for audio thread.
+[2021.11.20-17.17.01:846][302]LogAudio: Display: Waited 36.814102 ms for audio thread.
+[2021.11.20-17.17.01:884][302]LogAudio: Display: Waited 74.544800 ms for audio thread.
+[2021.11.20-17.17.01:887][302]LogAudio: Display: Waited 77.838699 ms for audio thread.
+[2021.11.20-17.17.01:892][303]LogHandshake: SendChallengeResponse. Timestamp: 2.257431, Cookie: 169161010192029056003162238060130098049035060165019051121081
+[2021.11.20-17.17.01:957][308]LogNetVersion: Proyecto_V3 1.0.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2518844104)
+[2021.11.20-17.17.01:957][308]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.20-17.17.02:101][326]LogNet: Welcomed by server (Level: /Game/_Main/Level/Main_Menu_Level, Game: /Game/_Main/Main_M.Main_M_C)
+[2021.11.20-17.17.02:103][326]LogLoad: LoadMap: 127.0.0.1:17777/Game/_Main/Level/Main_Menu_Level?Name=Player?game=/Game/_Main/Main_M.Main_M_C
+[2021.11.20-17.17.02:104][326]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.11.20-17.17.02:104][326]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.20-17.17.02:105][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-17.17.02:152][326]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.20-17.17.02:523][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.11.20-17.17.02:543][326]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2021.11.20-17.17.02:548][326]LogWorld: Bringing World /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2021.11.20-11.17.02
+[2021.11.20-17.17.02:548][326]LogWorld: Bringing up level for play took: 0.000648
+[2021.11.20-17.17.02:549][326]LogLoad: Took 0.446624 seconds to LoadMap(/Game/_Main/Level/Main_Menu_Level)
+[2021.11.20-17.17.02:553][327]LogRenderer: Reallocating scene render targets to support 640x480 Format 10 NumSamples 1 (Frame:1).
+[2021.11.20-17.17.02:929][328]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.20-17.17.02:932][328]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.20-17.17.05:523][904]LogAudio: Display: Waited 35.858799 ms for audio thread.
+[2021.11.20-17.17.05:526][904]LogAudio: Display: Waited 39.533699 ms for audio thread.
+[2021.11.20-17.17.10:553][802]LogAudio: Display: Waited 35.044201 ms for audio thread.
+[2021.11.20-17.17.10:561][802]LogAudio: Display: Waited 43.627899 ms for audio thread.
+[2021.11.20-17.17.10:611][804]LogAudio: Display: Waited 39.265598 ms for audio thread.
+[2021.11.20-17.17.10:616][804]LogAudio: Display: Waited 44.070198 ms for audio thread.
+[2021.11.20-17.17.15:165][356]LogAudio: Display: Waited 37.087898 ms for audio thread.
+[2021.11.20-17.17.15:197][356]LogAudio: Display: Waited 69.582405 ms for audio thread.
+[2021.11.20-17.17.15:380][374]LogAudio: Display: Waited 36.178101 ms for audio thread.
+[2021.11.20-17.17.15:385][374]LogAudio: Display: Waited 41.901398 ms for audio thread.
+[2021.11.20-17.17.15:853][411]LogAudio: Display: Waited 35.798901 ms for audio thread.
+[2021.11.20-17.17.15:861][411]LogAudio: Display: Waited 44.265198 ms for audio thread.
+[2021.11.20-17.17.16:843][505]LogAudio: Display: Waited 41.554100 ms for audio thread.
+[2021.11.20-17.17.16:843][505]LogAudio: Display: Waited 42.265003 ms for audio thread.
+[2021.11.20-17.17.19:754][803]LogAudio: Display: Waited 44.349300 ms for audio thread.
+[2021.11.20-17.17.25:003][425]LogSlate: Took 0.001494 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.20-17.17.26:904][784]LogPackageName: SearchForPackageOnDisk took   0.415s to resolve Lobby.umap.
+[2021.11.20-17.17.27:306][784]LogPackageName: SearchForPackageOnDisk took   0.401s to resolve Lobby.umap.
+[2021.11.20-17.17.27:306][784]LogNet: Browse: /Game/_Lobby/Level/Lobby?listen
+[2021.11.20-17.17.27:307][784]LogLoad: LoadMap: /Game/_Lobby/Level/Lobby?listen
+[2021.11.20-17.17.27:307][784]LogWorld: BeginTearingDown for /Game/_Main/Level/Main_Menu_Level
+[2021.11.20-17.17.27:307][784]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2021.11.20-17.17.27:307][784]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2021.11.20-17.17.27:308][784]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-7SS8842A-FC5F08814BE72219BA24ECA0C1F06CEF, Channels: 9, Time: 2021.11.20-17.17.27
+[2021.11.20-17.17.27:308][784]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-7SS8842A-FC5F08814BE72219BA24ECA0C1F06CEF
+[2021.11.20-17.17.27:308][784]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2021.11.20-17.17.27:308][784]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.11.20-17.17.27:308][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-17.17.27:348][784]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.20-17.17.27:353][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.11.20-17.17.27:395][784]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/_Main/Save_Game.Save_Game_C:Player_Info'. Unknown structure.
+[2021.11.20-17.17.27:396][784]LogClass: Warning: Property Player_Info of Player_Info has a struct type mismatch (tag STRUCT_REINST_S_Players_Info_0 != prop FallbackStruct) in package:  ../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Save_Game.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.20-17.17.28:093][784]LogClass: Warning: Property Player_Info of Player_Info has a struct type mismatch (tag FallbackStruct != prop S_Players_Info) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.20-17.17.28:263][784]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lobby'.
+[2021.11.20-17.17.28:272][784]LogAIModule: Creating AISystem for world Lobby
+[2021.11.20-17.17.28:273][784]LogLoad: Game class is 'BP_Lobby_GameMode_2_C'
+[2021.11.20-17.17.28:275][784]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.11.20-17.17.28:275][784]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.11.20-17.17.28:275][784]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.11.20-17.17.28:275][784]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.11.20-17.17.28:276][784]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.20-17.17.28:276][784]LogNet: GameNetDriver IpNetDriver_1 IpNetDriver listening on port 7777
+[2021.11.20-17.17.28:278][784]LogWorld: Bringing World /Game/_Lobby/Level/Lobby.Lobby up for play (max tick rate 0) at 2021.11.20-11.17.28
+[2021.11.20-17.17.28:279][784]LogWorld: Bringing up level for play took: 0.002251
+[2021.11.20-17.17.28:298][784]LogLoad: Took 0.991042 seconds to LoadMap(/Game/_Lobby/Level/Lobby)
+[2021.11.20-17.17.28:602][809]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:0 Char: Arquero_1_C Is: true
+[2021.11.20-17.17.29:116][866]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:0 Char: Arquero_1_C Is: true
+[2021.11.20-17.17.30:414][960]LogPackageName: SearchForPackageOnDisk took   0.465s to resolve Main_Menu_Level.umap.
+[2021.11.20-17.17.30:863][960]LogPackageName: SearchForPackageOnDisk took   0.447s to resolve Main_Menu_Level.umap.
+[2021.11.20-17.17.30:863][960]LogNet: Browse: /Game/_Main/Level/Main_Menu_Level
+[2021.11.20-17.17.30:863][960]LogLoad: LoadMap: /Game/_Main/Level/Main_Menu_Level
+[2021.11.20-17.17.30:863][960]LogWorld: BeginTearingDown for /Game/_Lobby/Level/Lobby
+[2021.11.20-17.17.30:864][960]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2021.11.20-17.17.30:864][960]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2021.11.20-17.17.30:864][960]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2021.11.20-17.17.30:865][960]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.11.20-17.17.30:866][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-17.17.30:916][960]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.20-17.17.30:937][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.11.20-17.17.30:955][960]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2021.11.20-17.17.30:956][960]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.11.20-17.17.30:956][960]LogLoad: Game class is 'Main_M_C'
+[2021.11.20-17.17.30:957][960]LogWorld: Bringing World /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2021.11.20-11.17.30
+[2021.11.20-17.17.30:958][960]LogWorld: Bringing up level for play took: 0.000611
+[2021.11.20-17.17.30:958][960]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.20-17.17.30:960][960]LogLoad: Took 0.097020 seconds to LoadMap(/Game/_Main/Level/Main_Menu_Level)
+[2021.11.20-17.17.43:058][412]LogPackageName: SearchForPackageOnDisk took   0.500s to resolve Lobby.umap.
+[2021.11.20-17.17.43:560][412]LogPackageName: SearchForPackageOnDisk took   0.501s to resolve Lobby.umap.
+[2021.11.20-17.17.43:560][412]LogNet: Browse: /Game/_Lobby/Level/Lobby?listen
+[2021.11.20-17.17.43:560][412]LogLoad: LoadMap: /Game/_Lobby/Level/Lobby?listen
+[2021.11.20-17.17.43:561][412]LogWorld: BeginTearingDown for /Game/_Main/Level/Main_Menu_Level
+[2021.11.20-17.17.43:561][412]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.11.20-17.17.43:561][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-17.17.43:599][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.20-17.17.43:602][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.11.20-17.17.43:647][412]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/_Main/Save_Game.Save_Game_C:Player_Info'. Unknown structure.
+[2021.11.20-17.17.43:648][412]LogClass: Warning: Property Player_Info of Player_Info has a struct type mismatch (tag STRUCT_REINST_S_Players_Info_0 != prop FallbackStruct) in package:  ../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Save_Game.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.20-17.17.44:338][412]LogClass: Warning: Property Player_Info of Player_Info has a struct type mismatch (tag FallbackStruct != prop S_Players_Info) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.20-17.17.44:527][412]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lobby'.
+[2021.11.20-17.17.44:529][412]LogAIModule: Creating AISystem for world Lobby
+[2021.11.20-17.17.44:530][412]LogLoad: Game class is 'BP_Lobby_GameMode_2_C'
+[2021.11.20-17.17.44:530][412]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.11.20-17.17.44:530][412]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.11.20-17.17.44:530][412]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.11.20-17.17.44:531][412]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.11.20-17.17.44:531][412]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.20-17.17.44:531][412]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2021.11.20-17.17.44:533][412]LogWorld: Bringing World /Game/_Lobby/Level/Lobby.Lobby up for play (max tick rate 0) at 2021.11.20-11.17.44
+[2021.11.20-17.17.44:534][412]LogWorld: Bringing up level for play took: 0.002108
+[2021.11.20-17.17.44:549][412]LogLoad: Took 0.987820 seconds to LoadMap(/Game/_Lobby/Level/Lobby)
+[2021.11.20-17.17.44:848][443]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:0 Char: Arquero_1_C Is: true
+[2021.11.20-17.17.45:352][502]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:0 Char: Arquero_1_C Is: true
+[2021.11.20-17.18.02:663][195]LogAudio: Display: Waited 35.601299 ms for audio thread.
+[2021.11.20-17.18.02:674][195]LogAudio: Display: Waited 46.096600 ms for audio thread.
+[2021.11.20-17.18.02:792][199]LogAudio: Display: Waited 54.521999 ms for audio thread.
+[2021.11.20-17.18.08:217][504]LogAudio: Display: Waited 35.721699 ms for audio thread.
+[2021.11.20-17.18.08:220][504]LogAudio: Display: Waited 39.334599 ms for audio thread.
+[2021.11.20-17.18.09:245][558]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.6:54734
+[2021.11.20-17.18.09:245][558]LogHandshake: SendConnectChallenge. Timestamp: 26.712587, Cookie: 246013236089119055028185214250166246118100086121218013083206
+[2021.11.20-17.18.09:299][559]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.6:54734
+[2021.11.20-17.18.09:300][559]LogHandshake: SendChallengeAck. InCookie: 246013236089119055028185214250166246118100086121218013083206
+[2021.11.20-17.18.09:300][559]LogNet: Server accepting post-challenge connection from: 192.168.1.6:54734
+[2021.11.20-17.18.09:300][559]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.20-17.18.09:300][559]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 11/20/21 11:18:09, [UNetConnection] RemoteAddr: 192.168.1.6:54734, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.20-17.18.09:300][559]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.1.6:54734, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.20-17.18.09:311][560]LogNet: NotifyAcceptingChannel Control 0 server World /Game/_Lobby/Level/Lobby.Lobby: Accepted
+[2021.11.20-17.18.09:311][560]LogNet: Remote platform little endian=1
+[2021.11.20-17.18.09:311][560]LogNet: This platform little endian=1
+[2021.11.20-17.18.09:340][561]LogNet: Login request: ?Name=LAPTOP-7SS8842A-35E26B564A2B624CCE2A71A06CE78492 userId: NULL:LAPTOP-7SS8842A-35E26B564A2B624CCE2A71A06CE78492 platform: NULL
+[2021.11.20-17.18.10:490][685]LogNet: Client netspeed is 100000
+[2021.11.20-17.18.10:490][685]LogNet: Join request: /Game/Level/Battleflied?Name=LAPTOP-7SS8842A-35E26B564A2B624CCE2A71A06CE78492?SplitscreenCount=1
+[2021.11.20-17.18.10:495][685]LogNet: Join succeeded: LAPTOP-7SS8842A-35E2
+[2021.11.20-17.18.11:281][711]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:0 Char: Arquero_1_C Is: true
+[2021.11.20-17.18.11:281][711]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:1 Char: Arquero_1_C Is: false
+[2021.11.20-17.18.11:727][720]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:0 Char: Arquero_1_C Is: true
+[2021.11.20-17.18.11:727][720]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:1 Char: Arquero_1_C Is: false
+[2021.11.20-17.18.13:111][745]LogAudio: Display: Waited 35.560501 ms for audio thread.
+[2021.11.20-17.18.13:111][745]LogAudio: Display: Waited 35.737900 ms for audio thread.
+[2021.11.20-17.18.33:628][905]LogAudio: Display: Waited 36.294701 ms for audio thread.
+[2021.11.20-17.18.33:642][905]LogAudio: Display: Waited 50.321098 ms for audio thread.
+[2021.11.20-17.18.33:850][913]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:0 Char: Arquero_1_C Is: true
+[2021.11.20-17.18.33:850][913]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:1 Char: Arquero_2_C Is: false
+[2021.11.20-17.18.40:824][246]LogAudio: Display: Waited 36.006302 ms for audio thread.
+[2021.11.20-17.18.41:565][270]LogAudio: Display: Waited 35.315800 ms for audio thread.
+[2021.11.20-17.18.41:571][270]LogAudio: Display: Waited 41.450897 ms for audio thread.
+[2021.11.20-17.18.41:913][281]LogAudio: Display: Waited 38.093102 ms for audio thread.
+[2021.11.20-17.18.41:917][281]LogAudio: Display: Waited 41.625500 ms for audio thread.
+[2021.11.20-17.18.41:959][282]LogAudio: Display: Waited 35.811901 ms for audio thread.
+[2021.11.20-17.18.41:966][282]LogAudio: Display: Waited 43.115799 ms for audio thread.
+[2021.11.20-17.18.43:670][339]LogAudio: Display: Waited 40.022999 ms for audio thread.
+[2021.11.20-17.18.43:670][339]LogAudio: Display: Waited 40.132298 ms for audio thread.
+[2021.11.20-17.18.45:717][403]LogAudio: Display: Waited 40.055000 ms for audio thread.
+[2021.11.20-17.18.45:727][403]LogAudio: Display: Waited 49.924297 ms for audio thread.
+[2021.11.20-17.18.49:266][539]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:0 Char: Arquero_1_C Is: true
+[2021.11.20-17.18.49:266][539]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:1 Char: Arquero_3_C Is: false
+[2021.11.20-17.18.56:217][701]LogAudio: Display: Waited 38.540699 ms for audio thread.
+[2021.11.20-17.18.56:235][701]LogAudio: Display: Waited 56.678398 ms for audio thread.
+[2021.11.20-17.18.56:289][702]LogAudio: Display: Waited 35.331303 ms for audio thread.
+[2021.11.20-17.18.56:303][702]LogAudio: Display: Waited 49.862301 ms for audio thread.
+[2021.11.20-17.18.56:526][708]LogAudio: Display: Waited 53.632099 ms for audio thread.
+[2021.11.20-17.18.58:268][750]LogAudio: Display: Waited 36.206100 ms for audio thread.
+[2021.11.20-17.19.00:282][796]LogAudio: Display: Waited 35.154499 ms for audio thread.
+[2021.11.20-17.19.00:289][796]LogAudio: Display: Waited 42.462799 ms for audio thread.
+[2021.11.20-17.19.00:504][800]LogAudio: Display: Waited 39.296200 ms for audio thread.
+[2021.11.20-17.19.00:529][800]LogAudio: Display: Waited 64.586403 ms for audio thread.
+[2021.11.20-17.19.00:569][801]LogAudio: Display: Waited 35.657303 ms for audio thread.
+[2021.11.20-17.19.00:581][801]LogAudio: Display: Waited 48.116699 ms for audio thread.
+[2021.11.20-17.19.04:193][889]LogAudio: Display: Waited 35.845901 ms for audio thread.
+[2021.11.20-17.19.04:195][889]LogAudio: Display: Waited 37.554100 ms for audio thread.
+[2021.11.20-17.19.06:668][976]LogAudio: Display: Waited 39.773701 ms for audio thread.
+[2021.11.20-17.19.06:680][976]LogAudio: Display: Waited 51.604401 ms for audio thread.
+[2021.11.20-17.19.07:185][989]LogAudio: Display: Waited 41.937401 ms for audio thread.
+[2021.11.20-17.19.07:209][989]LogAudio: Display: Waited 65.974602 ms for audio thread.
+[2021.11.20-17.19.07:252][990]LogAudio: Display: Waited 35.741600 ms for audio thread.
+[2021.11.20-17.19.07:252][990]LogAudio: Display: Waited 35.861599 ms for audio thread.
+[2021.11.20-17.19.07:466][996]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:0 Char: Arquero_1_C Is: true
+[2021.11.20-17.19.07:466][996]LogBlueprintUserMessages: [Wid_Lobby_Menu_2_C_0] Index:1 Char: Arquero_3_C Is: true
+[2021.11.20-17.19.07:966][  5]LogAudio: Display: Waited 35.636398 ms for audio thread.
+[2021.11.20-17.19.07:982][  5]LogAudio: Display: Waited 51.588799 ms for audio thread.
+[2021.11.20-17.19.14:601][175]LogAudio: Display: Waited 46.303101 ms for audio thread.
+[2021.11.20-17.19.14:636][175]LogAudio: Display: Waited 80.814400 ms for audio thread.
+[2021.11.20-17.19.14:671][175]LogAudio: Display: Waited 116.672302 ms for audio thread.
+[2021.11.20-17.19.14:721][176]LogAudio: Display: Waited 43.580700 ms for audio thread.
+[2021.11.20-17.19.14:753][176]LogAudio: Display: Waited 75.848900 ms for audio thread.
+[2021.11.20-17.19.14:796][177]LogAudio: Display: Waited 35.715698 ms for audio thread.
+[2021.11.20-17.19.14:838][178]LogAudio: Display: Waited 36.480999 ms for audio thread.
+[2021.11.20-17.19.14:857][178]LogAudio: Display: Waited 56.065498 ms for audio thread.
+[2021.11.20-17.19.14:905][179]LogAudio: Display: Waited 36.093300 ms for audio thread.
+[2021.11.20-17.19.14:926][179]LogAudio: Display: Waited 58.378799 ms for audio thread.
+[2021.11.20-17.19.14:973][180]LogAudio: Display: Waited 35.565201 ms for audio thread.
+[2021.11.20-17.19.14:989][180]LogAudio: Display: Waited 51.458500 ms for audio thread.
+[2021.11.20-17.19.15:942][202]LogAudio: Display: Waited 35.964100 ms for audio thread.
+[2021.11.20-17.19.15:945][202]LogAudio: Display: Waited 39.693699 ms for audio thread.
+[2021.11.20-17.19.22:753][377]LogAudio: Display: Waited 35.837502 ms for audio thread.
+[2021.11.20-17.19.22:762][377]LogAudio: Display: Waited 44.337997 ms for audio thread.
+[2021.11.20-17.19.22:834][379]LogAudio: Display: Waited 35.609901 ms for audio thread.
+[2021.11.20-17.19.22:834][379]LogAudio: Display: Waited 35.730900 ms for audio thread.
+[2021.11.20-17.19.22:885][380]LogAudio: Display: Waited 38.011303 ms for audio thread.
+[2021.11.20-17.19.22:891][380]LogAudio: Display: Waited 43.569901 ms for audio thread.
+[2021.11.20-17.19.22:959][382]LogAudio: Display: Waited 35.129303 ms for audio thread.
+[2021.11.20-17.19.22:962][382]LogAudio: Display: Waited 38.272999 ms for audio thread.
+[2021.11.20-17.19.26:131][468]LogAudio: Display: Waited 37.736000 ms for audio thread.
+[2021.11.20-17.19.26:171][468]LogAudio: Display: Waited 77.695602 ms for audio thread.
+[2021.11.20-17.19.26:174][468]LogAudio: Display: Waited 81.086205 ms for audio thread.
+[2021.11.20-17.19.27:240][496]LogAudio: Display: Waited 35.650803 ms for audio thread.
+[2021.11.20-17.19.27:258][496]LogAudio: Display: Waited 54.150200 ms for audio thread.
+[2021.11.20-17.19.27:305][497]LogAudio: Display: Waited 36.363400 ms for audio thread.
+[2021.11.20-17.19.27:340][497]LogAudio: Display: Waited 71.705696 ms for audio thread.
+[2021.11.20-17.19.27:741][506]LogAudio: Display: Waited 35.387402 ms for audio thread.
+[2021.11.20-17.19.27:856][509]LogAudio: Display: Waited 35.940800 ms for audio thread.
+[2021.11.20-17.19.27:860][509]LogAudio: Display: Waited 40.154099 ms for audio thread.
+[2021.11.20-17.19.29:615][554]LogAudio: Display: Waited 37.104000 ms for audio thread.
+[2021.11.20-17.19.29:655][554]LogAudio: Display: Waited 76.694504 ms for audio thread.
+[2021.11.20-17.19.29:691][554]LogAudio: Display: Waited 113.028900 ms for audio thread.
+[2021.11.20-17.19.29:691][554]LogAudio: Display: Waited 113.438896 ms for audio thread.
+[2021.11.20-17.19.31:846][606]LogAudio: Display: Waited 44.104099 ms for audio thread.
+[2021.11.20-17.19.31:848][606]LogAudio: Display: Waited 46.011299 ms for audio thread.
+[2021.11.20-17.19.31:891][607]LogAudio: Display: Waited 37.706200 ms for audio thread.
+[2021.11.20-17.19.31:896][607]LogAudio: Display: Waited 42.083401 ms for audio thread.
+[2021.11.20-17.19.32:832][632]LogAudio: Display: Waited 35.894497 ms for audio thread.
+[2021.11.20-17.19.32:835][632]LogAudio: Display: Waited 39.073502 ms for audio thread.
+[2021.11.20-17.19.33:296][643]LogAudio: Display: Waited 35.383900 ms for audio thread.
+[2021.11.20-17.19.33:300][643]LogAudio: Display: Waited 39.510700 ms for audio thread.
+[2021.11.20-17.19.34:528][669]LogAudio: Display: Waited 35.091999 ms for audio thread.
+[2021.11.20-17.19.34:564][669]LogAudio: Display: Waited 71.070999 ms for audio thread.
+[2021.11.20-17.19.34:583][669]LogAudio: Display: Waited 90.339195 ms for audio thread.
+[2021.11.20-17.19.34:666][670]LogAudio: Display: Waited 39.888401 ms for audio thread.
+[2021.11.20-17.19.34:702][670]LogAudio: Display: Waited 75.171097 ms for audio thread.
+[2021.11.20-17.19.34:711][670]LogAudio: Display: Waited 84.330399 ms for audio thread.
+[2021.11.20-17.19.34:772][671]LogAudio: Display: Waited 43.682198 ms for audio thread.
+[2021.11.20-17.19.34:813][671]LogAudio: Display: Waited 85.336403 ms for audio thread.
+[2021.11.20-17.19.34:851][671]LogAudio: Display: Waited 122.378700 ms for audio thread.
+[2021.11.20-17.19.34:872][671]LogAudio: Display: Waited 143.473694 ms for audio thread.
+[2021.11.20-17.19.34:922][672]LogAudio: Display: Waited 38.290703 ms for audio thread.
+[2021.11.20-17.19.34:961][672]LogAudio: Display: Waited 78.309402 ms for audio thread.
+[2021.11.20-17.19.34:966][672]LogAudio: Display: Waited 83.758896 ms for audio thread.
+[2021.11.20-17.19.35:119][674]LogAudio: Display: Waited 56.045200 ms for audio thread.
+[2021.11.20-17.19.35:153][674]LogAudio: Display: Waited 90.148201 ms for audio thread.
+[2021.11.20-17.19.35:529][680]LogAudio: Display: Waited 38.173000 ms for audio thread.
+[2021.11.20-17.19.35:566][680]LogAudio: Display: Waited 75.113403 ms for audio thread.
+[2021.11.20-17.19.35:604][680]LogAudio: Display: Waited 113.179298 ms for audio thread.
+[2021.11.20-17.19.35:642][680]LogAudio: Display: Waited 150.369904 ms for audio thread.
+[2021.11.20-17.19.35:671][680]LogAudio: Display: Waited 180.588303 ms for audio thread.
+[2021.11.20-17.19.35:724][681]LogAudio: Display: Waited 38.768799 ms for audio thread.
+[2021.11.20-17.19.35:761][681]LogAudio: Display: Waited 75.907204 ms for audio thread.
+[2021.11.20-17.19.35:761][681]LogAudio: Display: Waited 76.337997 ms for audio thread.
+[2021.11.20-17.19.35:805][682]LogAudio: Display: Waited 38.283401 ms for audio thread.
+[2021.11.20-17.19.35:821][682]LogAudio: Display: Waited 54.679501 ms for audio thread.
+[2021.11.20-17.19.35:934][684]LogAudio: Display: Waited 35.972500 ms for audio thread.
+[2021.11.20-17.19.35:972][684]LogAudio: Display: Waited 73.456200 ms for audio thread.
+[2021.11.20-17.19.35:972][684]LogAudio: Display: Waited 73.977303 ms for audio thread.
+[2021.11.20-17.19.36:026][685]LogAudio: Display: Waited 41.553898 ms for audio thread.
+[2021.11.20-17.19.36:056][685]LogAudio: Display: Waited 72.118500 ms for audio thread.
+[2021.11.20-17.19.36:245][690]LogAudio: Display: Waited 38.227699 ms for audio thread.
+[2021.11.20-17.19.36:281][690]LogAudio: Display: Waited 74.028900 ms for audio thread.
+[2021.11.20-17.19.36:291][690]LogAudio: Display: Waited 84.625496 ms for audio thread.
+[2021.11.20-17.19.36:392][693]LogAudio: Display: Waited 35.718899 ms for audio thread.
+[2021.11.20-17.19.36:392][693]LogAudio: Display: Waited 35.982697 ms for audio thread.
+[2021.11.20-17.19.39:607][764]LogAudio: Display: Waited 44.696301 ms for audio thread.
+[2021.11.20-17.19.39:627][764]LogAudio: Display: Waited 64.322502 ms for audio thread.
+[2021.11.20-17.19.39:672][765]LogAudio: Display: Waited 35.336300 ms for audio thread.
+[2021.11.20-17.19.39:695][765]LogAudio: Display: Waited 58.611000 ms for audio thread.
+[2021.11.20-17.19.39:760][767]LogAudio: Display: Waited 40.933800 ms for audio thread.
+[2021.11.20-17.19.39:777][767]LogAudio: Display: Waited 57.588398 ms for audio thread.
+[2021.11.20-17.19.40:477][784]LogAudio: Display: Waited 36.010101 ms for audio thread.
+[2021.11.20-17.19.40:497][784]LogAudio: Display: Waited 56.015999 ms for audio thread.
+[2021.11.20-17.19.40:544][785]LogAudio: Display: Waited 37.610401 ms for audio thread.
+[2021.11.20-17.19.40:561][785]LogAudio: Display: Waited 55.039200 ms for audio thread.
+[2021.11.20-17.19.40:671][788]LogAudio: Display: Waited 36.130901 ms for audio thread.
+[2021.11.20-17.19.40:678][788]LogAudio: Display: Waited 43.888100 ms for audio thread.
+[2021.11.20-17.19.41:250][801]LogAudio: Display: Waited 40.822498 ms for audio thread.
+[2021.11.20-17.19.41:259][801]LogAudio: Display: Waited 49.461601 ms for audio thread.
+[2021.11.20-17.19.41:307][802]LogAudio: Display: Waited 37.471600 ms for audio thread.
+[2021.11.20-17.19.41:338][802]LogAudio: Display: Waited 67.951904 ms for audio thread.
+[2021.11.20-17.19.41:437][805]LogAudio: Display: Waited 40.979500 ms for audio thread.
+[2021.11.20-17.19.41:455][805]LogAudio: Display: Waited 59.214699 ms for audio thread.
+[2021.11.20-17.19.41:561][807]LogAudio: Display: Waited 54.036503 ms for audio thread.
+[2021.11.20-17.19.41:587][807]LogAudio: Display: Waited 79.470406 ms for audio thread.
+[2021.11.20-17.19.41:633][808]LogAudio: Display: Waited 38.462097 ms for audio thread.
+[2021.11.20-17.19.41:727][810]LogAudio: Display: Waited 39.304401 ms for audio thread.
+[2021.11.20-17.19.41:747][810]LogAudio: Display: Waited 59.074497 ms for audio thread.
+[2021.11.20-17.19.42:337][822]LogAudio: Display: Waited 37.518799 ms for audio thread.
+[2021.11.20-17.19.42:386][822]LogAudio: Display: Waited 86.262001 ms for audio thread.
+[2021.11.20-17.19.42:398][822]LogAudio: Display: Waited 97.755295 ms for audio thread.
+[2021.11.20-17.19.43:105][846]LogGameMode: ProcessServerTravel: /Game/Level/Battleflied
+[2021.11.20-17.19.43:122][846]LogWorld: SeamlessTravel to: /Game/Level/Battleflied
+[2021.11.20-17.19.43:128][846]LogWorld: BeginTearingDown for /Game/_Lobby/Level/Lobby
+[2021.11.20-17.19.43:137][846]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=false, bCleanupResources=true
+[2021.11.20-17.19.43:138][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-17.19.43:161][846]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.20-17.19.43:188][846]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.20-17.19.43:196][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.11.20-17.19.43:199][846]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.002 s
+[2021.11.20-17.19.43:199][846]LogAIModule: Creating AISystem for world Untitled
+[2021.11.20-17.19.43:200][846]LogWorld: Bringing World /Temp/Untitled_1.Untitled up for play (max tick rate 0) at 2021.11.20-11.19.43
+[2021.11.20-17.19.43:200][846]LogWorld: Bringing up level for play took: 0.000332
+[2021.11.20-17.19.43:201][846]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: BP_Lobby_PC_2_C_0
+[2021.11.20-17.19.43:202][846]LogNet: Verbose: NotifyLoadedWorld Begin
+[2021.11.20-17.19.43:202][846]LogNet: VeryVerbose: GetFunctionCallspace Server calling Server function: ServerNotifyLoadedWorld Local
+[2021.11.20-17.19.43:202][846]LogNet: Verbose: NotifyLoadedWorld End
+[2021.11.20-17.19.43:202][846]LogWorld: StartLoadingDestination to: /Game/Level/Battleflied
+[2021.11.20-17.19.43:506][856]LogStreaming: Error: Couldn't find file for package /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04 requested by async loading code. NameToLoad: /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_04
+[2021.11.20-17.19.43:754][864]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: Level /Temp/Untitled_1.Untitled:PersistentLevel NOT Supported.
+[2021.11.20-17.19.43:754][864]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: Level /Temp/Untitled_1.Untitled:PersistentLevel NOT Supported.
+[2021.11.20-17.19.43:808][866]LogNet: Server connection received: ActorChannelFailure [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.6:54734, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: BP_Lobby_PC_2_C_1, Owner: BP_Lobby_PC_2_C_1, UniqueId: NULL:LAPTOP-7SS8842A-35E26B564A2B624CCE2A71A06CE78492
+[2021.11.20-17.19.43:860][868]LogStreaming: Error: Couldn't find file for package /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01 requested by async loading code. NameToLoad: /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01
+[2021.11.20-17.19.43:862][868]LogStreaming: Error: Couldn't find file for package /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02 requested by async loading code. NameToLoad: /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_02
+[2021.11.20-17.19.43:863][868]LogStreaming: Error: Couldn't find file for package /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03 requested by async loading code. NameToLoad: /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_03
+[2021.11.20-17.19.46:236][944]LogMaterial: Display: Missing cached shader map for material M_Landscape_Battlefield, compiling. 
+[2021.11.20-17.19.46:447][945]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.11.20-17.19.46:448][945]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.11.20-17.19.46:449][945]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.11.20-17.19.47:884][980]LogBlueprint: Warning: FMemberReference::ResolveMember (IsLocalController) bSelfContext == true, but no scope supplied!
+[2021.11.20-17.19.47:884][980]LogBlueprint: Warning: FMemberReference::ResolveMember (Load_Info) bSelfContext == true, but no scope supplied!
+[2021.11.20-17.19.47:886][980]LogBlueprint: Warning: FMemberReference::ResolveMember (Pass_Player_Info) bSelfContext == true, but no scope supplied!
+[2021.11.20-17.19.47:886][980]LogBlueprint: Warning: FMemberReference::ResolveMember (Pass_Player_Info) bSelfContext == true, but no scope supplied!
+[2021.11.20-17.19.48:245][991]LogStreaming: Error: Couldn't find file for package /Game/Level/Blueprints/Items/Frost requested by async loading code. NameToLoad: /Game/Level/Blueprints/Items/Frost
+[2021.11.20-17.19.48:253][992]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2021.11.20-17.19.48:254][992]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.20-17.19.48:254][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-17.19.48:281][992]LogAudio: Display: Audio Device (ID: 1) registered with world 'Battleflied'.
+[2021.11.20-17.19.48:304][992]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.20-17.19.48:317][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.11.20-17.19.48:321][992]LogAIModule: Creating AISystem for world Battleflied
+[2021.11.20-17.19.48:322][992]LogLoad: Game class is 'BP_Gameplay_Gamemode_2_C'
+[2021.11.20-17.19.48:325][992]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.003 s
+[2021.11.20-17.19.48:329][992]LogMaterial: Warning: Material /Game/AdvancedVillagePack/Materials/M_Uber.M_Uber missing bUsedWithInstancedStaticMeshes=True! Default Material will be used in game.
+[2021.11.20-17.19.48:329][992]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2021.11.20-17.19.48:403][992]LogWorld: Bringing World /Game/Level/Battleflied.Battleflied up for play (max tick rate 0) at 2021.11.20-11.19.48
+[2021.11.20-17.19.48:416][992]LogWorld: Bringing up level for play took: 0.091042
+[2021.11.20-17.19.48:417][992]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: BP_Lobby_PC_2_C_0
+[2021.11.20-17.19.48:417][992]LogNet: Verbose: NotifyLoadedWorld Begin
+[2021.11.20-17.19.48:417][992]LogNet: VeryVerbose: GetFunctionCallspace Server calling Server function: ServerNotifyLoadedWorld Local
+[2021.11.20-17.19.48:417][992]LogNet: Verbose: NotifyLoadedWorld End
+[2021.11.20-17.19.48:417][992]LogWorld: ----SeamlessTravel finished in 5.29 seconds ------
+[2021.11.20-17.19.48:422][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.20-17.19.48:423][992]LogBlueprintUserMessages: [BP_Gameplay_PC_2_C_0] Arquero_3_C
+[2021.11.20-17.19.48:478][994]LogStaticMesh: Allocated 64x64x64 distance field atlas = 0.5Mb, with 1 objects containing 0.5Mb backing data
+[2021.11.20-17.19.48:737][996]LogBlueprintUserMessages: [BP_Gameplay_PC_2_C_0] Player: Player, Char: Arquero_3_C
+[2021.11.20-17.19.48:738][996]LogBlueprintUserMessages: [BP_Gameplay_Gamemode_2_C_0] Is_Valid
+[2021.11.20-17.20.01:497][313]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.20-17.20.02:321][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.20-17.20.02:824][316]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.20-17.20.03:323][316]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.20-17.20.03:825][316]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.20-17.20.04:326][316]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.20-17.20.04:831][316]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.20-17.20.05:326][316]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.20-17.20.05:826][316]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.20-17.20.06:344][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.20-17.20.06:345][316]LogBlueprintUserMessages: [BP_Gameplay_PC_2_C_1] Arquero_3_C
+[2021.11.20-17.20.06:345][316]LogScript: Warning: Attempted to access BP_Gameplay_Gamemode_2_C_0 via property K2Node_DynamicCast_AsBPI_Game_Play_GM_2, but BP_Gameplay_Gamemode_2_C_0 is pending kill
+	BP_Gameplay_PC_2_C /Game/Level/Battleflied.Battleflied:PersistentLevel.BP_Gameplay_PC_2_C_1
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:ExecuteUbergraph_BP_Gameplay_PC_2:0565
+[2021.11.20-17.20.06:345][316]LogScript: Warning: Script call stack:
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:ReceiveBeginPlay
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:ExecuteUbergraph_BP_Gameplay_PC_2
+
+[2021.11.20-17.20.06:345][316]LogGameMode: Warning: InitSeamlessTravelPlayer: Could not find a starting spot
+[2021.11.20-17.20.06:492][318]LogBlueprintUserMessages: [BP_Gameplay_PC_2_C_1] Player: Player, Char: Arquero_3_C
+[2021.11.20-17.20.06:493][318]LogScript: Warning: Accessed None trying to read property Game Play GM
+	BP_Gameplay_PC_2_C /Game/Level/Battleflied.Battleflied:PersistentLevel.BP_Gameplay_PC_2_C_1
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:ExecuteUbergraph_BP_Gameplay_PC_2:0316
+[2021.11.20-17.20.06:493][318]LogScript: Warning: Script call stack:
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:ExecuteUbergraph_BP_Gameplay_PC_2
+
+[2021.11.20-17.20.10:210][426]LogAudio: Display: Waited 37.546501 ms for audio thread.
+[2021.11.20-17.20.10:211][426]LogAudio: Display: Waited 38.882999 ms for audio thread.
+[2021.11.20-17.20.10:511][434]LogAudio: Display: Waited 36.961899 ms for audio thread.
+[2021.11.20-17.20.10:531][434]LogAudio: Display: Waited 57.187302 ms for audio thread.
+[2021.11.20-17.20.10:775][442]LogAudio: Display: Waited 36.659798 ms for audio thread.
+[2021.11.20-17.20.10:796][442]LogAudio: Display: Waited 57.608700 ms for audio thread.
+[2021.11.20-17.20.10:840][443]LogAudio: Display: Waited 35.627701 ms for audio thread.
+[2021.11.20-17.20.10:840][443]LogAudio: Display: Waited 35.863499 ms for audio thread.
