@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Proyecto_V3-6447.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Intermediate\Build\Win64\Proyecto_V3Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Intermediate\Build\Win64\UE4Editor\Development\Proyecto_V3\MyClass.cpp.obj"
+"C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Intermediate\Build\Win64\UE4Editor\Development\Proyecto_V3\Proyecto_V3.cpp.obj"
+"C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Intermediate\Build\Win64\UE4Editor\Development\Proyecto_V3\Default.rc2.res"
+/OUT:"C:\Users\amg05\Documents\GitHub\VideojuegosONLINE\Intermediate\Build\Win64\UE4Editor\Development\Proyecto_V3\UE4Editor-Proyecto_V3-6447.lib"
+/INCLUDE:IMPLEMENT_MODULE_Proyecto_V3

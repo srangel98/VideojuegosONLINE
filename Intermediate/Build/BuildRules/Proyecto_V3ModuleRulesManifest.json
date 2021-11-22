@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\amg05\\Documents\\GitHub\\VideojuegosONLINE\\Source\\Proyecto_V3\\Proyecto_V3.Build.cs",
+		"C:\\Users\\amg05\\Documents\\GitHub\\VideojuegosONLINE\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\amg05\\Documents\\GitHub\\VideojuegosONLINE\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\amg05\\Documents\\GitHub\\VideojuegosONLINE\\Source\\Proyecto_V3.Target.cs",
+		"C:\\Users\\amg05\\Documents\\GitHub\\VideojuegosONLINE\\Source\\Proyecto_V3Editor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
