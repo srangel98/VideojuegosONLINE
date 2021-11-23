@@ -818,3 +818,51 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.23-19.02.53:775][586]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/ThirdPersonCharacterC8E8B5884CF10ECEECFF3894500FC1AD.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2021.11.23-19.02.53:795][586]AssetCheck: New page: Asset Save: ThirdPersonCharacter
 [2021.11.23-19.02.53:795][586]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.23-19.03.19:559][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.11.23-19.03.19:567][823]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Main_Menu_Level2F6595484AF7B75EB9589EA14254CDD8.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/_Main/Level/Main_Menu_Level.umap'
+[2021.11.23-19.03.19:617][823]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2021.11.23-19.03.19:617][823]LogContentValidation: Display: Validating World /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level
+[2021.11.23-19.05.39:828][445]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.23-19.06.26:010][485]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.23-19.06.55:119][500]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.23-19.08.23:402][612]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds_Music/Bow_Cargar_Cue.Bow_Cargar_Cue
+[2021.11.23-19.08.25:218][668]LogSlate: Window 'Bow_Cargar_Cue' being destroyed
+[2021.11.23-19.08.30:309][865]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sounds_Music/Bow_lanzar.Bow_lanzar
+[2021.11.23-19.08.45:247][471]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/ThirdPersonCharacterD5E837F5449D27FE417F3E96F66C48E3.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.23-19.08.45:248][471]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset', retrying in .5s...
+[2021.11.23-19.08.45:750][471]LogFileManager: Error: Error deleting file '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'.
+[2021.11.23-19.08.45:750][471]LogSavePackage: Error: Error saving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.23-19.08.47:141][471]LogSlate: Window 'Message' being destroyed
+[2021.11.23-19.08.47:148][471]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' (ThirdPersonCharacter.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.11.23-19.08.47:205][471]EditorErrors: New page: Save Output
+[2021.11.23-19.08.47:205][471]EditorErrors: Warning: Error saving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.23-19.08.55:180][623]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/ThirdPersonCharacter1F35ED6B4795FD4E98FD99B67A54C838.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.23-19.08.55:218][623]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.23-19.08.55:219][623]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.23-19.09.12:887][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds_Music/Bow_Cargar_Cue" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Sounds_Music/Bow_Cargar_Cue.uasset" SILENT=true
+[2021.11.23-19.09.12:890][614]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Bow_Cargar_Cue5B113DC44259882002C23ABF5DC74BBD.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Sounds_Music/Bow_Cargar_Cue.uasset'
+[2021.11.23-19.09.12:906][614]AssetCheck: New page: Asset Save: Bow_Cargar_Cue
+[2021.11.23-19.09.12:906][614]LogContentValidation: Display: Validating SoundCue /Game/Sounds_Music/Bow_Cargar_Cue.Bow_Cargar_Cue
+[2021.11.23-19.09.24:758][292]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds_Music/Bow_lanzar_Cue.Bow_lanzar_Cue
+[2021.11.23-19.09.32:132][715]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.11.23-19.09.32:272][715]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.11.23-19.09.33:283][731]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/ThirdPersonCharacterBEBF880449125470A53A9091FEA218B0.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.23-19.09.33:311][731]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.23-19.09.33:311][731]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.23-19.09.47:417][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds_Music/Bow_lanzar_Cue" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Sounds_Music/Bow_lanzar_Cue.uasset" SILENT=true
+[2021.11.23-19.09.47:419][570]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Bow_lanzar_CueFE688CF8410F0976B314408D1C263894.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Sounds_Music/Bow_lanzar_Cue.uasset'
+[2021.11.23-19.09.47:432][570]AssetCheck: New page: Asset Save: Bow_lanzar_Cue
+[2021.11.23-19.09.47:432][570]LogContentValidation: Display: Validating SoundCue /Game/Sounds_Music/Bow_lanzar_Cue.Bow_lanzar_Cue
+[2021.11.23-19.09.53:878][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds_Music/Bow_lanzar_Cue" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Sounds_Music/Bow_lanzar_Cue.uasset" SILENT=true
+[2021.11.23-19.09.53:880][955]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Bow_lanzar_Cue7AB2C5C9490DE27DF1DA838C58CBC9DC.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Sounds_Music/Bow_lanzar_Cue.uasset'
+[2021.11.23-19.09.53:893][955]AssetCheck: New page: Asset Save: Bow_lanzar_Cue
+[2021.11.23-19.09.53:893][955]LogContentValidation: Display: Validating SoundCue /Game/Sounds_Music/Bow_lanzar_Cue.Bow_lanzar_Cue
+[2021.11.23-19.09.59:990][315]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds_Music/Bow_ArrowHit_Cue.Bow_ArrowHit_Cue
+[2021.11.23-19.10.08:496][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds_Music/Bow_ArrowHit_Cue" FILE="../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Sounds_Music/Bow_ArrowHit_Cue.uasset" SILENT=true
+[2021.11.23-19.10.08:499][812]LogSavePackage: Moving '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Saved/Bow_ArrowHit_CueDDC51C4544D5F9F931A1CC89DA1AEB4D.tmp' to '../../../../../../Users/amg05/Documents/GitHub/VideojuegosONLINE/Content/Sounds_Music/Bow_ArrowHit_Cue.uasset'
+[2021.11.23-19.10.08:513][812]AssetCheck: New page: Asset Save: Bow_ArrowHit_Cue
+[2021.11.23-19.10.08:513][812]LogContentValidation: Display: Validating SoundCue /Game/Sounds_Music/Bow_ArrowHit_Cue.Bow_ArrowHit_Cue
