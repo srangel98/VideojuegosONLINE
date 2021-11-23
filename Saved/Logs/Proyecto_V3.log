@@ -908,3 +908,157 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.23-21.05.03:413][530]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/Main_Character/Health/Wid_Health_Bar.Wid_Health_Bar
 [2021.11.23-21.05.03:414][530]LogContentValidation: Display: Validating Blueprint /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2
 [2021.11.23-21.05.03:414][530]LogContentValidation: Display: Validating World /Game/Level/Mansion.Mansion
+[2021.11.23-21.11.14:284][930]LogTemp: Repeating last play command: Standalone Game
+[2021.11.23-21.11.14:331][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.11.23-21.11.16:628][930]LogSlate: Window 'Save Content' being destroyed
+[2021.11.23-21.11.16:635][930]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2021.11.23-21.11.16:635][930]PIE: Warning: PIE failed because map save was canceled
+[2021.11.23-21.11.19:869][264]LogTemp: Repeating last play command: Standalone Game
+[2021.11.23-21.11.19:910][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.11.23-21.11.21:153][264]LogSlate: Window 'Save Content' being destroyed
+[2021.11.23-21.11.21:214][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.11.23-21.11.21:376][264]LogSavePackage: Moving '../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Saved/Mansion1CE178D9446E73752930AD94A05EF0FE.tmp' to '../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Content/Level/Mansion.umap'
+[2021.11.23-21.11.21:388][264]LogFileHelpers: Saving map 'Mansion' took 0.205
+[2021.11.23-21.11.21:416][265]AssetCheck: New page: Asset Save: Mansion
+[2021.11.23-21.11.21:416][265]LogContentValidation: Display: Validating World /Game/Level/Mansion.Mansion
+[2021.11.23-21.11.45:801][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.11.23-21.11.45:842][261]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level
+[2021.11.23-21.11.45:842][261]LightingResults: New page: Lighting Build
+[2021.11.23-21.11.45:842][261]LoadErrors: New page: Loading map: Main_Menu_Level.umap
+[2021.11.23-21.11.45:876][261]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-21.11.45:877][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-21.11.45:877][261]MapCheck: New page: Map Check
+[2021.11.23-21.11.45:877][261]LightingResults: New page: Lighting Build
+[2021.11.23-21.11.45:908][261]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-21.11.45:915][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.11.23-21.11.45:916][261]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2021.11.23-21.11.46:127][261]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.23-21.11.46:127][261]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.11.23-21.11.46:160][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.11.23-21.11.46:169][261]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.23-21.11.46:169][261]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2021.11.23-21.11.46:169][261]LogFileHelpers: Loading map 'Main_Menu_Level' took 0.327
+[2021.11.23-21.11.47:769][439]LogTemp: Repeating last play command: Standalone Game
+[2021.11.23-21.11.47:808][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.11.23-21.13.00:437][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.11.23-21.13.00:525][ 50]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Mansion.Mansion
+[2021.11.23-21.13.00:525][ 50]Cmd: MAP LOAD FILE="../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Content/Level/Mansion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.23-21.13.00:525][ 50]LightingResults: New page: Lighting Build
+[2021.11.23-21.13.00:525][ 50]LoadErrors: New page: Loading map: Mansion.umap
+[2021.11.23-21.13.00:525][ 50]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-21.13.00:526][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-21.13.00:526][ 50]MapCheck: New page: Map Check
+[2021.11.23-21.13.00:526][ 50]LightingResults: New page: Lighting Build
+[2021.11.23-21.13.00:556][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-21.13.00:561][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.11.23-21.13.00:561][ 50]LogAudio: Display: Audio Device (ID: 1) registered with world 'Mansion'.
+[2021.11.23-21.13.00:862][ 50]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.23-21.13.00:863][ 50]LogAIModule: Creating AISystem for world Mansion
+[2021.11.23-21.13.00:901][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.11.23-21.13.00:909][ 50]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.23-21.13.00:910][ 50]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2021.11.23-21.13.00:910][ 50]LogFileHelpers: Loading map 'Mansion' took 0.385
+[2021.11.23-21.13.09:365][555]LogEditorViewport: Clicking on Actor (LMB): Emitter (Pfx_FireCamp)
+[2021.11.23-21.13.17:429][ 32]LogEditorViewport: Clicking on Actor (LMB): Emitter (Pfx_FireCamp)
+[2021.11.23-21.13.17:936][ 62]LogEditorViewport: Clicking on Actor (LMB): Emitter (Pfx_FireCamp)
+[2021.11.23-21.13.20:712][224]LogEditorViewport: Clicking on Actor (LMB): Emitter (Pfx_FireCamp)
+[2021.11.23-21.13.21:098][246]LogEditorViewport: Clicking on Actor (LMB): Emitter (Pfx_FireCamp)
+[2021.11.23-21.13.21:455][267]LogEditorViewport: Clicking on Actor (LMB): Emitter (Pfx_FireCamp)
+[2021.11.23-21.13.23:564][390]LogEditorViewport: Clicking on Actor (LMB): Emitter (Pfx_FireCamp)
+[2021.11.23-21.13.25:631][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_29)
+[2021.11.23-21.13.28:724][675]LogEditorViewport: Clicking on Actor (LMB): Emitter (Pfx_FireCamp)
+[2021.11.23-21.14.07:075][949]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Mystic_Cue)
+[2021.11.23-21.14.36:408][682]BlueprintLog: New page: Compile BP_Gameplay_PC_2
+[2021.11.23-21.14.36:438][682]LogScript: Warning: Accessed None trying to read property CallFunc_Steam_GameInstance_Ref_Game_Instance
+	BP_Gameplay_PC_2_C /Engine/Transient.World_4:PersistentLevel.BP_Gameplay_PC_2_C_0
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:UserConstructionScript:00C2
+[2021.11.23-21.14.36:487][682]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.11.23-21.14.36:491][682]LogScript: Warning: Accessed None trying to read property CallFunc_Steam_GameInstance_Ref_Game_Instance
+	BP_Gameplay_PC_2_C /Engine/Transient.World_4:PersistentLevel.BP_Gameplay_PC_2_C_0
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:UserConstructionScript:00C2
+[2021.11.23-21.14.36:516][682]LogScript: Warning: Accessed None trying to read property CallFunc_Steam_GameInstance_Ref_Game_Instance
+	BP_Gameplay_PC_2_C /Engine/Transient.World_4:PersistentLevel.BP_Gameplay_PC_2_C_0
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:UserConstructionScript:00C2
+[2021.11.23-21.14.40:412][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.11.23-21.14.41:518][897]LogSlate: Window 'Save Content' being destroyed
+[2021.11.23-21.14.41:609][897]LogSavePackage: Moving '../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Saved/BP_Gameplay_PC_2B8D4B02C4DCE6B7D2F7FE4AFDB1943D7.tmp' to '../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Content/_Main/Main_2/BP_Gameplay_PC_2.uasset'
+[2021.11.23-21.14.41:642][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.11.23-21.14.41:798][897]LogSavePackage: Moving '../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Saved/MansionE72070BF4532CF9D3B272B8532906573.tmp' to '../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Content/Level/Mansion.umap'
+[2021.11.23-21.14.41:809][897]LogFileHelpers: Saving map 'Mansion' took 0.199
+[2021.11.23-21.14.41:850][897]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Main/Level/Main_Menu_Level.Main_Menu_Level
+[2021.11.23-21.14.41:850][897]LightingResults: New page: Lighting Build
+[2021.11.23-21.14.41:850][897]LoadErrors: New page: Loading map: Main_Menu_Level.umap
+[2021.11.23-21.14.41:855][897]LogWorld: UWorld::CleanupWorld for Mansion, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-21.14.41:855][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-21.14.41:855][897]MapCheck: New page: Map Check
+[2021.11.23-21.14.41:855][897]LightingResults: New page: Lighting Build
+[2021.11.23-21.14.41:885][897]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-21.14.41:892][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.11.23-21.14.41:893][897]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2021.11.23-21.14.42:108][897]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.23-21.14.42:108][897]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2021.11.23-21.14.42:141][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.11.23-21.14.42:149][897]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.23-21.14.42:150][897]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2021.11.23-21.14.42:150][897]LogFileHelpers: Loading map 'Main_Menu_Level' took 0.300
+[2021.11.23-21.14.42:171][897]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-21.14.42:171][897]LogContentValidation: Display: Validating Blueprint /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2
+[2021.11.23-21.14.42:171][897]LogContentValidation: Display: Validating World /Game/Level/Mansion.Mansion
+[2021.11.23-21.14.54:809][644]BlueprintLog: New page: Compile Wid_Health_Bar
+[2021.11.23-21.14.54:847][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.11.23-21.14.56:055][712]LogTemp: Repeating last play command: Standalone Game
+[2021.11.23-21.14.56:095][712]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.11.23-21.14.57:362][712]LogSlate: Window 'Save Content' being destroyed
+[2021.11.23-21.14.57:403][712]LogSavePackage: Moving '../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Saved/Wid_Health_BarB4E298A149E20384990A179E849E93FE.tmp' to '../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Content/Level/Main_Character/Health/Wid_Health_Bar.uasset'
+[2021.11.23-21.14.57:439][713]AssetCheck: New page: Asset Save: Wid_Health_Bar
+[2021.11.23-21.14.57:439][713]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/Main_Character/Health/Wid_Health_Bar.Wid_Health_Bar
+[2021.11.23-21.18.08:166][375]LogEditorTransaction: Undo Move Node
+[2021.11.23-21.18.08:168][375]LogScript: Warning: Accessed None trying to read property CallFunc_Steam_GameInstance_Ref_Game_Instance
+	BP_Gameplay_PC_2_C /Engine/Transient.World_4:PersistentLevel.BP_Gameplay_PC_2_C_0
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:UserConstructionScript:00C2
+[2021.11.23-21.18.08:527][383]LogEditorTransaction: Undo Create Reroute Node
+[2021.11.23-21.18.08:528][383]LogScript: Warning: Accessed None trying to read property CallFunc_Steam_GameInstance_Ref_Game_Instance
+	BP_Gameplay_PC_2_C /Engine/Transient.World_4:PersistentLevel.BP_Gameplay_PC_2_C_0
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:UserConstructionScript:00C2
+[2021.11.23-21.18.09:156][414]LogEditorTransaction: Undo Create Reroute Node
+[2021.11.23-21.18.09:158][414]LogScript: Warning: Accessed None trying to read property CallFunc_Steam_GameInstance_Ref_Game_Instance
+	BP_Gameplay_PC_2_C /Engine/Transient.World_4:PersistentLevel.BP_Gameplay_PC_2_C_0
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:UserConstructionScript:00C2
+[2021.11.23-21.18.09:736][445]LogEditorTransaction: Undo Move Node
+[2021.11.23-21.18.09:738][445]LogScript: Warning: Accessed None trying to read property CallFunc_Steam_GameInstance_Ref_Game_Instance
+	BP_Gameplay_PC_2_C /Engine/Transient.World_4:PersistentLevel.BP_Gameplay_PC_2_C_0
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:UserConstructionScript:00C2
+[2021.11.23-21.18.11:836][566]BlueprintLog: New page: Compile BP_Gameplay_PC_2
+[2021.11.23-21.18.11:865][566]LogScript: Warning: Accessed None trying to read property CallFunc_Steam_GameInstance_Ref_Game_Instance
+	BP_Gameplay_PC_2_C /Engine/Transient.World_4:PersistentLevel.BP_Gameplay_PC_2_C_0
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:UserConstructionScript:00C2
+[2021.11.23-21.18.11:916][566]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.11.23-21.18.11:919][566]LogScript: Warning: Accessed None trying to read property CallFunc_Steam_GameInstance_Ref_Game_Instance
+	BP_Gameplay_PC_2_C /Engine/Transient.World_4:PersistentLevel.BP_Gameplay_PC_2_C_0
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:UserConstructionScript:00C2
+[2021.11.23-21.18.11:954][566]LogScript: Warning: Accessed None trying to read property CallFunc_Steam_GameInstance_Ref_Game_Instance
+	BP_Gameplay_PC_2_C /Engine/Transient.World_4:PersistentLevel.BP_Gameplay_PC_2_C_0
+	Function /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2_C:UserConstructionScript:00C2
+[2021.11.23-21.18.16:906][854]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/_Main/Save_Game.Save_Game_C:Player_Info'. Unknown structure.
+[2021.11.23-21.18.16:906][854]LogClass: Warning: Property Player_Info of Player_Info has a struct type mismatch (tag STRUCT_REINST_S_Players_Info_0 != prop FallbackStruct) in package:  ../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Content/_Main/Save_Game.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.23-21.18.17:078][854]LogClass: Warning: Property Player_Info of Player_Info has a struct type mismatch (tag FallbackStruct != prop S_Players_Info) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.23-21.18.17:188][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/_Lobby/BP_Lobby_GameMode.BP_Lobby_GameMode
+[2021.11.23-21.18.21:025][ 54]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-21.18.21:025][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-21.18.26:277][354]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Lobby_2/BP_Lobby_GameMode_2.BP_Lobby_GameMode_2
+[2021.11.23-21.18.59:963][332]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/BP_GameIntance.BP_GameIntance
+[2021.11.23-21.19.06:427][697]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-21.19.06:427][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-21.19.37:315][522]BlueprintLog: New page: Compile BP_Lobby_GameMode_2
+[2021.11.23-21.19.37:406][522]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.11.23-21.20.08:021][325]BlueprintLog: New page: Compile BP_Lobby_GameMode_2
+[2021.11.23-21.20.08:105][325]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.11.23-21.20.13:249][623]LogTemp: Repeating last play command: Standalone Game
+[2021.11.23-21.20.13:293][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.11.23-21.20.14:619][623]LogSlate: Window 'Save Content' being destroyed
+[2021.11.23-21.20.14:698][623]LogSavePackage: Moving '../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Saved/BP_Gameplay_PC_24B5AE1254223D99EAF8F64B1FEE1EC7A.tmp' to '../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Content/_Main/Main_2/BP_Gameplay_PC_2.uasset'
+[2021.11.23-21.20.14:747][623]LogSavePackage: Moving '../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Saved/BP_Lobby_GameMode_24CF8ED6D4CB5FFD45D675697213A0B01.tmp' to '../../../../../../Users/dan_l/Leo/fcfm/8vo/VideojuegosEnLinea/Proyecto/Proyecto (REpositorio)/VideojuegosONLINE/Content/_Main/Lobby_2/BP_Lobby_GameMode_2.uasset'
+[2021.11.23-21.20.14:779][624]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-21.20.14:779][624]LogContentValidation: Display: Validating Blueprint /Game/_Main/Main_2/BP_Gameplay_PC_2.BP_Gameplay_PC_2
+[2021.11.23-21.20.14:779][624]LogContentValidation: Display: Validating Blueprint /Game/_Main/Lobby_2/BP_Lobby_GameMode_2.BP_Lobby_GameMode_2
+[2021.11.23-21.21.36:215][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
